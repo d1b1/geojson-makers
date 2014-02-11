@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "id": 0, "properties": { "Name": "South End Cheese Company" }, "geometry": { "type": "Point", "coordinates": [ -87.702255634983288, 41.921100030961476 ] } }
+{ "type": "Feature", "id": 0, "properties": { "Name": "South End Cheese Company", "Owner": "Rocco Lewis Smith" }, "geometry": { "type": "Point", "coordinates": [ -87.702255634983288, 41.921100030961476 ] } }
 ,
 { "type": "Feature", "id": 1, "properties": { "Name": "West Hollywood Creamery" }, "geometry": { "type": "Point", "coordinates": [ -87.755992990725872, 41.920457924690353 ] } }
 ,
