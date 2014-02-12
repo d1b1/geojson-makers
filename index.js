@@ -7,6 +7,9 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
 
   _.each(data.body.results, function(maker) {
   	if (maker.location.lat && maker.location.lng) {
+
+  	  var img = img ? '<img src="' + maker.logourl || '' + '">' : ''
+
   	  var d = { 
   	  	"type": "Feature", 
   	    "id": maker._id.toString(), 
@@ -14,8 +17,7 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
   	    	"Name": maker.name || 'NA', 
   	    	"Country": maker.country || '',
   	    	"State": maker.state || '',
-  	    	"DESCRIPTIO": '<b>' + (maker.name || 'NA') + '</b><br><a href="http://api.formagg.io/maker/' + maker._id + '">more</a>',
-  	    	"Image": maker.logourl || ''
+  	    	"DESCRIPTIO": img + '<br><b>' + (maker.name || 'NA') + '</b><br><a href="http://api.formagg.io/maker/' + maker._id + '">more</a>',
   	    }, 
   	    "geometry": { 
   	    	"type": "Point", 
