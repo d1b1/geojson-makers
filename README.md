@@ -3,5 +3,4 @@ geojson-makers
 
 Geojson Sample Maps
 
-<script src="https://embed.github.com/view/geojson/formagg1o/geojson-makers/master/Ireland.geojson">
-</script>
+<iframe height="420" width="620" frameborder="0" src="https://render.github.com/view/geojson?url=https://raw.github.com/formagg1o/geojson-makers/master/geojson/Ireland.geojson"></iframe>
