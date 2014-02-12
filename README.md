@@ -3,4 +3,5 @@ geojson-makers
 
 Geojson Sample Maps
 
-<iframe height="420" width="620" frameborder="0" src="https://render.github.com/view/geojson?url=https://raw.github.com/formagg1o/geojson-makers/master/geojson/Ireland.geojson"></iframe>
+[Canada](https://github.com/formagg1o/geojson-makers/blob/master/Canada.geojson)
+[Ireland](https://github.com/formagg1o/geojson-makers/blob/master/Ireland.geojson)
