@@ -10,17 +10,17 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
 
   	  var img = img ? '<img src="' + maker.logourl || '' + '">' : ''
 
+      console.log('ddd', img)
   	  var d = { 
   	  	"type": "Feature", 
   	    "id": maker._id.toString(), 
-  	    "properties": { 
+  	    "properties": {
   	    	"marker-symbol": "warehouse",
-  	    	"marker-size": "medium",
-  	    	"Name": maker.name || 'NA', 
-  	    	"description": maker.name || '',
-  	    	"Country": maker.country || '',
-  	    	"State": maker.state || '',
-  	    	"DESCRIPTIO": img + '<br><b>' + (maker.name || 'NA') + '</b><br><a href="http://api.formagg.io/maker/' + maker._id + '">more</a>',
+  	    	"marker-size": "small",
+  	    	"stroke-width": 1,
+  	    	"Maker": maker.name || 'NA',
+  	    	"Where": (maker.country || '') + ' ' + (maker.state || ''),
+  	    	"Info": img + '<br><b>' + (maker.name || 'NA') + '</b><br><a href="http://api.formagg.io/maker/' + maker._id + '" target="_blank">more</a>',
   	    }, 
   	    "geometry": { 
   	    	"type": "Point", 
@@ -42,6 +42,6 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
 	    }
 	  })
 
-  console.log(geojson)
+  //console.log(geojson)
 })
 
