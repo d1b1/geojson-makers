@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000bb",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Highland Fine Cheeses Limited",
+                "Where": "Scotland ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/afae68a9e7dd92568d90080393fcdae9\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000bb\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0598774,
+                    57.816089
+                ]
+            }
+        }
+    ]
+}

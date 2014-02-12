@@ -1,0 +1,62 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000000c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Käsküche Isny GmbH",
+                "Where": "Germany Bavaria",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000000c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0406743,
+                    47.68268579999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175a5418eace50200000018",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Kaserei Champignon",
+                "Where": "Germany ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/626e785124059471139573ad801bb5a3\"><br><a href=\"http://api.formagg.io/maker/5175a5418eace50200000018\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32275,
+                    47.77686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000004",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bergader Privatkäserei GmbH",
+                "Where": "Germany ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/e20f06251ed468e7889e02803b201c4e\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000004\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73227,
+                    47.9347
+                ]
+            }
+        }
+    ]
+}

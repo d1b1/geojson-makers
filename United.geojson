@@ -1,0 +1,4242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000003f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "von Trapp Farmstead",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/8b62237ca3ff168c480306abf9ab2a9d\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000003f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.82483789999999,
+                    44.1900592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51e036df61d128020000000d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "http://crowsdairy.com/",
+                "Where": "United States Arizona",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/9b1aa6f24f0f254d84d7d95fd080f625\"><br><a href=\"http://api.formagg.io/maker/51e036df61d128020000000d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.521877,
+                    33.343721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000059",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Zingerman's Creamery",
+                "Where": "United States Michigan",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/ff2d2e4d33f0008f7025c1a0bcdc57c8\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000059\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7481356,
+                    42.232553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Zingerman's Creamery",
+                "Where": "United States Michigan",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/a49106fe14d13af2219e3a18904c125f\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7481356,
+                    42.232553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d15542b7689a0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "York Hill Farm",
+                "Where": "United States Maine",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1c6086763cece5e4a79a80fdff912806\"><br><a href=\"http://api.formagg.io/maker/51d15542b7689a0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.98884919999999,
+                    44.60049919999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517a735a943f310200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Yellow Springs Farm",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/84d6c802d7be52964d6d588c7c33ed4a\"><br><a href=\"http://api.formagg.io/maker/517a735a943f310200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.59898749999999,
+                    40.0818176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515c222c7158ec0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Yellow Branch Farmstead Cheese",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b807a5408dbb8f2b47bca6fa6d8d5be6\"><br><a href=\"http://api.formagg.io/maker/515c222c7158ec0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.718988,
+                    35.42443799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000152",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Winchester Cheese Company Co.",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000152\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1220997,
+                    33.6706178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000035",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Willow Hill Farm, LLC",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/aad64ed9e7508800c36fe6d067ce8609\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000035\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0839876,
+                    44.61481149999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5176833d943fbd0200000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Willamette Valley Cheese",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/e0aa65af3b84865b85f9267854987b46\"><br><a href=\"http://api.formagg.io/maker/5176833d943fbd0200000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.083941,
+                    45.054088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000003d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Westfield Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000003d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.00137769999999,
+                    42.4695818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000002a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "West River Creamery",
+                "Where": "United States Vermont",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df23b7160b2000000002a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7688226,
+                    43.2263478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51577b985f2528020000001e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Weirauch Farm & Creamery",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51577b985f2528020000001e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6366524,
+                    38.232417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000005",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Washington State University Creamery",
+                "Where": "United States Washington",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000005\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1542743,
+                    46.7287207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000036",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Vermont Farmstead Cheese Co.",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c778a910e58d259afd0e2b3739e4d354\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000036\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5259152,
+                    43.617856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d9",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Vella Cheese Company",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000d9\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45424,
+                    38.295125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513be3ddddb8e1e3db000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Valley View Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/513be3ddddb8e1e3db000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.931129,
+                    42.61719799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d8721f059afc0200000015",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Valley Side Farm Cheese",
+                "Where": "United States South Dakota",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/70cc5016671e37eecbe200e717f0364a\"><br><a href=\"http://api.formagg.io/maker/51d8721f059afc0200000015\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8207997,
+                    43.7031133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000034",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Valley Shepherd Creamery",
+                "Where": "United States New Jersey",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000034\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.77351039999999,
+                    40.7764842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51579a6b72bf750200000013",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Valley Ford Cheese Company",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0e6b36dd25204ef38b99402d24a4043d\"><br><a href=\"http://api.formagg.io/maker/51579a6b72bf750200000013\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9240202,
+                    38.3178763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000009b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Uplands Cheese Company",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/9bd978548574774d2ef8b4ceff17a655\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000009b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1301237,
+                    42.96027429999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517aea14dbcec60200000020",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Udderly Cool Dairy",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/a1975f3dc51b6573e328bc61084ce4e6\"><br><a href=\"http://api.formagg.io/maker/517aea14dbcec60200000020\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.14195099999999,
+                    33.457241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d832bf059afc0200000014",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Udder View Farm",
+                "Where": "United States Maine",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c9994b5dbdb7d67238026c24aac9476b\"><br><a href=\"http://api.formagg.io/maker/51d832bf059afc0200000014\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.82347159999999,
+                    44.6346081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000085",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Twig Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2aec0f8a97f672dd50caf96d9b8b087a\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000085\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.232052,
+                    43.906992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000010f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Tumalo Farms",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b20349f8e5ed5b342e0e2271c4ea4a9e\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000010f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.3636131,
+                    44.1422781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000041",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Treveador Farm Dairy",
+                "Where": "United States Cornwall",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000041\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2691686,
+                    50.0896324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000008e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Traders Point Creamery",
+                "Where": "United States Indiana",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/5feeb601349bf05975dfc22062e8d557\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000008e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2882217,
+                    39.9170718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51579b3472bf750200000016",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Tomales Farmstead Creamery",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51579b3472bf750200000016\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.936448,
+                    38.26427100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000004a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Tillamook Cheese",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/22cc096b9fcf01e0b34a20cb5f88983d\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000004a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.842151,
+                    45.483814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515f316aece1240200000015",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Tieton Farm & Creamery",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/13cdfbe484e263814d90531080fb3aee\"><br><a href=\"http://api.formagg.io/maker/515f316aece1240200000015\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.739225,
+                    46.690155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c88b447581010200000035",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Swiss Connection",
+                "Where": "United States Indiana",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c88b447581010200000035\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.084437,
+                    39.307526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000068",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Shepherd’s Gate",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000068\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.17049899999999,
+                    42.033641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed28677d93490200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Sandwich Creamery",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0a4657ff76896a06dc9bcc44a022a91a\"><br><a href=\"http://api.formagg.io/maker/51ed28677d93490200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4030047,
+                    43.8605463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000137",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Mozzarella Company",
+                "Where": "United States Texas",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6dffe110f1474780b00b8150e96f48d5\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000137\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.780892,
+                    32.78492900000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51713cf83efb4c020000000a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Grey Barn and Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51713cf83efb4c020000000a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67941499999999,
+                    41.37418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c4",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Gould Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/8b442aa21d13b1f2e3abcf5ecba100f0\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c4\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2342206,
+                    42.167071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000013",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Taylor Brothers Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7b9ab14916b7d0170afffcfe167ecaec\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000013\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2627439,
+                    43.5490843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000041",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Sweet Grass Dairy",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7344817296a78b276ffa7f547bc56bda\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000041\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.984022,
+                    30.905884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51579c1472bf750200000017",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Straus Family Creamery",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c6d77da18d23ced7e752a66c2f4b8f35\"><br><a href=\"http://api.formagg.io/maker/51579c1472bf750200000017\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.664263,
+                    38.263714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000fe",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Sprout Creek Farm",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/cf7a5206f0bd1112c4848d37d874b5e3\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000fe\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.81802499999999,
+                    41.652617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51579cf972bf750200000018",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Spring Hill Cheese Company",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c4fd0c29af81225b79713fadf86c2306\"><br><a href=\"http://api.formagg.io/maker/51579cf972bf750200000018\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6470228,
+                    38.2318331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000045",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Southwind Farmstead Cheese",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/aff7715ff4fcec4075ac90f376af4982\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000045\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.187518,
+                    43.3710848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517029fc9707150200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Smiths Country Cheese",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/517029fc9707150200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.0573869,
+                    42.618166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d8105d059afc0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Sleepy Goat Farm",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b7c32ef9092891165fe31e1146782394\"><br><a href=\"http://api.formagg.io/maker/51d8105d059afc0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.41077,
+                    36.458687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515b1b62e975cd0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Simmons Farm Organics",
+                "Where": "United States Rhode Island",
+                "Summary": "<a href=\"http://api.formagg.io/maker/515b1b62e975cd0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.291883,
+                    41.551324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000002c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Silvery Moon Creamery",
+                "Where": "United States Maine",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/3e46edf778e50d0e921cb334a6382b20\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000002c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.3730989,
+                    43.6483256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000df",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Shy Brothers Farm",
+                "Where": "United States Massachussets",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/95040fb0c72d283fe6bec45ab4be1c76\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000df\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.09395169999999,
+                    41.55329390000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51797ce46e61840200000010",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Shepherds Manor Creamery",
+                "Where": "United States Maryland",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0ca10f4b4d8d010c6870c00f910882d7\"><br><a href=\"http://api.formagg.io/maker/51797ce46e61840200000010\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.09684399999999,
+                    39.5390299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000066",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Shepherds Dairy Products",
+                "Where": "United States Utah",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000066\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.2871078,
+                    40.6178462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000107",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Shepherd's Way Farms",
+                "Where": "United States Minnesota",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/70f3a8cf396e68ec8badda8c02cf7dbb\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000107\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.12834500000001,
+                    44.357762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000113",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Shelburne Farms",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"https://nodeloader.s3.amazonaws.com/scratch/5e685e3a4b2c48468843e5f40bc2c50a\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000113\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.24712099999999,
+                    44.395466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c5",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Sequatchie Cove Creamery",
+                "Where": "United States Tennessee",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/32a90fc4fc0b8189d0c4825c1ed245ff\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c5\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.605619,
+                    35.150555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517a7a7e943f31020000001e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "September Farm",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/81168d21cb847c7b6849d1211d79b7aa\"><br><a href=\"http://api.formagg.io/maker/517a7a7e943f31020000001e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.931685,
+                    40.093773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000027",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Seal Cove Farm",
+                "Where": "United States Maine",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df23b7160b20000000027\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.307862,
+                    44.4904189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000047",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Scholten Family Farm",
+                "Where": "United States Vermont",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000047\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.18821,
+                    44.021461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d877e7059afc0200000020",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Santori Cheese",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6515719b9fd5dc31b7fbcee1ded73535\"><br><a href=\"http://api.formagg.io/maker/51d877e7059afc0200000020\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9505439,
+                    43.748814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000060",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Sally Jackson Cheeses",
+                "Where": "United States Washington",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000060\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0363658,
+                    38.8951118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000006",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Sage Farm Goat Dairy",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/892de2f12e0f9a3452417a54ac876984\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000006\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.685806,
+                    44.49877499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51531cbddf83e20200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ruggles Hill Creamery",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51531cbddf83e20200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1728443,
+                    42.3615964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000050",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Rogue Creamery",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6b0c1d6040af6bea0a1b714e313c958c\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000050\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.920857,
+                    42.376383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000b5",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Robinson Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000b5\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1893013,
+                    42.3654438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed3f6d7d9349020000002c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Robie Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/d2c05e8a8459b01146c485d8e3516b78\"><br><a href=\"http://api.formagg.io/maker/51ed3f6d7d9349020000002c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1108868,
+                    43.9780783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515f2e43ece1240200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Rivers Edge Chèvre",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/3364546f348f9be3cd5606a95e8303fe\"><br><a href=\"http://api.formagg.io/maker/515f2e43ece1240200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.8083592,
+                    44.7335761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51752fae8eace50200000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Rinconada Dairy",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/05a77935f6fb89382ab1139daa731612\"><br><a href=\"http://api.formagg.io/maker/51752fae8eace50200000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.495658,
+                    35.307414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515b1cace975cd0200000003",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Rhody Fresh",
+                "Where": "United States Rhode Island",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/4a1e48fd65fd9043dabf643c1f0b4169\"><br><a href=\"http://api.formagg.io/maker/515b1cace975cd0200000003\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.212659,
+                    41.626824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000106",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Redwood Hill Farm & Creamery",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2ed6594ab2255bae13f187098e3fa418\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000106\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8481248,
+                    38.4250913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5157a16472bf750200000021",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ramini Mozzarella",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5157a16472bf750200000021\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8896121,
+                    38.2784852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5178a47630c1b2020000002b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Rainbeau Ridge",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2a91ef7e0fb6b15e9ea152d18fbb062c\"><br><a href=\"http://api.formagg.io/maker/5178a47630c1b2020000002b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.669369,
+                    41.232571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51752ec18eace50200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Pug's Leap Farm",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51752ec18eace50200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.880853,
+                    38.32330899999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000010b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Prairie Fruits Farm and Creamery",
+                "Where": "United States Illinois",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/8121a3bb4c4aa0afa6d4de4dddc88315\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000010b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.209689,
+                    40.162162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000145",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Point Reyes Farmstead Cheese Co.",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2c2045fd81cbb9331cc8fc59f416dcf9\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000145\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8069356,
+                    38.0690894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000049",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Plymouth Artisan Cheese",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b2dcf478ceb9349a69f424d4e0570312\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000049\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.723579,
+                    43.536358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d9f03cf566160200000008",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Pineland Farm",
+                "Where": "United States Maine",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/4b5c7c4c1ce1918a4d9ec28d20c9b72e\"><br><a href=\"http://api.formagg.io/maker/51d9f03cf566160200000008\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.25950630000001,
+                    43.90361120000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ff",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Pholia Farm",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/f8531ef0c0944d5717212a7bc8e69095\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ff\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1913833,
+                    42.5496095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000028",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Peaked Mountain Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7d9b056ff2d32c485993242cbf3a1712\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000028\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.644116,
+                    43.055793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5178a32e30c1b20200000027",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Pampered Cow Creamery at Twin Maple Farm",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/19bfe88a17b93819f77323100ab8e11b\"><br><a href=\"http://api.formagg.io/maker/5178a32e30c1b20200000027\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.608277,
+                    42.282883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d81ff7059afc0200000009",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Orland Farm",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6445e34eb55d4b55fc624ac51c3db3cd\"><br><a href=\"http://api.formagg.io/maker/51d81ff7059afc0200000009\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.188787,
+                    39.773905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000001f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Orb Weaver Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/8a54bcea20155b40fa06a113d38ec32a\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000001f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.175819,
+                    44.1764719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000056",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Old Chatham Sheepherding Company",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/ee2ff1d0146293bf9a30ec9038846d03\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000056\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.58439059999999,
+                    42.4450711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000015",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Northland Sheep Dairy",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/8ab701bfd462f5b01d925322a0790ef4\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000015\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.04437,
+                    42.52581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000076",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Noble Springs Dairy",
+                "Where": "United States Tennessee",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/126dcb8e297151ecf919a0a64c8bae99\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000076\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.93254700000001,
+                    35.904186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517535a18eace50200000011",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Nicolau Farms",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1c35f2d4f304834ccd825186ba1a7c97\"><br><a href=\"http://api.formagg.io/maker/517535a18eace50200000011\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.035872,
+                    37.574165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515847a86262770200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Nicasio Valley Cheese Company",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/e821ba681341fa2e8d30f721948427c4\"><br><a href=\"http://api.formagg.io/maker/515847a86262770200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.702091,
+                    38.0657473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000010",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Nettle Meadow Goat Farm",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/debe53ee0f7ffda24ba303ecf1c714e9\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000010\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92170399999999,
+                    43.544474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517af0b7dbcec60200000048",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Nature's Harmony Farm",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1086eb2a1f3f53c08d128bfc0be51568\"><br><a href=\"http://api.formagg.io/maker/517af0b7dbcec60200000048\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.77223099999999,
+                    34.0448068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000091",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Narragansett Creamery",
+                "Where": "United States Rhode Island",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7fbc7da1c09a2c249e946a09fcb668cd\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000091\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.45347579999999,
+                    41.8243343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517200ef97f5530200000021",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "My Test Cheese Maker",
+                "Where": "United States ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/41bdb3367ce37078cfce410d687b7f9e\"><br><a href=\"http://api.formagg.io/maker/517200ef97f5530200000021\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.712891,
+                    37.09024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000102",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Mt Townsend Creamery",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/cac69858e5e208d49db8fc2c6c1fe06e\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000102\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.793211,
+                    48.102677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000006e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Mt Sterling Cheese Coop",
+                "Where": "United States Wisconsin",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000006e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.9276252,
+                    43.3154194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517141133efb4c020000000f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Mozzarella House",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/517141133efb4c020000000f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0571958,
+                    42.4044982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5159c81f77f7180200000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Mountain View Farm Products LLC",
+                "Where": "United States Virginia",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5159c81f77f7180200000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.28562649999999,
+                    37.8991619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000006a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Mouco Cheese Company Inc.",
+                "Where": "United States Colorado",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2c601b9aaca792b5e40286cf471ef50f\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.051271,
+                    40.589236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51535ec8df83e20200000003",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Monteillet Fromagerie",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/bd5e261c509ea4543fec46805c932e4d\"><br><a href=\"http://api.formagg.io/maker/51535ec8df83e20200000003\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.0151756,
+                    46.30190229999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5171402b3efb4c020000000d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Mermaid Farm and Dairy",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5171402b3efb4c020000000d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.69218599999999,
+                    41.380325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d95feff566160200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Meister Cheese Company",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/d5ea5eebdcbf1c82fdcb3caf70e2981e\"><br><a href=\"http://api.formagg.io/maker/51d95feff566160200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.41611429999999,
+                    43.1851216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5208f6f2fb183c0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Meadowood Farms",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0f61c0573e56b59e6ba2c36e2eb9f60f\"><br><a href=\"http://api.formagg.io/maker/5208f6f2fb183c0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8604295,
+                    42.9734288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000057",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Meadow Creek Dairy",
+                "Where": "United States Virginia",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000057\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9455309,
+                    36.5729915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175a1a28eace50200000015",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Massachusetts Cheese Guild",
+                "Where": "United States Massachusetts",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/db502c215e9ce178ff1446b19793e157\"><br><a href=\"http://api.formagg.io/maker/5175a1a28eace50200000015\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3824374,
+                    42.4072107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c2",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Marin French Cheeese Co.",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000c2\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7097696,
+                    38.1374873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000003d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Maplebrook Fine Cheese",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/021f341d62188df194eb699cc94be57a\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000003d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.19680009999999,
+                    42.878094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000100",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Maple Leaf Cheese Cooperative",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b979862702fb15d44abeb88e1a2a5cfe\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000100\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.54259390000001,
+                    42.530851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513be3622c239514d9000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Many Fold Farm",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0ef0d5dba761ac7afcff7a16b10d16b6\"><br><a href=\"http://api.formagg.io/maker/513be3622c239514d9000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7420788,
+                    33.5426284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51768bf2943fbd0200000019",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Mackenzie Creamery",
+                "Where": "United States Ohio",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1ce8c4be22f8b01fafe061c91bb56873\"><br><a href=\"http://api.formagg.io/maker/51768bf2943fbd0200000019\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1130206,
+                    41.3482288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000005d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Lovetree Farmstead Cheese",
+                "Where": "United States Wisconsin",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000005d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.62160159999999,
+                    45.6598203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000a5",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Love Tree Farmstead Cheese",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/51ecb5c326a3058d85f0a84919a626ff\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a5\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.62160159999999,
+                    45.6598203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175ba328eace5020000004c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Looking Glass Creamery",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/846e3a2063a9e6288101ee840d345091\"><br><a href=\"http://api.formagg.io/maker/5175ba328eace5020000004c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.39595109999999,
+                    35.51400580000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175ba328eace5020000004b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Looking Glass Creamery",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/76168c2ba39d9a54496822f08841b3f1\"><br><a href=\"http://api.formagg.io/maker/5175ba328eace5020000004b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.39595109999999,
+                    35.51400580000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000054",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Locust Grove",
+                "Where": "United States Tennessee",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000054\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9207392,
+                    35.9606384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000097",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Laura Chenel",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/39760ff60b55dfc752d9e4814f7972d9\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000097\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4580356,
+                    38.291859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000004e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Landaff Creamery",
+                "Where": "United States New Hampshire",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000004e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8960804,
+                    44.17167209999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000004d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Lakin's Gorges Cheese",
+                "Where": "United States Maine",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/5aac2dc3b4f469109d97e1307648de05\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000004d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.0760975,
+                    44.1844817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000146",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "LaClare Farms",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/683229a4e3e3e9f03d571f797aeaa24f\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000146\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.184288,
+                    44.0133439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51968c24c7786a0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "La Casa dei Formaggi",
+                "Where": "United States North Carolina",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51968c24c7786a0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.97402699999999,
+                    35.9808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed2ab77d93490200000009",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Knight Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/389d32619cc2d2560bcb6ef64cf898e2\"><br><a href=\"http://api.formagg.io/maker/51ed2ab77d93490200000009\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.3236309,
+                    43.24799669999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517af24cdbcec6020000004c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Kenny's Farmhouse Cheese",
+                "Where": "United States Kentucky",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6e83aead269733f7718c1da93a804b66\"><br><a href=\"http://api.formagg.io/maker/517af24cdbcec6020000004c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.9428197,
+                    36.8082663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51789db030c1b2020000001a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Keeley’s Cheese Company at McGarr Farms",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/38b3d66b38fcf32834db2882f11ff021\"><br><a href=\"http://api.formagg.io/maker/51789db030c1b2020000001a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6171725,
+                    42.6662633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000005a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Juniper Grove Farm",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/edd72cebe99187323126131df68f8d52\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.238193,
+                    44.25703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000048",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Jericho Hill Farm",
+                "Where": "United States Vermont",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df23b7160b20000000048\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.57784149999999,
+                    44.5588028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000cb",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Jasper Hill Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/20eed50bae02aeeda78a57c5f8adfdd2\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000cb\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.3002778,
+                    44.5891667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51dd690f54ad600200000016",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Jacobs Creamery",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c80ad105f52729a5c921f979c7c25114\"><br><a href=\"http://api.formagg.io/maker/51dd690f54ad600200000016\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8935122,
+                    46.63765799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c886e47581010200000028",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Jacobs & Brichford Farmstead Cheese",
+                "Where": "United States Indiana",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/e4e314a2ce63bf76b706e41d45a9646d\"><br><a href=\"http://api.formagg.io/maker/51c886e47581010200000028\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1386246,
+                    39.67174869999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "518431a77141490200000019",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Izzy’s Local Cheeses",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6c8fd93cd56386011af621c0f72f4902\"><br><a href=\"http://api.formagg.io/maker/518431a77141490200000019\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.6075709,
+                    33.5020167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000058",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Hook's Cheese",
+                "Where": "United States Wisconsin",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000058\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.17746,
+                    42.860091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c1",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Holland's Family Cheese LLC",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/95f15811ff7ae549066950745752e785\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c1\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.76047779999999,
+                    44.96770129999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175bc738eace50200000052",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Hillsborough Cheese Company",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/ecac14adc3f8aa710dd5a9850cf41856\"><br><a href=\"http://api.formagg.io/maker/5175bc738eace50200000052\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.09884129999999,
+                    36.0399462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000006b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Hillman Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/59f4382eea73eca788c16316ef6575d6\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.69722,
+                    42.67306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000005f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Hidden Springs Creamery",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/ba921d0701156d249c9cb2a0fc284405\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.76344309999999,
+                    43.6700647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed359c7d93490200000025",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Hickory Nut Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b23aeebd938ea0cd60806b400007b6b2\"><br><a href=\"http://api.formagg.io/maker/51ed359c7d93490200000025\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9819912,
+                    43.1042222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed33f67d93490200000014",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Heart Song Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/bb384b22bcba9462354751f036072861\"><br><a href=\"http://api.formagg.io/maker/51ed33f67d93490200000014\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2843419,
+                    43.4226621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000013b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Haystack Mountain Goat Dairy",
+                "Where": "United States Colorado",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2f7a5a729a4ee8a01f0f68faa67a034b\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000013b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.1099591,
+                    40.1559242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000db",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Hawthorne Valley Farm",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/945d6714b7eb0983e2f6f7a3eef91516\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000db\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5944346,
+                    42.2701645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c0",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Harley Farms",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0e5b537c6b246545e84e438e9eb6e3d8\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c0\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.371086,
+                    37.255754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000159",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Green Mountain Blue Cheese",
+                "Where": "United States Vermont",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000159\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0191889,
+                    44.9650087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517032bb9707150200000019",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Great Hill Dairy",
+                "Where": "United States Massachussetts",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/ad18951f8097e02ef9cf560a6fb8fd3e\"><br><a href=\"http://api.formagg.io/maker/517032bb9707150200000019\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.7283709,
+                    41.71234159999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000131",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Grafton Village Cheese Co.",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/344296ed06999039a9fd4f343a539921\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000131\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.56845000000001,
+                    42.863977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175b8428eace50200000041",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Goatsbeard Farm",
+                "Where": "United States Missouri",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c954e48923777d620d7189ed8a24d29c\"><br><a href=\"http://api.formagg.io/maker/5175b8428eace50200000041\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.44957289999999,
+                    39.0972209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000009c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Goat's Leap",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/081ea839967ed17e320aecc8dbbd8d29\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000009c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.527265,
+                    38.540009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d0",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Goat Lady Dairy",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0eb719b2fc30d9674b31e7ca307161cb\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d0\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.68672370000002,
+                    35.8302128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515c23d97158ec0200000005",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Goat Lady Dairy",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/30cdd7a369032e2efe73f87470eb704f\"><br><a href=\"http://api.formagg.io/maker/515c23d97158ec0200000005\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.68672370000002,
+                    35.8302128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515f331cece124020000001c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Glendale Shepherd",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/48ecf3e429c55367a3a236c98108a32e\"><br><a href=\"http://api.formagg.io/maker/515f331cece124020000001c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.368171,
+                    47.93413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513912947c2e2e020000006c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fruition Farms Dairy",
+                "Where": "United States Colorado",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/4144d65ec162ac80b9fa5b697d7b4bd8\"><br><a href=\"http://api.formagg.io/maker/513912947c2e2e020000006c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.6814801,
+                    39.1552526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000075",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Foxboro Cheese Co",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000075\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.261735,
+                    42.085668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517aec07dbcec6020000002c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Flatcreek Lodge",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2d4c1c3fb82e52c56784373598270545\"><br><a href=\"http://api.formagg.io/maker/517aec07dbcec6020000002c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2537244,
+                    32.6672627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515ec445d0263d0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Firefly Farms Creamery",
+                "Where": "United States Maryland",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/4b3294cb947d93d63d3d67f4c9519716\"><br><a href=\"http://api.formagg.io/maker/515ec445d0263d0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3207126,
+                    39.6275822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51702e19970715020000000e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fiore di Nonna",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51702e19970715020000000e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.093237,
+                    42.375619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51789c1f30c1b20200000015",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Finger Lakes Farmstead Cheese Co.",
+                "Where": "United States New York",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51789c1f30c1b20200000015\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7485055,
+                    42.4538066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51dc66d59b82180200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Face Rock Creamery",
+                "Where": "United States Oregon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7af61d0b3e1627f596c4d4651c81f44d\"><br><a href=\"http://api.formagg.io/maker/51dc66d59b82180200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.4025681,
+                    43.1221201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000055",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Everona Dairy",
+                "Where": "United States Virginia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/073929c9775e9713521269906e49aabd\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000055\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.97474129999999,
+                    38.302591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175bee18eace5020000005a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Elodie Farms",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7938ce6bd45384a05726b5c14883e464\"><br><a href=\"http://api.formagg.io/maker/5175bee18eace5020000005a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.826588,
+                    36.19453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000010d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Edelweiss Creamery",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/3764fb157aa7fc36fdcc5cbcee613f9c\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000010d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.54259390000001,
+                    42.530851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000a1",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Doe Run Farm",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/4772bc0f2c1167916fb4932a3599ae05\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a1\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8233131,
+                    39.8971055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5187be4b218c210200000008",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Dee Creek Farm",
+                "Where": "United States Washington",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5187be4b218c210200000008\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7439912,
+                    45.9045591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000009",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Dancing Cow Farm",
+                "Where": "United States Oregan",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000009\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.769108,
+                    44.3263559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000130",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cypress Grove Chevre",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2e2ae599bb1e6d60e01479e5cc9a5a93\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000130\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.093548,
+                    40.87492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ab",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Crystal Brook Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000ab\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.774518,
+                    42.463486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000008b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Crowley Cheese",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b9ac22a15be947a5f57b2f1435f90102\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000008b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.786644,
+                    43.4241979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000cd",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cricket Creek Farm",
+                "Where": "United States Massachussetts",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/dac49bd84efdf0a16dd454755f7ef8f9\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000cd\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2661117,
+                    42.6657553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ce",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Crave Brothers Farmstead Classics",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/06cc26d516e790e6182058c019f0fa05\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ce\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.96604699999999,
+                    43.23373100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000090",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cowgirl Creamery",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/5cebdf8eaeaa811ef59c27eb285ba731\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000090\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4000032,
+                    37.79593620000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed3e2b7d9349020000002a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Country Critters Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/00bba5195e62a94f6a530ac4aa100c84\"><br><a href=\"http://api.formagg.io/maker/51ed3e2b7d9349020000002a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.365913,
+                    42.7834953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5178997f30c1b2020000000d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cooperstown Cheese Company",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c666262303378a2806a8634ecefd9219\"><br><a href=\"http://api.formagg.io/maker/5178997f30c1b2020000000d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.9633683,
+                    42.5954298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000094",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Consider Bardwell Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/d761819e5cb259dec3f3597a84d9a46f\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000094\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.243912,
+                    43.333107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517ae427dbcec60200000007",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Conebella Farm",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/05fa485f9a72c5616ca4ab9511f4bac3\"><br><a href=\"http://api.formagg.io/maker/517ae427dbcec60200000007\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.84161499999999,
+                    40.1291794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51616ce854ec4ee219000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cobb Hill Cheese",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/20877bc9a1e419bfaf78e2474f8332b3\"><br><a href=\"http://api.formagg.io/maker/51616ce854ec4ee219000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.42591000000002,
+                    43.548654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000126",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Coach Farm",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c298d193dbb6daef8d01971095e93ba4\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000126\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.66613699999999,
+                    42.028032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5157733989f1390200000011",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Clover Stornetta Farms",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/84fd222159e008ea9858a0aabb023710\"><br><a href=\"http://api.formagg.io/maker/5157733989f1390200000011\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4580356,
+                    38.291859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d874e2059afc020000001d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cider Hill Farm",
+                "Where": "United States South Dakota",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51d874e2059afc020000001d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0896491,
+                    44.2217415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000040",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cherry Grove Farm",
+                "Where": "United States New Jersey",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/857e2aca873bf3fd60b828f8e1596c83\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000040\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.71052279999999,
+                    40.3106614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517992246e61840200000029",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cherry Glen Goat Cheese Co.",
+                "Where": "United States Maryland",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1407f4e61d65d9bcf192a515e10d2519\"><br><a href=\"http://api.formagg.io/maker/517992246e61840200000029\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.340465,
+                    39.2028869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51842e0b714149020000000e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cheeselicious",
+                "Where": "United States Florida",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51842e0b714149020000000e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4571776,
+                    27.950575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "516ff635d596c70200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Chase Hill Farm",
+                "Where": "United States Rhode Island",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2ff0d7809a370eb6dd73efa749d4d5c9\"><br><a href=\"http://api.formagg.io/maker/516ff635d596c70200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.35479149999999,
+                    42.6608094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5179940d6e61840200000031",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Chapel's Country Creamery",
+                "Where": "United States Maryland",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/31281915bb775c0ea6cabe4cd0d14df3\"><br><a href=\"http://api.formagg.io/maker/5179940d6e61840200000031\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.00529399999999,
+                    38.835138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c6",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Champlain Valley Creamery",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/cfef1cbb179b3c3ebf712f59ec35ebf3\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c6\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2452868,
+                    44.1764851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000004c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Central Coast Creamery",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/969f13401d5fc4bd9082a5083f74eea2\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000004c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.698262,
+                    35.570656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d96212f566160200000003",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Caves of Faribault",
+                "Where": "United States Minnesota",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/bce531b58c0e9d46f8823cfe7e52e24b\"><br><a href=\"http://api.formagg.io/maker/51d96212f566160200000003\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.26442,
+                    44.294279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000154",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cato Corner Farm",
+                "Where": "United States Connecticut",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7eb91c2598c40e580ebd9eddb072d94e\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000154\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.388511,
+                    41.573581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517895b330c1b20200000007",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Catapano Dairy",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/adad294d909131b40b2201b23c58f03a\"><br><a href=\"http://api.formagg.io/maker/517895b330c1b20200000007\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5252898,
+                    41.0078088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000009d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Carr Valley Cheese Company, Inc",
+                "Where": "United States Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b7027ca5b6d479603e2844671ac01356\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000009d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1655387,
+                    43.5075912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000128",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Capriole Farmstead Goat Cheeses",
+                "Where": "United States Indiana",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000128\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.00048509999999,
+                    38.4019691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517aee9adbcec6020000003b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Capra Gia Cheese Company",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/23ee261ffb2a3aea4f780ed4d8766e9b\"><br><a href=\"http://api.formagg.io/maker/517aee9adbcec6020000003b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.01859069999999,
+                    33.6458138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5159d24c8e58c20200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "CalyRoad Creamery",
+                "Where": "United States Georgia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/dd73afd57f02df9aa35e4b3167cfc1fa\"><br><a href=\"http://api.formagg.io/maker/5159d24c8e58c20200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.379961,
+                    33.922877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000021",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Calkins Creamery",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/18d5dbc89a0223a655b826d36fe7409c\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000021\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.17500919999999,
+                    41.6577381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000fb",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Calkins Creamery",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/64d761bb000620bd9fb44a3fb174d58c\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000fb\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.17392300000002,
+                    41.656777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515363cfdf83e20200000011",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bulger Creek Farm",
+                "Where": "United States Alabama",
+                "Summary": "<a href=\"http://api.formagg.io/maker/515363cfdf83e20200000011\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6724538,
+                    32.5606908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed325c7d9349020000000b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Brookford Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/def556adee67ac7595b9c90248f7eb1e\"><br><a href=\"http://api.formagg.io/maker/51ed325c7d9349020000000b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6087446,
+                    43.3250003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c9",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bravo Farms",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c2a884de547808a3aa552183d9703726\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c9\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.683408,
+                    36.6287049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000020",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Boston Post Dairy LLC",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/732cf53677ae6ba2f612cc9c0fcb7f0c\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000020\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.763044,
+                    44.9212765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517af584dbcec60200000056",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Boone Creek Creamery",
+                "Where": "United States Kentucky",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/04d60f014c435c3b62b8bff16ebede9b\"><br><a href=\"http://api.formagg.io/maker/517af584dbcec60200000056\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4432838,
+                    38.0162616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5159c75b77f7180200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bonnyclabber Cheese Co.",
+                "Where": "United States Virginia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/8cff04494cdce9b7febfb1992b42c49e\"><br><a href=\"http://api.formagg.io/maker/5159c75b77f7180200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.40987179999999,
+                    37.5740865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5159d3c58e58c20200000008",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bonny Blue Farm",
+                "Where": "United States Tennessee",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/85e9883b833e6dc26c5603a13b6d0627\"><br><a href=\"http://api.formagg.io/maker/5159d3c58e58c20200000008\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7622468,
+                    35.3195217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000001c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bonnieview Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/9e2c7801f5472f5614c0e15420a9a2f3\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000001c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.3178811,
+                    44.6664462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000cf",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bonnie Blue Farm",
+                "Where": "United States Tennessee",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/43780ef8d8cff7949e87e02acad953b7\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000cf\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7622468,
+                    35.3195217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513beba8cb7f290200000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bohemian Creamery",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/71752f7521373f016559029eeea7e960\"><br><a href=\"http://api.formagg.io/maker/513beba8cb7f290200000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82,
+                    38.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000005b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Boggy Meadow Farm",
+                "Where": "United States New Hampshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/fbe7eb332641f22098d5c6db49daf7e7\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4258229,
+                    43.0794944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5157718d89f1390200000009",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bodega Artisan Cheese",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1f020c49b825b0f9250e960a57da0b8f\"><br><a href=\"http://api.formagg.io/maker/5157718d89f1390200000009\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9738878,
+                    38.345194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000046",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Blythedale Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c5d5da74fefd434639fa72742bc9e74a\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000046\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.29190799999999,
+                    44.023376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51dd93f654ad60020000001f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Blue Sage Farm",
+                "Where": "United States Idaho",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/5cf3d904d7089931ff935ecdb2beabb6\"><br><a href=\"http://api.formagg.io/maker/51dd93f654ad60020000001f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.4940791,
+                    43.0108594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000001f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Blue Mountain Affinage Company",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/cb15c78f9b5b7abb3d313a9231042e8c\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000001f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3430209,
+                    46.0645809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d7",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Blue Ledge Farm",
+                "Where": "United States Vermont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/d6c586a64a8336864b3a3c35b818ccda\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d7\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.154274,
+                    43.876694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517685a2943fbd020000000e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Blue Jacket Dairy",
+                "Where": "United States Ohio",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b68d7b7b54a00d4e021e9e8ebda8fb99\"><br><a href=\"http://api.formagg.io/maker/517685a2943fbd020000000e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.78877460000001,
+                    40.3483347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000f6",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Blue Heron Farm",
+                "Where": "United States Texas",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/94ee204741cab92cf7a406690270ed30\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f6\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9213146,
+                    30.0897511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000099",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bleu Mont Dairy",
+                "Where": "United States Wisconsin",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000099\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.803316,
+                    43.044268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51576e2e89f1390200000005",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bleating Heart",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51576e2e89f1390200000005\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8238806,
+                    38.4021359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5187bcce218c210200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Black Sheep Creamery",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b9d5856ea46cfabb2b8fe0bef307a7a4\"><br><a href=\"http://api.formagg.io/maker/5187bcce218c210200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0597666,
+                    46.6278946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000112",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bittersweet Plantation Dairy",
+                "Where": "United States Louisiana",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000112\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.14502449999999,
+                    31.2448234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517ae26edbcec60200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Birchrun Hills Farm",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/ec36f2b59e4d23b1578bfd84790257b9\"><br><a href=\"http://api.formagg.io/maker/517ae26edbcec60200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66490499999999,
+                    40.119782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000087",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Berkshire Cheese Company",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000087\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.344287,
+                    42.2120463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000104",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Bellwether Farms",
+                "Where": "United States California",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/551a09a21cb36d155b510e3559c29062\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000104\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.708887,
+                    38.402254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000011f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Beehive Cheese Company, LLC",
+                "Where": "United States Utah",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/f01f340e1d9f9627c273d9d7bdd5d0a2\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000011f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9134375,
+                    41.1390477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000141",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Beecher's Handmade Cheese",
+                "Where": "United States Washington",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/9fc22a5f801d64a040ff950ea961b083\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000141\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.341842,
+                    47.6096081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5157758a5f2528020000000b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Barinaga Ranch Farmstead Sheep Milk Cheese",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5157758a5f2528020000000b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8648538,
+                    38.1745272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175b6e38eace5020000003c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Baetje Farms",
+                "Where": "United States Missouri",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/248bbbcd8882952a83ded14755cdbf69\"><br><a href=\"http://api.formagg.io/maker/5175b6e38eace5020000003c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.32341219999999,
+                    38.008997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5182b89157a8ac0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Avalanche Cheese",
+                "Where": "United States Colorado",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c05a78ed55840e8b260efe94ff230c06\"><br><a href=\"http://api.formagg.io/maker/5182b89157a8ac0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.6218514,
+                    38.8189321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175be178eace50200000058",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ashe County Cheese",
+                "Where": "United States North Carolina",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/371da4faa6c712f07a35bfff2f6fc8c5\"><br><a href=\"http://api.formagg.io/maker/5175be178eace50200000058\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.49108,
+                    36.40219099999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5178942b30c1b20200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Asgaard Farm and Dairy",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/faedf80fc93c025b25dc12b2c28a17b7\"><br><a href=\"http://api.formagg.io/maker/5178942b30c1b20200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6745834,
+                    44.441714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000083",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Artichoke Dairy",
+                "Where": "United States Massachussetts",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000083\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9354755,
+                    42.794906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51602c8f0d3e710200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Appleton Farms",
+                "Where": "United States MA",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51602c8f0d3e710200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8886429,
+                    42.6029481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000040",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Annette Lee",
+                "Where": "United States Devon",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000040\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.42277779999999,
+                    40.0472222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c7",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Andante Cheese",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000c7\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6366524,
+                    38.232417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517a77f0943f310200000013",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Amazing Acres Goat Dairy",
+                "Where": "United States Pennsylvania",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/37649f052715b3575363060e9ec6edb0\"><br><a href=\"http://api.formagg.io/maker/517a77f0943f310200000013\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.758589,
+                    40.159913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000124",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Alemar Cheese Company",
+                "Where": "United States Minnesota",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000124\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.99768069999999,
+                    44.1727654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51577a265f25280200000019",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Achadinha Cheese Company",
+                "Where": "United States California",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51577a265f25280200000019\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675871,
+                    38.212475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000008d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "3 Corner Field Farm",
+                "Where": "United States New York",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/e3f9fc91f2c143989eda37f32c495f76\"><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000008d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.339758,
+                    43.109898
+                ]
+            }
+        }
+    ]
+}

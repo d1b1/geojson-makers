@@ -1,0 +1,594 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000022",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Parc Naturel du Perche",
+                "Where": "France Nocé",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df23b7160b20000000022\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8044595999999999,
+                    48.3561041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c21282225685020000000b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Philippe Olivier (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c21282225685020000000b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6052727,
+                    50.7240473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d5",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Patrick Beaumont",
+                "Where": "France Auvergne",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000d5\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3448536,
+                    45.7032695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000cc",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Monks of Tamie",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000cc\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.472399999999999,
+                    45.4932045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000a6",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Max Schmidhauser",
+                "Where": "France Savoie",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000a6\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.472399999999999,
+                    45.4932045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513a739a5b78c10200000013",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Marcel Petite",
+                "Where": "France Franche-Comte",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/cb40ed1937616e27d0b4be3f4979c223\"><br><a href=\"http://api.formagg.io/maker/513a739a5b78c10200000013\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.335053599999999,
+                    46.8905413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000002e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Laiterie de la Cote",
+                "Where": "France Burgundy",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000002e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3837215,
+                    47.0525047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000011e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Lactalis Group",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f2000000011e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.213749,
+                    46.227638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c210352256850200000004",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "La ferme des Bahardes (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c210352256850200000004\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8980354,
+                    50.058707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c210f62256850200000007",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "La Chevriette (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c210f62256850200000007\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3050466,
+                    50.329939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000a2",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Haxaire - Maison Fischer",
+                "Where": "France Alsace, Franche-Comte",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000a2\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.751517,
+                    48.5517309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c210892256850200000005",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "GAEC du Château Courbet",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c210892256850200000005\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8701611,
+                    50.088441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c20fe82256850200000003",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "GAEC de la Motte (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c20fe82256850200000003\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.076334999999999,
+                    50.109804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c21331225685020000000d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie fermière des 2 Caps (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c21331225685020000000d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.777379,
+                    50.792905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000006d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie de Rochefort",
+                "Where": "France ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/9224dca8bbfd85a333db087fb5359428\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2221665,
+                    50.1596036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c212c2225685020000000c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie Sainte Godeleine (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c212c2225685020000000c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.739008,
+                    50.777525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000003",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie Milleret",
+                "Where": "France ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/9db46169060b043b7b190fd24c3eac82\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000003\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.777065,
+                    47.372569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51abeba6259bd20200000010",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie De Banon",
+                "Where": "France Manosque",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1007aabeec03e3b58282316c2a3e5027\"><br><a href=\"http://api.formagg.io/maker/51abeba6259bd20200000010\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.795353,
+                    43.793216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000b6",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie Berthaut",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000b6\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1745067,
+                    47.5071568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c215512256850200000011",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ferme du Vinage (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c215512256850200000011\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.115632,
+                    50.746301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c20f852256850200000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ferme du Pont des Loups (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c20f852256850200000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9135942,
+                    50.1689534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c21373225685020000000e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ferme des Templiers (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c21373225685020000000e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4677286,
+                    50.774971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c21237225685020000000a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ferme des Prés Saint Wulmer (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c21237225685020000000a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7426455,
+                    50.6347815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c210bc2256850200000006",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ferme Sauvage (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c210bc2256850200000006\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3035572,
+                    50.1298646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c214fd2256850200000010",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ferme Ronckier (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c214fd2256850200000010\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5486847,
+                    50.9744298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000101",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cesar Losfeld",
+                "Where": "France ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/493a82ce80ea36637ea83a1b7a4d82a3\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000101\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1584607,
+                    50.6925702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175a0658eace50200000014",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "AuverMont   s",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5175a0658eace50200000014\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3448536,
+                    45.7032695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000115",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Arnaud family",
+                "Where": "France Auvergne",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000115\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3448536,
+                    45.7032695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000140",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Abbey of Our Lady of Good Hope",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000140\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7572205,
+                    45.14694859999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c211692256850200000008",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Abbaye de Belval (Losfeld)",
+                "Where": "France ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51c211692256850200000008\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3382136,
+                    50.416222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d2",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Abbaye Notre Dame de Timadeuc",
+                "Where": "France Brittany",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000d2\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9326435,
+                    48.2020471
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000008f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Josep Cuixart",
+                "Where": "Spain Catalonia",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f2000000008f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5208624,
+                    41.5911589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5139ff5e5b78c10200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Berrocales Trujillanos",
+                "Where": "Spain Extremadura",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/96bd4f344269e5b6f166c368ff3d750c\"><br><a href=\"http://api.formagg.io/maker/5139ff5e5b78c10200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.877864000000001,
+                    39.457085
+                ]
+            }
+        }
+    ]
+}

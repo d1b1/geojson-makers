@@ -1,0 +1,936 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000028",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Wootton Organic Dairy",
+                "Where": "England Somerset",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7f5bfe86d85b63ae69e34fb2774358de\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000028\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6200927,
+                    51.177524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000026",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Wooton Organic Dairy",
+                "Where": "England Somerset",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df23b7160b20000000026\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6200927,
+                    51.177524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5174968186bc460200000007",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Winter Tarn Organic Farm",
+                "Where": "England Cumbria",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/620e4d87ffaf4b7947d25d31899140b7\"><br><a href=\"http://api.formagg.io/maker/5174968186bc460200000007\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6516505,
+                    54.5475122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000b4",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Windrush Valley Goat Dairy",
+                "Where": "England Oxon",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000b4\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.722738,
+                    51.817452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000007a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "White Lake Cheeses of Glastonbury",
+                "Where": "England ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000007a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9499066,
+                    51.0587013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000f0",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Whalesborough Cheese",
+                "Where": "England Cornwall",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/65f005f93b4ef15976d43b154efdc23c\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f0\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5368605,
+                    50.80441339999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000000f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Westcombe Dairy",
+                "Where": "England Somerset",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/cfb884e20cfe99934b0488e1eac63cdd\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000000f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5051297,
+                    51.1481234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000002b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Wensleydale Creamery",
+                "Where": "England North Yorkshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/dc11b058f9fae1df33527794f5bbb485\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000002b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2013604,
+                    54.3015036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000002a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Village Maid Cheese",
+                "Where": "England Berkshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0ff8c614e66272fba55ffdd5259b6da1\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000002a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.964128,
+                    51.3636259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5179e5ae6e61840200000040",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Tuxford & Tebbett",
+                "Where": "England Bristol",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/f754cc005e2e5c3536b5bb3231cf7ba2\"><br><a href=\"http://api.formagg.io/maker/5179e5ae6e61840200000040\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000001d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ticklemore Cheese",
+                "Where": "England Devon",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000001d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6723844,
+                    50.4102596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5174a09586bc46020000003c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Thornby Moor Dairy",
+                "Where": "England Cumbria",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5174a09586bc46020000003c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.087264,
+                    54.8404891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000f2",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Swaledale Cheese Company",
+                "Where": "England North Yorkshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/166467398679e70ff5563c51bd9b3516\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f2\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7491108,
+                    54.4123084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000007d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Shebbear Cheese Company",
+                "Where": "England Devon",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000007d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.999461,
+                    50.77721349999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "The Bath Soft Cheese Company",
+                "Where": "England Bath",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4345452,
+                    51.401781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000007e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Stichelton Dairy Ltd.",
+                "Where": "England Nottinghamshire",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000007e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1753037,
+                    53.2413343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000014",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Somerset Cheese Company",
+                "Where": "England Somerset",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/f0d37d42a32d27673caa97469977028d\"><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000014\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5418439,
+                    51.1313877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ed",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Sharpham Farm",
+                "Where": "England South Devon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0d990d1cac8e04c72d7c43e77d97205e\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ed\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6532661,
+                    50.4088871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ea",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Richard Rowlett and Billy Kevan",
+                "Where": "England ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000ea\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000012",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ram Hall Dairy Sheep",
+                "Where": "England Warwickshire",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000012\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6373637,
+                    52.4008656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000020",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Quicke Traditional",
+                "Where": "England Devon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/2416c69fa5205ad3e4d9862ea48df27a\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000020\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.583268,
+                    50.771122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000043",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Old Ley Farm/Smart's Farm",
+                "Where": "England Gloucester",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000043\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3785523,
+                    51.8630495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000026",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Norsworthy Dairy",
+                "Where": "England Crediton",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000026\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7005697,
+                    50.7672401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000077",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Montgomery Cheese",
+                "Where": "England Somerset",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/a62bd71fc4a3b7f4d88ab8e069622fb4\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000077\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5205062,
+                    51.0435861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000080",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Manor Farm",
+                "Where": "England Somerset",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000080\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9499066,
+                    51.0587013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000b0",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Makers Cornish Country Larder",
+                "Where": "England Cornwall",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b005e26c90cf2a588372b42a3b2e62d7\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000b0\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0292673,
+                    50.4567823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000021",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Lynher Dairies Cheese Company",
+                "Where": "England West Cornwall",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/7e94298a3fd80530fb02b5e241c210b1\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000021\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.141623000000001,
+                    50.1988399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000b2",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Leicestershire Handmade Cheese Company",
+                "Where": "England Warwickshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c6309575d9d3f35e12218fd44006d66a\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000b2\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4655536,
+                    52.59194309999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000f4",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Jowett Cheese Ltd",
+                "Where": "England Warwickshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/71478312943950c3f34486844e0749d2\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f4\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.708298,
+                    52.19173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000042",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "James and David Bartlett",
+                "Where": "England ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000042\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ae",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Holker Farm",
+                "Where": "England Cumbria",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000ae\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9834579,
+                    54.18838359999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000e6",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Holden Farm Dairy",
+                "Where": "England Lampeter",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/db6568987fbbbd8117e65f8ae103997d\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000e6\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5171ce9597f5530200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Hampshire Cheeses",
+                "Where": "England ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/ffe8347d715eb53f1b2601bc319842d9\"><br><a href=\"http://api.formagg.io/maker/5171ce9597f5530200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5170b8cfe6d84d0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Grandma Singleton",
+                "Where": "England Lancashire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b93c6f10d2bbd0bc0f0af1d530801b21\"><br><a href=\"http://api.formagg.io/maker/5170b8cfe6d84d0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6060492,
+                    53.8179618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "511eb50c0757ad0200000003",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Godminster Vintage",
+                "Where": "England Somerset",
+                "Summary": "<a href=\"http://api.formagg.io/maker/511eb50c0757ad0200000003\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4512118,
+                    51.1118676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000eb",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Elizabeth Harris",
+                "Where": "England Hertfordshire",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f200000000eb\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3465431,
+                    51.80882810000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51e178b265a99a0200000008",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Denhay Farms",
+                "Where": "England Dorset",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/dc4f05b46ad37efb94e771c16a5397c0\"><br><a href=\"http://api.formagg.io/maker/51e178b265a99a0200000008\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8104394,
+                    50.7624994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51317dc6bee2f8020000000b",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Curworthy Cheese",
+                "Where": "England Devon",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b449f2a5463e2abdf3d8e0b1b32ce188\"><br><a href=\"http://api.formagg.io/maker/51317dc6bee2f8020000000b\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0336984,
+                    50.7879865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000073",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cropwell Bishop Creamery Limited",
+                "Where": "England Nottinghamshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/35d278b2d65f3d820177c6d84f4a58a5\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000073\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9875828999999999,
+                    52.9126367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000038",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Colston Bassett Dairy Ltd.",
+                "Where": "England Nottingham",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/befae0375077ffa07ae64551a1e535dc\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000038\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9517504000000001,
+                    52.8885845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000023",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Chorlton Cheese",
+                "Where": "England Cheshire",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6f7ed8ae9ae76caaa7e07ac78cd9edbd\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000023\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.816027,
+                    53.024942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000027",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cerney House Gardens",
+                "Where": "England Gloucestershire",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000027\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9680249,
+                    51.7729361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5161e1be0b88c40200000004",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Caws Teif Cheese",
+                "Where": "England Ceredigion",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5161e1be0b88c40200000004\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000007f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cartmel Cheeses",
+                "Where": "England Cumbria",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/3cb8fc73a7d1526298eb39fc0e917e77\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000007f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9532112,
+                    54.1999244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "511904cb98eb7ff30e000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Caerphilly Gorwydd",
+                "Where": "England Wales",
+                "Summary": "<a href=\"http://api.formagg.io/maker/511904cb98eb7ff30e000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9733028,
+                    52.1703463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000e7",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Brue Valley Farms",
+                "Where": "England Somerset",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/079e6bcd70b5200dc25f7483ebda63fb\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000e7\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6429829,
+                    51.1107597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000044",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Appleby's of Hawkstone",
+                "Where": "England Shropshire",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000044\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6312995,
+                    52.89141559999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000072",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Andrew Ridley",
+                "Where": "England North Yorkshire",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000072\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.15,
+                    54.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "511eb47e0757ad0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Alham Wood Cheeses",
+                "Where": "England Somerset",
+                "Summary": "<a href=\"http://api.formagg.io/maker/511eb47e0757ad0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4616639,
+                    51.1694626
+                ]
+            }
+        }
+    ]
+}

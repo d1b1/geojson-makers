@@ -1,0 +1,195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000062",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Suigi Guffanti",
+                "Where": "Italy ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/04a63ee6c2fa0652e3d20749b834a79b\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000062\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5612554,
+                    45.74983599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000000a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Nunzio Marcelli",
+                "Where": "Italy Abruzzo",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000000a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7289167,
+                    42.1920119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000015",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Luigi Guffanti",
+                "Where": "Italy Lombardy",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/b94d4d1a47890f5c479d61045a81b8f9\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000015\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6094355,
+                    45.8093619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000006f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Gregorio Rotolo",
+                "Where": "Italy Abruzzo",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f2000000006f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7289167,
+                    42.1920119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000001c",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fratelli Pinna",
+                "Where": "Italy Sardinia",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/c9b65ce45933b972e068e27b7214399a\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000001c\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6490584,
+                    40.5235778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000051",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Cora",
+                "Where": "Italy Piedmont",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000051\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5153885,
+                    45.0522366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5171f1b697f5530200000020",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Caseificio dell'Alta Langa",
+                "Where": "Italy ",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5171f1b697f5530200000020\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.843927299999999,
+                    44.6150285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000155",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Caseificio Rosso",
+                "Where": "Italy Piedmont",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/739ab9434c28bf6d8da4b8248a4eb144\"><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000155\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.052693699999999,
+                    45.5731631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000092",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Caseificio La Bottera",
+                "Where": "Italy Morozzo",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df090da57f20000000092\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6979164,
+                    44.4223241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000046",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Casa Madaio",
+                "Where": "Italy Salerno",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/12d44f13060ab4a1baa38ec09ef9b8d7\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000046\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.231446,
+                    40.495177
+                ]
+            }
+        }
+    ]
+}

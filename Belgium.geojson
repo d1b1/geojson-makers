@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "513a7a335b78c1020000001a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Kaasmakerij Catharinadal",
+                "Where": "Belgium ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/941f07e690ee036421f4c33fe6699a6f\"><br><a href=\"http://api.formagg.io/maker/513a7a335b78c1020000001a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.484344600000001,
+                    51.2525629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c8",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Jacquy Cange",
+                "Where": "Belgium ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/9ca0e6353fe55653a09eaccc81e88c63\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c8\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70991,
+                    50.5125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000a3",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Abbey of Notre-Dame de Scourmont",
+                "Where": "Belgium Chimay",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/780f7297325850622e528c9f6bfb3a92\"><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a3\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381772,
+                    50.03563399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000000e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Abbaye d'Orval",
+                "Where": "Belgium ",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/0cce30b2344bda5189c5eb54ea0b890d\"><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000000e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34828,
+                    49.6388
+                ]
+            }
+        }
+    ]
+}

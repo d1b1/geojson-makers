@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "51c8579c7581010200000027",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "White Gold Cheese",
+                "Where": "Canada Alberta",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/09e56cfd582e0440fa27971db9ef9780\"><br><a href=\"http://api.formagg.io/maker/51c8579c7581010200000027\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.9490696,
+                    50.8839596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5133841fddb4440200000006",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Upper Canada Cheese.com",
+                "Where": "Canada Ontario",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/5cdbf83746329e23eabe349b6a47b24b\"><br><a href=\"http://api.formagg.io/maker/5133841fddb4440200000006\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3601777,
+                    43.163904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51338880ddb4440200000014",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Thunder Oak Cheese Farm",
+                "Where": "Canada Ontario",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51338880ddb4440200000014\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5952288,
+                    48.2934065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51363789ac48d80200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Societe Cooperative Agricole de l'Isle-aux-Grues",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/58dd406201db9e52d2a3dd0cbda6ce3d\"><br><a href=\"http://api.formagg.io/maker/51363789ac48d80200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5427362,
+                    47.0677105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5138e1b47c2e2e020000002e",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Roth Cheese",
+                "Where": "Canada Wisconsin",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/645d00a65d4c6a7d8cb0331c876d322a\"><br><a href=\"http://api.formagg.io/maker/5138e1b47c2e2e020000002e\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.653589,
+                    42.611044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513904f87c2e2e0200000040",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Quality Cheese Inc.",
+                "Where": "Canada Ontario",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/010045eca1d71e6fe7a3d8318cbf1963\"><br><a href=\"http://api.formagg.io/maker/513904f87c2e2e0200000040\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.54705539999999,
+                    43.7964385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51e075fc61d1280200000010",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Ontario Goat Cheese",
+                "Where": "Canada Ontario",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/681455d5c047a22d396abb7e9e942ecb\"><br><a href=\"http://api.formagg.io/maker/51e075fc61d1280200000010\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3232139,
+                    51.253775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51338126ddb4440200000002",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Kootenay Alpine Cheese Co.",
+                "Where": "Canada British Columbia",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51338126ddb4440200000002\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.4691852,
+                    49.0286765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5134aaeda2710b0200000008",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Kaiser",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/f3b47557baccc812871620088d63bd8c\"><br><a href=\"http://api.formagg.io/maker/5134aaeda2710b0200000008\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.29902899999999,
+                    45.063661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5134a91fa2710b0200000007",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Kaiser",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/6d681448202697e419c248097358f220\"><br><a href=\"http://api.formagg.io/maker/5134a91fa2710b0200000007\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5687215,
+                    45.6214568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513386d1ddb444020000000f",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Gunn’s Hill Artisan Cheese",
+                "Where": "Canada Ontario",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/5370f50724522f82f0a27a22493269c5\"><br><a href=\"http://api.formagg.io/maker/513386d1ddb444020000000f\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.69261929999999,
+                    43.06257249999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5134a5b7a2710b0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie La Station inc.",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/1ba3276258e905389e958a7541609e0d\"><br><a href=\"http://api.formagg.io/maker/5134a5b7a2710b0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8734668,
+                    45.1939012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5138a9de7c2e2e020000001d",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie FX Pichet",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/458944a1bd36cbccad58a2ccfe29bc43\"><br><a href=\"http://api.formagg.io/maker/5138a9de7c2e2e020000001d\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.162646,
+                    46.5751251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5171d34b97f5530200000014",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie Chaput",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/769fd29008f38d845da0d518b7294db3\"><br><a href=\"http://api.formagg.io/maker/5171d34b97f5530200000014\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6933081,
+                    45.3469395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5138a2627c2e2e0200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fromagerie Blackburn",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/f103ccbf8ccf9de6b1e20a27018bfed5\"><br><a href=\"http://api.formagg.io/maker/5138a2627c2e2e0200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.28569399999999,
+                    48.3911391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51abe2b7259bd20200000001",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fiordilatte",
+                "Where": "Canada Alberta",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/67c888e5cf5cfceb39f0db669497c699\"><br><a href=\"http://api.formagg.io/maker/51abe2b7259bd20200000001\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.9490696,
+                    50.8839596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51338978ddb4440200000016",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Fifth Town Artisan Cheese",
+                "Where": "Canada Ontario",
+                "Summary": "<a href=\"http://api.formagg.io/maker/51338978ddb4440200000016\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.13929949999999,
+                    44.0114797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5138a6257c2e2e0200000008",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Du Village",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/aba40c1313a86aa76fab60e78f1e4bfb\"><br><a href=\"http://api.formagg.io/maker/5138a6257c2e2e0200000008\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99708640000001,
+                    45.949523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5133a67eddb4440200000041",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Chaput Cheese",
+                "Where": "Canada Quebec",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5133a67eddb4440200000041\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6933081,
+                    45.3469395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513392d9ddb4440200000036",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Best Baa Dairy",
+                "Where": "Canada Ontario",
+                "Summary": "<a href=\"http://api.formagg.io/maker/513392d9ddb4440200000036\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.38070929999999,
+                    43.7195307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51338fbdddb4440200000031",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Back Forty Artisan Cheese",
+                "Where": "Canada Ontario",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/f3b528e79f6ca4375da70648b1ade2e4\"><br><a href=\"http://api.formagg.io/maker/51338fbdddb4440200000031\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4837269,
+                    45.06144889999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000070",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Avonlea Cheeses",
+                "Where": "Canada Prince Edwards Island",
+                "Summary": "<a href=\"http://api.formagg.io/maker/510df08fda57f20000000070\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.17994299999999,
+                    46.2584589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5139078e7c2e2e020000004a",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Alexis de Portneuf",
+                "Where": "Canada Quebec",
+                "Summary": "<a href=\"http://api.formagg.io/maker/5139078e7c2e2e020000004a\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.83799840000002,
+                    46.89079659999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5134b0b9a2710b0200000019",
+            "properties": {
+                "marker-symbol": "warehouse",
+                "marker-size": "small",
+                "stroke-width": 1,
+                "Maker": "Abbaye St-Benoit",
+                "Where": "Canada Quebec",
+                "Summary": "<img src=\"http://s3.amazonaws.com/nodeloader/100x100/436dba0d1601f246e0ab5a84d756d545\"><br><a href=\"http://api.formagg.io/maker/5134b0b9a2710b0200000019\">More</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.181308,
+                    45.1845445
+                ]
+            }
+        }
+    ]
+}

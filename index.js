@@ -1,9 +1,15 @@
 var request = require('request')
-var _ = require('underscore')
-var fs = require('fs')
+    , _     = require('underscore')
+    , fs    = require('fs')
+var argv    = require('optimist').argv
+var querystring = require('querystring')
 
 var makers = [];
-request.get({ url: 'http://api.formagg.io/maker/search?size=2000&country=Ireland', json: true }, function(err, data) {
+var params = { size: 20000 }
+if (argv.country) params.country = argv.country
+var filename = (argv.country || 'all') + '.geojson'
+
+request.get({ url: 'http://api.formagg.io/maker/search?' + querystring.stringify(params), json: true }, function(err, data) {
 
   _.each(data.body.results, function(maker) {
   	if (maker.location.lat && maker.location.lng) {
@@ -33,7 +39,7 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=2000&country=Ireland
 
   var geojson = { "type": "FeatureCollection", "features": makers }
 
-      fs.writeFile("./test.geojson", JSON.stringify(geojson, null, 4), function(err) {
+      fs.writeFile('./' + filename, JSON.stringify(geojson, null, 4), function(err) {
 	    if(err) {
 	        console.log(err);
 	    } else {

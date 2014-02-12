@@ -23,6 +23,7 @@
   "homepage": "https://github.com/formagg1o/geojson-makers",
   "dependencies": {
     "request": "~2.33.0",
-    "underscore": "~1.6.0"
+    "underscore": "~1.6.0",
+    "optimist": "~0.6.1"
   }
 }
