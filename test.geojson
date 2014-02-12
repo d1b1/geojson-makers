@@ -8,7 +8,7 @@
                 "Name": "von Trapp Farmstead",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000003f",
+                "DESCRIPTIO": "<b>von Trapp Farmstead</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000003f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/8b62237ca3ff168c480306abf9ab2a9d"
             },
             "geometry": {
@@ -26,7 +26,7 @@
                 "Name": "http://crowsdairy.com/",
                 "Country": "United States",
                 "State": "Arizona",
-                "URL": "http://api.formagg.io/maker/51e036df61d128020000000d",
+                "DESCRIPTIO": "<b>http://crowsdairy.com/</b><br><a href=\"http://api.formagg.io/maker/51e036df61d128020000000d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9b1aa6f24f0f254d84d7d95fd080f625"
             },
             "geometry": {
@@ -44,7 +44,7 @@
                 "Name": "Zingerman's Creamery",
                 "Country": "United States",
                 "State": "Michigan",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000059",
+                "DESCRIPTIO": "<b>Zingerman's Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000059\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ff2d2e4d33f0008f7025c1a0bcdc57c8"
             },
             "geometry": {
@@ -62,7 +62,7 @@
                 "Name": "Zingerman's Creamery",
                 "Country": "United States",
                 "State": "Michigan",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000002",
+                "DESCRIPTIO": "<b>Zingerman's Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000002\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/a49106fe14d13af2219e3a18904c125f"
             },
             "geometry": {
@@ -80,7 +80,7 @@
                 "Name": "York Hill Farm",
                 "Country": "United States",
                 "State": "Maine",
-                "URL": "http://api.formagg.io/maker/51d15542b7689a0200000001",
+                "DESCRIPTIO": "<b>York Hill Farm</b><br><a href=\"http://api.formagg.io/maker/51d15542b7689a0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1c6086763cece5e4a79a80fdff912806"
             },
             "geometry": {
@@ -98,7 +98,7 @@
                 "Name": "Yellow Springs Farm",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/517a735a943f310200000001",
+                "DESCRIPTIO": "<b>Yellow Springs Farm</b><br><a href=\"http://api.formagg.io/maker/517a735a943f310200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/84d6c802d7be52964d6d588c7c33ed4a"
             },
             "geometry": {
@@ -116,7 +116,7 @@
                 "Name": "Yellow Branch Farmstead Cheese",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/515c222c7158ec0200000001",
+                "DESCRIPTIO": "<b>Yellow Branch Farmstead Cheese</b><br><a href=\"http://api.formagg.io/maker/515c222c7158ec0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b807a5408dbb8f2b47bca6fa6d8d5be6"
             },
             "geometry": {
@@ -134,7 +134,7 @@
                 "Name": "Wootton Organic Dairy",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000028",
+                "DESCRIPTIO": "<b>Wootton Organic Dairy</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000028\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7f5bfe86d85b63ae69e34fb2774358de"
             },
             "geometry": {
@@ -152,7 +152,7 @@
                 "Name": "Wooton Organic Dairy",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000026",
+                "DESCRIPTIO": "<b>Wooton Organic Dairy</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000026\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -170,7 +170,7 @@
                 "Name": "Woodside Cheese Wrights",
                 "Country": "Australia",
                 "State": "South Australia",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000007",
+                "DESCRIPTIO": "<b>Woodside Cheese Wrights</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000007\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2da0fa7d0806d4417ae4c8303ac0684c"
             },
             "geometry": {
@@ -188,7 +188,7 @@
                 "Name": "Winter Tarn Organic Farm",
                 "Country": "England",
                 "State": "Cumbria",
-                "URL": "http://api.formagg.io/maker/5174968186bc460200000007",
+                "DESCRIPTIO": "<b>Winter Tarn Organic Farm</b><br><a href=\"http://api.formagg.io/maker/5174968186bc460200000007\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/620e4d87ffaf4b7947d25d31899140b7"
             },
             "geometry": {
@@ -206,7 +206,7 @@
                 "Name": "Windrush Valley Goat Dairy",
                 "Country": "England",
                 "State": "Oxon",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000b4",
+                "DESCRIPTIO": "<b>Windrush Valley Goat Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000b4\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -224,7 +224,7 @@
                 "Name": "Winchester Cheese Company Co.",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000152",
+                "DESCRIPTIO": "<b>Winchester Cheese Company Co.</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000152\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -242,7 +242,7 @@
                 "Name": "Willow Hill Farm, LLC",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000035",
+                "DESCRIPTIO": "<b>Willow Hill Farm, LLC</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000035\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/aad64ed9e7508800c36fe6d067ce8609"
             },
             "geometry": {
@@ -260,7 +260,7 @@
                 "Name": "Willamette Valley Cheese",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/5176833d943fbd0200000002",
+                "DESCRIPTIO": "<b>Willamette Valley Cheese</b><br><a href=\"http://api.formagg.io/maker/5176833d943fbd0200000002\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e0aa65af3b84865b85f9267854987b46"
             },
             "geometry": {
@@ -278,7 +278,7 @@
                 "Name": "Wicklow Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "County Wicklow",
-                "URL": "http://api.formagg.io/maker/520fa6717dc291020000002e",
+                "DESCRIPTIO": "<b>Wicklow Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/520fa6717dc291020000002e\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/4afb8e029c08868f565187d0974b4a2a"
             },
             "geometry": {
@@ -296,7 +296,7 @@
                 "Name": "White Lake Cheeses of Glastonbury",
                 "Country": "England",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000007a",
+                "DESCRIPTIO": "<b>White Lake Cheeses of Glastonbury</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000007a\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -314,7 +314,7 @@
                 "Name": "White Gold Cheese",
                 "Country": "Canada",
                 "State": "Alberta",
-                "URL": "http://api.formagg.io/maker/51c8579c7581010200000027",
+                "DESCRIPTIO": "<b>White Gold Cheese</b><br><a href=\"http://api.formagg.io/maker/51c8579c7581010200000027\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/09e56cfd582e0440fa27971db9ef9780"
             },
             "geometry": {
@@ -332,7 +332,7 @@
                 "Name": "Whalesborough Cheese",
                 "Country": "England",
                 "State": "Cornwall",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000f0",
+                "DESCRIPTIO": "<b>Whalesborough Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f0\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/65f005f93b4ef15976d43b154efdc23c"
             },
             "geometry": {
@@ -350,7 +350,7 @@
                 "Name": "Westfield Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000003d",
+                "DESCRIPTIO": "<b>Westfield Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000003d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -368,7 +368,7 @@
                 "Name": "Westcombe Dairy",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000000f",
+                "DESCRIPTIO": "<b>Westcombe Dairy</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000000f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cfb884e20cfe99934b0488e1eac63cdd"
             },
             "geometry": {
@@ -386,7 +386,7 @@
                 "Name": "West River Creamery",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000002a",
+                "DESCRIPTIO": "<b>West River Creamery</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000002a\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -404,7 +404,7 @@
                 "Name": "Wensleydale Creamery",
                 "Country": "England",
                 "State": "North Yorkshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000002b",
+                "DESCRIPTIO": "<b>Wensleydale Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000002b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/dc11b058f9fae1df33527794f5bbb485"
             },
             "geometry": {
@@ -422,7 +422,7 @@
                 "Name": "Weirauch Farm & Creamery",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51577b985f2528020000001e",
+                "DESCRIPTIO": "<b>Weirauch Farm & Creamery</b><br><a href=\"http://api.formagg.io/maker/51577b985f2528020000001e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -440,7 +440,7 @@
                 "Name": "Washington State University Creamery",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000005",
+                "DESCRIPTIO": "<b>Washington State University Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000005\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -458,7 +458,7 @@
                 "Name": "Village Maid Cheese",
                 "Country": "England",
                 "State": "Berkshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000002a",
+                "DESCRIPTIO": "<b>Village Maid Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000002a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0ff8c614e66272fba55ffdd5259b6da1"
             },
             "geometry": {
@@ -476,7 +476,7 @@
                 "Name": "Vermont Farmstead Cheese Co.",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000036",
+                "DESCRIPTIO": "<b>Vermont Farmstead Cheese Co.</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000036\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c778a910e58d259afd0e2b3739e4d354"
             },
             "geometry": {
@@ -494,7 +494,7 @@
                 "Name": "Vella Cheese Company",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000d9",
+                "DESCRIPTIO": "<b>Vella Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d9\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -512,7 +512,7 @@
                 "Name": "Valley View Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/513be3ddddb8e1e3db000001",
+                "DESCRIPTIO": "<b>Valley View Farm</b><br><a href=\"http://api.formagg.io/maker/513be3ddddb8e1e3db000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -530,7 +530,7 @@
                 "Name": "Valley Side Farm Cheese",
                 "Country": "United States",
                 "State": "South Dakota",
-                "URL": "http://api.formagg.io/maker/51d8721f059afc0200000015",
+                "DESCRIPTIO": "<b>Valley Side Farm Cheese</b><br><a href=\"http://api.formagg.io/maker/51d8721f059afc0200000015\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/70cc5016671e37eecbe200e717f0364a"
             },
             "geometry": {
@@ -548,7 +548,7 @@
                 "Name": "Valley Shepherd Creamery",
                 "Country": "United States",
                 "State": "New Jersey",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000034",
+                "DESCRIPTIO": "<b>Valley Shepherd Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000034\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -566,7 +566,7 @@
                 "Name": "Valley Ford Cheese Company",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51579a6b72bf750200000013",
+                "DESCRIPTIO": "<b>Valley Ford Cheese Company</b><br><a href=\"http://api.formagg.io/maker/51579a6b72bf750200000013\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0e6b36dd25204ef38b99402d24a4043d"
             },
             "geometry": {
@@ -584,7 +584,7 @@
                 "Name": "Upper Canada Cheese.com",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/5133841fddb4440200000006",
+                "DESCRIPTIO": "<b>Upper Canada Cheese.com</b><br><a href=\"http://api.formagg.io/maker/5133841fddb4440200000006\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/5cdbf83746329e23eabe349b6a47b24b"
             },
             "geometry": {
@@ -602,7 +602,7 @@
                 "Name": "Uplands Cheese Company",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000009b",
+                "DESCRIPTIO": "<b>Uplands Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000009b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9bd978548574774d2ef8b4ceff17a655"
             },
             "geometry": {
@@ -620,7 +620,7 @@
                 "Name": "Udderly Cool Dairy",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/517aea14dbcec60200000020",
+                "DESCRIPTIO": "<b>Udderly Cool Dairy</b><br><a href=\"http://api.formagg.io/maker/517aea14dbcec60200000020\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/a1975f3dc51b6573e328bc61084ce4e6"
             },
             "geometry": {
@@ -638,7 +638,7 @@
                 "Name": "Udder View Farm",
                 "Country": "United States",
                 "State": "Maine",
-                "URL": "http://api.formagg.io/maker/51d832bf059afc0200000014",
+                "DESCRIPTIO": "<b>Udder View Farm</b><br><a href=\"http://api.formagg.io/maker/51d832bf059afc0200000014\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c9994b5dbdb7d67238026c24aac9476b"
             },
             "geometry": {
@@ -656,7 +656,7 @@
                 "Name": "Twig Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000085",
+                "DESCRIPTIO": "<b>Twig Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000085\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2aec0f8a97f672dd50caf96d9b8b087a"
             },
             "geometry": {
@@ -674,7 +674,7 @@
                 "Name": "Tuxford & Tebbett",
                 "Country": "England",
                 "State": "Bristol",
-                "URL": "http://api.formagg.io/maker/5179e5ae6e61840200000040",
+                "DESCRIPTIO": "<b>Tuxford & Tebbett</b><br><a href=\"http://api.formagg.io/maker/5179e5ae6e61840200000040\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/f754cc005e2e5c3536b5bb3231cf7ba2"
             },
             "geometry": {
@@ -692,7 +692,7 @@
                 "Name": "Tumalo Farms",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000010f",
+                "DESCRIPTIO": "<b>Tumalo Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000010f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b20349f8e5ed5b342e0e2271c4ea4a9e"
             },
             "geometry": {
@@ -710,7 +710,7 @@
                 "Name": "Treveador Farm Dairy",
                 "Country": "United States",
                 "State": "Cornwall",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000041",
+                "DESCRIPTIO": "<b>Treveador Farm Dairy</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000041\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -728,7 +728,7 @@
                 "Name": "Traders Point Creamery",
                 "Country": "United States",
                 "State": "Indiana",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000008e",
+                "DESCRIPTIO": "<b>Traders Point Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000008e\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/5feeb601349bf05975dfc22062e8d557"
             },
             "geometry": {
@@ -746,7 +746,7 @@
                 "Name": "Toons Bridge Dairy",
                 "Country": "Ireland",
                 "State": "County Cork",
-                "URL": "http://api.formagg.io/maker/5233950990e28f0200000001",
+                "DESCRIPTIO": "<b>Toons Bridge Dairy</b><br><a href=\"http://api.formagg.io/maker/5233950990e28f0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1a28796c32e16c2a503bdf7be9146e3b"
             },
             "geometry": {
@@ -764,7 +764,7 @@
                 "Name": "Tomales Farmstead Creamery",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51579b3472bf750200000016",
+                "DESCRIPTIO": "<b>Tomales Farmstead Creamery</b><br><a href=\"http://api.formagg.io/maker/51579b3472bf750200000016\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -782,7 +782,7 @@
                 "Name": "Tillamook Cheese",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000004a",
+                "DESCRIPTIO": "<b>Tillamook Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000004a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/22cc096b9fcf01e0b34a20cb5f88983d"
             },
             "geometry": {
@@ -800,7 +800,7 @@
                 "Name": "Tieton Farm & Creamery",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/515f316aece1240200000015",
+                "DESCRIPTIO": "<b>Tieton Farm & Creamery</b><br><a href=\"http://api.formagg.io/maker/515f316aece1240200000015\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/13cdfbe484e263814d90531080fb3aee"
             },
             "geometry": {
@@ -818,7 +818,7 @@
                 "Name": "Ticklemore Cheese",
                 "Country": "England",
                 "State": "Devon",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000001d",
+                "DESCRIPTIO": "<b>Ticklemore Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000001d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -836,7 +836,7 @@
                 "Name": "Thunder Oak Cheese Farm",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/51338880ddb4440200000014",
+                "DESCRIPTIO": "<b>Thunder Oak Cheese Farm</b><br><a href=\"http://api.formagg.io/maker/51338880ddb4440200000014\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -854,7 +854,7 @@
                 "Name": "Thornby Moor Dairy",
                 "Country": "England",
                 "State": "Cumbria",
-                "URL": "http://api.formagg.io/maker/5174a09586bc46020000003c",
+                "DESCRIPTIO": "<b>Thornby Moor Dairy</b><br><a href=\"http://api.formagg.io/maker/5174a09586bc46020000003c\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -872,7 +872,7 @@
                 "Name": "The Swiss Connection",
                 "Country": "United States",
                 "State": "Indiana",
-                "URL": "http://api.formagg.io/maker/51c88b447581010200000035",
+                "DESCRIPTIO": "<b>The Swiss Connection</b><br><a href=\"http://api.formagg.io/maker/51c88b447581010200000035\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -890,7 +890,7 @@
                 "Name": "The Swaledale Cheese Company",
                 "Country": "England",
                 "State": "North Yorkshire",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000f2",
+                "DESCRIPTIO": "<b>The Swaledale Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f2\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/166467398679e70ff5563c51bd9b3516"
             },
             "geometry": {
@@ -908,7 +908,7 @@
                 "Name": "The Shepherd’s Gate",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000068",
+                "DESCRIPTIO": "<b>The Shepherd’s Gate</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000068\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -926,7 +926,7 @@
                 "Name": "The Shebbear Cheese Company",
                 "Country": "England",
                 "State": "Devon",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000007d",
+                "DESCRIPTIO": "<b>The Shebbear Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000007d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -944,7 +944,7 @@
                 "Name": "The Sandwich Creamery",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/51ed28677d93490200000001",
+                "DESCRIPTIO": "<b>The Sandwich Creamery</b><br><a href=\"http://api.formagg.io/maker/51ed28677d93490200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0a4657ff76896a06dc9bcc44a022a91a"
             },
             "geometry": {
@@ -962,7 +962,7 @@
                 "Name": "The Parc Naturel du Perche",
                 "Country": "France",
                 "State": "Nocé",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000022",
+                "DESCRIPTIO": "<b>The Parc Naturel du Perche</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000022\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -980,7 +980,7 @@
                 "Name": "The Mozzarella Company",
                 "Country": "United States",
                 "State": "Texas",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000137",
+                "DESCRIPTIO": "<b>The Mozzarella Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000137\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6dffe110f1474780b00b8150e96f48d5"
             },
             "geometry": {
@@ -998,7 +998,7 @@
                 "Name": "The Grey Barn and Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/51713cf83efb4c020000000a",
+                "DESCRIPTIO": "<b>The Grey Barn and Farm</b><br><a href=\"http://api.formagg.io/maker/51713cf83efb4c020000000a\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1016,7 +1016,7 @@
                 "Name": "The Gould Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c4",
+                "DESCRIPTIO": "<b>The Gould Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c4\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/8b442aa21d13b1f2e3abcf5ecba100f0"
             },
             "geometry": {
@@ -1034,7 +1034,7 @@
                 "Name": "The Bath Soft Cheese Company",
                 "Country": "England",
                 "State": "Bath",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000001",
+                "DESCRIPTIO": "<b>The Bath Soft Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1052,7 +1052,7 @@
                 "Name": "Taylor Brothers Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000013",
+                "DESCRIPTIO": "<b>Taylor Brothers Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000013\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7b9ab14916b7d0170afffcfe167ecaec"
             },
             "geometry": {
@@ -1070,7 +1070,7 @@
                 "Name": "Sweet Grass Dairy",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000041",
+                "DESCRIPTIO": "<b>Sweet Grass Dairy</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000041\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7344817296a78b276ffa7f547bc56bda"
             },
             "geometry": {
@@ -1088,7 +1088,7 @@
                 "Name": "Suigi Guffanti",
                 "Country": "Italy",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000062",
+                "DESCRIPTIO": "<b>Suigi Guffanti</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000062\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/04a63ee6c2fa0652e3d20749b834a79b"
             },
             "geometry": {
@@ -1106,7 +1106,7 @@
                 "Name": "Straus Family Creamery",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51579c1472bf750200000017",
+                "DESCRIPTIO": "<b>Straus Family Creamery</b><br><a href=\"http://api.formagg.io/maker/51579c1472bf750200000017\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c6d77da18d23ced7e752a66c2f4b8f35"
             },
             "geometry": {
@@ -1124,7 +1124,7 @@
                 "Name": "Stichelton Dairy Ltd.",
                 "Country": "England",
                 "State": "Nottinghamshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000007e",
+                "DESCRIPTIO": "<b>Stichelton Dairy Ltd.</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000007e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1142,7 +1142,7 @@
                 "Name": "Sprout Creek Farm",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000fe",
+                "DESCRIPTIO": "<b>Sprout Creek Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000fe\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cf7a5206f0bd1112c4848d37d874b5e3"
             },
             "geometry": {
@@ -1160,7 +1160,7 @@
                 "Name": "Spring Hill Cheese Company",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51579cf972bf750200000018",
+                "DESCRIPTIO": "<b>Spring Hill Cheese Company</b><br><a href=\"http://api.formagg.io/maker/51579cf972bf750200000018\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c4fd0c29af81225b79713fadf86c2306"
             },
             "geometry": {
@@ -1178,7 +1178,7 @@
                 "Name": "Southwind Farmstead Cheese",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000045",
+                "DESCRIPTIO": "<b>Southwind Farmstead Cheese</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000045\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/aff7715ff4fcec4075ac90f376af4982"
             },
             "geometry": {
@@ -1196,7 +1196,7 @@
                 "Name": "Somerset Cheese Company",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000014",
+                "DESCRIPTIO": "<b>Somerset Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000014\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/f0d37d42a32d27673caa97469977028d"
             },
             "geometry": {
@@ -1214,7 +1214,7 @@
                 "Name": "Societe Cooperative Agricole de l'Isle-aux-Grues",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/51363789ac48d80200000001",
+                "DESCRIPTIO": "<b>Societe Cooperative Agricole de l'Isle-aux-Grues</b><br><a href=\"http://api.formagg.io/maker/51363789ac48d80200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/58dd406201db9e52d2a3dd0cbda6ce3d"
             },
             "geometry": {
@@ -1232,7 +1232,7 @@
                 "Name": "Smiths Country Cheese",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/517029fc9707150200000001",
+                "DESCRIPTIO": "<b>Smiths Country Cheese</b><br><a href=\"http://api.formagg.io/maker/517029fc9707150200000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1250,7 +1250,7 @@
                 "Name": "Sleepy Goat Farm",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/51d8105d059afc0200000001",
+                "DESCRIPTIO": "<b>Sleepy Goat Farm</b><br><a href=\"http://api.formagg.io/maker/51d8105d059afc0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b7c32ef9092891165fe31e1146782394"
             },
             "geometry": {
@@ -1268,7 +1268,7 @@
                 "Name": "Sirana Gligora",
                 "Country": "Croatia",
                 "State": "Kolan",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000001b",
+                "DESCRIPTIO": "<b>Sirana Gligora</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000001b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e20ff10720fbe6b151591f12b6505a02"
             },
             "geometry": {
@@ -1286,7 +1286,7 @@
                 "Name": "Siobhan Ni Ghairbith",
                 "Country": "Ireland",
                 "State": "County Clare",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000003e",
+                "DESCRIPTIO": "<b>Siobhan Ni Ghairbith</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000003e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1304,7 +1304,7 @@
                 "Name": "Simmons Farm Organics",
                 "Country": "United States",
                 "State": "Rhode Island",
-                "URL": "http://api.formagg.io/maker/515b1b62e975cd0200000001",
+                "DESCRIPTIO": "<b>Simmons Farm Organics</b><br><a href=\"http://api.formagg.io/maker/515b1b62e975cd0200000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1322,7 +1322,7 @@
                 "Name": "Silvery Moon Creamery",
                 "Country": "United States",
                 "State": "Maine",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000002c",
+                "DESCRIPTIO": "<b>Silvery Moon Creamery</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000002c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/3e46edf778e50d0e921cb334a6382b20"
             },
             "geometry": {
@@ -1340,7 +1340,7 @@
                 "Name": "Shy Brothers Farm",
                 "Country": "United States",
                 "State": "Massachussets",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000df",
+                "DESCRIPTIO": "<b>Shy Brothers Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000df\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/95040fb0c72d283fe6bec45ab4be1c76"
             },
             "geometry": {
@@ -1358,7 +1358,7 @@
                 "Name": "Sheridans Cheesemongers",
                 "Country": "Ireland",
                 "State": "County Meath",
-                "URL": "http://api.formagg.io/maker/520fa76e7dc2910200000031",
+                "DESCRIPTIO": "<b>Sheridans Cheesemongers</b><br><a href=\"http://api.formagg.io/maker/520fa76e7dc2910200000031\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/10a9e47c440528e5e6348b69ba16f25b"
             },
             "geometry": {
@@ -1376,7 +1376,7 @@
                 "Name": "Shepherds Manor Creamery",
                 "Country": "United States",
                 "State": "Maryland",
-                "URL": "http://api.formagg.io/maker/51797ce46e61840200000010",
+                "DESCRIPTIO": "<b>Shepherds Manor Creamery</b><br><a href=\"http://api.formagg.io/maker/51797ce46e61840200000010\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0ca10f4b4d8d010c6870c00f910882d7"
             },
             "geometry": {
@@ -1394,7 +1394,7 @@
                 "Name": "Shepherds Dairy Products",
                 "Country": "United States",
                 "State": "Utah",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000066",
+                "DESCRIPTIO": "<b>Shepherds Dairy Products</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000066\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1412,7 +1412,7 @@
                 "Name": "Shepherd's Way Farms",
                 "Country": "United States",
                 "State": "Minnesota",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000107",
+                "DESCRIPTIO": "<b>Shepherd's Way Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000107\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/70f3a8cf396e68ec8badda8c02cf7dbb"
             },
             "geometry": {
@@ -1430,7 +1430,7 @@
                 "Name": "Shelburne Farms",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000113",
+                "DESCRIPTIO": "<b>Shelburne Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000113\">more</a>",
                 "Image": "https://nodeloader.s3.amazonaws.com/scratch/5e685e3a4b2c48468843e5f40bc2c50a"
             },
             "geometry": {
@@ -1448,7 +1448,7 @@
                 "Name": "Sharpham Farm",
                 "Country": "England",
                 "State": "South Devon",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000ed",
+                "DESCRIPTIO": "<b>Sharpham Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ed\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0d990d1cac8e04c72d7c43e77d97205e"
             },
             "geometry": {
@@ -1466,7 +1466,7 @@
                 "Name": "Sequatchie Cove Creamery",
                 "Country": "United States",
                 "State": "Tennessee",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c5",
+                "DESCRIPTIO": "<b>Sequatchie Cove Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c5\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/32a90fc4fc0b8189d0c4825c1ed245ff"
             },
             "geometry": {
@@ -1484,7 +1484,7 @@
                 "Name": "September Farm",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/517a7a7e943f31020000001e",
+                "DESCRIPTIO": "<b>September Farm</b><br><a href=\"http://api.formagg.io/maker/517a7a7e943f31020000001e\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/81168d21cb847c7b6849d1211d79b7aa"
             },
             "geometry": {
@@ -1502,7 +1502,7 @@
                 "Name": "Seal Cove Farm",
                 "Country": "United States",
                 "State": "Maine",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000027",
+                "DESCRIPTIO": "<b>Seal Cove Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000027\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1520,7 +1520,7 @@
                 "Name": "Scholten Family Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000047",
+                "DESCRIPTIO": "<b>Scholten Family Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000047\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1538,7 +1538,7 @@
                 "Name": "Santori Cheese",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/51d877e7059afc0200000020",
+                "DESCRIPTIO": "<b>Santori Cheese</b><br><a href=\"http://api.formagg.io/maker/51d877e7059afc0200000020\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6515719b9fd5dc31b7fbcee1ded73535"
             },
             "geometry": {
@@ -1556,7 +1556,7 @@
                 "Name": "Sally Jackson Cheeses",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000060",
+                "DESCRIPTIO": "<b>Sally Jackson Cheeses</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000060\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1574,7 +1574,7 @@
                 "Name": "Sage Farm Goat Dairy",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000006",
+                "DESCRIPTIO": "<b>Sage Farm Goat Dairy</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000006\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/892de2f12e0f9a3452417a54ac876984"
             },
             "geometry": {
@@ -1592,7 +1592,7 @@
                 "Name": "Ruggles Hill Creamery",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/51531cbddf83e20200000001",
+                "DESCRIPTIO": "<b>Ruggles Hill Creamery</b><br><a href=\"http://api.formagg.io/maker/51531cbddf83e20200000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1610,7 +1610,7 @@
                 "Name": "Roth Cheese",
                 "Country": "Canada",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/5138e1b47c2e2e020000002e",
+                "DESCRIPTIO": "<b>Roth Cheese</b><br><a href=\"http://api.formagg.io/maker/5138e1b47c2e2e020000002e\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/645d00a65d4c6a7d8cb0331c876d322a"
             },
             "geometry": {
@@ -1628,7 +1628,7 @@
                 "Name": "Rogue Creamery",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000050",
+                "DESCRIPTIO": "<b>Rogue Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000050\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6b0c1d6040af6bea0a1b714e313c958c"
             },
             "geometry": {
@@ -1646,7 +1646,7 @@
                 "Name": "Robinson Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000b5",
+                "DESCRIPTIO": "<b>Robinson Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000b5\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1664,7 +1664,7 @@
                 "Name": "Robie Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/51ed3f6d7d9349020000002c",
+                "DESCRIPTIO": "<b>Robie Farm</b><br><a href=\"http://api.formagg.io/maker/51ed3f6d7d9349020000002c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/d2c05e8a8459b01146c485d8e3516b78"
             },
             "geometry": {
@@ -1682,7 +1682,7 @@
                 "Name": "Rivers Edge Chèvre",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/515f2e43ece1240200000001",
+                "DESCRIPTIO": "<b>Rivers Edge Chèvre</b><br><a href=\"http://api.formagg.io/maker/515f2e43ece1240200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/3364546f348f9be3cd5606a95e8303fe"
             },
             "geometry": {
@@ -1700,7 +1700,7 @@
                 "Name": "Rinconada Dairy",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51752fae8eace50200000002",
+                "DESCRIPTIO": "<b>Rinconada Dairy</b><br><a href=\"http://api.formagg.io/maker/51752fae8eace50200000002\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/05a77935f6fb89382ab1139daa731612"
             },
             "geometry": {
@@ -1718,7 +1718,7 @@
                 "Name": "Richard Rowlett and Billy Kevan",
                 "Country": "England",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000ea",
+                "DESCRIPTIO": "<b>Richard Rowlett and Billy Kevan</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ea\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1736,7 +1736,7 @@
                 "Name": "Rhody Fresh",
                 "Country": "United States",
                 "State": "Rhode Island",
-                "URL": "http://api.formagg.io/maker/515b1cace975cd0200000003",
+                "DESCRIPTIO": "<b>Rhody Fresh</b><br><a href=\"http://api.formagg.io/maker/515b1cace975cd0200000003\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/4a1e48fd65fd9043dabf643c1f0b4169"
             },
             "geometry": {
@@ -1754,7 +1754,7 @@
                 "Name": "Redwood Hill Farm & Creamery",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000106",
+                "DESCRIPTIO": "<b>Redwood Hill Farm & Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000106\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2ed6594ab2255bae13f187098e3fa418"
             },
             "geometry": {
@@ -1772,7 +1772,7 @@
                 "Name": "Ramini Mozzarella",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/5157a16472bf750200000021",
+                "DESCRIPTIO": "<b>Ramini Mozzarella</b><br><a href=\"http://api.formagg.io/maker/5157a16472bf750200000021\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1790,7 +1790,7 @@
                 "Name": "Ram Hall Dairy Sheep",
                 "Country": "England",
                 "State": "Warwickshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000012",
+                "DESCRIPTIO": "<b>Ram Hall Dairy Sheep</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000012\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1808,7 +1808,7 @@
                 "Name": "Rainbeau Ridge",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/5178a47630c1b2020000002b",
+                "DESCRIPTIO": "<b>Rainbeau Ridge</b><br><a href=\"http://api.formagg.io/maker/5178a47630c1b2020000002b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2a91ef7e0fb6b15e9ea152d18fbb062c"
             },
             "geometry": {
@@ -1826,7 +1826,7 @@
                 "Name": "Quicke Traditional",
                 "Country": "England",
                 "State": "Devon",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000020",
+                "DESCRIPTIO": "<b>Quicke Traditional</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000020\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2416c69fa5205ad3e4d9862ea48df27a"
             },
             "geometry": {
@@ -1844,7 +1844,7 @@
                 "Name": "Quality Cheese Inc.",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/513904f87c2e2e0200000040",
+                "DESCRIPTIO": "<b>Quality Cheese Inc.</b><br><a href=\"http://api.formagg.io/maker/513904f87c2e2e0200000040\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/010045eca1d71e6fe7a3d8318cbf1963"
             },
             "geometry": {
@@ -1862,7 +1862,7 @@
                 "Name": "Pyengana Dairy Company",
                 "Country": "Australia",
                 "State": "Tasmania",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000006",
+                "DESCRIPTIO": "<b>Pyengana Dairy Company</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000006\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e2c17e50a814c66c87336deddefdc08a"
             },
             "geometry": {
@@ -1880,7 +1880,7 @@
                 "Name": "Pug's Leap Farm",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51752ec18eace50200000001",
+                "DESCRIPTIO": "<b>Pug's Leap Farm</b><br><a href=\"http://api.formagg.io/maker/51752ec18eace50200000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -1898,7 +1898,7 @@
                 "Name": "Prairie Fruits Farm and Creamery",
                 "Country": "United States",
                 "State": "Illinois",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000010b",
+                "DESCRIPTIO": "<b>Prairie Fruits Farm and Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000010b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/8121a3bb4c4aa0afa6d4de4dddc88315"
             },
             "geometry": {
@@ -1916,7 +1916,7 @@
                 "Name": "Point Reyes Farmstead Cheese Co.",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000145",
+                "DESCRIPTIO": "<b>Point Reyes Farmstead Cheese Co.</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000145\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2c2045fd81cbb9331cc8fc59f416dcf9"
             },
             "geometry": {
@@ -1934,7 +1934,7 @@
                 "Name": "Plymouth Artisan Cheese",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000049",
+                "DESCRIPTIO": "<b>Plymouth Artisan Cheese</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000049\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b2dcf478ceb9349a69f424d4e0570312"
             },
             "geometry": {
@@ -1952,7 +1952,7 @@
                 "Name": "Pineland Farm",
                 "Country": "United States",
                 "State": "Maine",
-                "URL": "http://api.formagg.io/maker/51d9f03cf566160200000008",
+                "DESCRIPTIO": "<b>Pineland Farm</b><br><a href=\"http://api.formagg.io/maker/51d9f03cf566160200000008\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/4b5c7c4c1ce1918a4d9ec28d20c9b72e"
             },
             "geometry": {
@@ -1970,7 +1970,7 @@
                 "Name": "Pholia Farm",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000ff",
+                "DESCRIPTIO": "<b>Pholia Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ff\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/f8531ef0c0944d5717212a7bc8e69095"
             },
             "geometry": {
@@ -1988,7 +1988,7 @@
                 "Name": "Philippe Olivier (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c21282225685020000000b",
+                "DESCRIPTIO": "<b>Philippe Olivier (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c21282225685020000000b\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2006,7 +2006,7 @@
                 "Name": "Peaked Mountain Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000028",
+                "DESCRIPTIO": "<b>Peaked Mountain Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000028\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7d9b056ff2d32c485993242cbf3a1712"
             },
             "geometry": {
@@ -2024,7 +2024,7 @@
                 "Name": "Patrick Beaumont",
                 "Country": "France",
                 "State": "Auvergne",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000d5",
+                "DESCRIPTIO": "<b>Patrick Beaumont</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d5\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2042,7 +2042,7 @@
                 "Name": "Pampered Cow Creamery at Twin Maple Farm",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/5178a32e30c1b20200000027",
+                "DESCRIPTIO": "<b>Pampered Cow Creamery at Twin Maple Farm</b><br><a href=\"http://api.formagg.io/maker/5178a32e30c1b20200000027\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/19bfe88a17b93819f77323100ab8e11b"
             },
             "geometry": {
@@ -2060,7 +2060,7 @@
                 "Name": "Orland Farm",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51d81ff7059afc0200000009",
+                "DESCRIPTIO": "<b>Orland Farm</b><br><a href=\"http://api.formagg.io/maker/51d81ff7059afc0200000009\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6445e34eb55d4b55fc624ac51c3db3cd"
             },
             "geometry": {
@@ -2078,7 +2078,7 @@
                 "Name": "Orb Weaver Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000001f",
+                "DESCRIPTIO": "<b>Orb Weaver Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000001f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/8a54bcea20155b40fa06a113d38ec32a"
             },
             "geometry": {
@@ -2096,7 +2096,7 @@
                 "Name": "Ontario Goat Cheese",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/51e075fc61d1280200000010",
+                "DESCRIPTIO": "<b>Ontario Goat Cheese</b><br><a href=\"http://api.formagg.io/maker/51e075fc61d1280200000010\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/681455d5c047a22d396abb7e9e942ecb"
             },
             "geometry": {
@@ -2114,7 +2114,7 @@
                 "Name": "Old MacDonnells Farm",
                 "Country": "Ireland",
                 "State": "County Wicklow",
-                "URL": "http://api.formagg.io/maker/5230b3f83ea41f0200000017",
+                "DESCRIPTIO": "<b>Old MacDonnells Farm</b><br><a href=\"http://api.formagg.io/maker/5230b3f83ea41f0200000017\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1e4de4b95feef712ada55ec07d57bc7d"
             },
             "geometry": {
@@ -2132,7 +2132,7 @@
                 "Name": "Old Ley Farm/Smart's Farm",
                 "Country": "England",
                 "State": "Gloucester",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000043",
+                "DESCRIPTIO": "<b>Old Ley Farm/Smart's Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000043\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2150,7 +2150,7 @@
                 "Name": "Old Irish Creamery",
                 "Country": "Ireland",
                 "State": "County Limerick",
-                "URL": "http://api.formagg.io/maker/522eca4d8b7d8e0200000002",
+                "DESCRIPTIO": "<b>Old Irish Creamery</b><br><a href=\"http://api.formagg.io/maker/522eca4d8b7d8e0200000002\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/37ec68f7e77d201ca38e35fa6e1bbb79"
             },
             "geometry": {
@@ -2168,7 +2168,7 @@
                 "Name": "Old Chatham Sheepherding Company",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000056",
+                "DESCRIPTIO": "<b>Old Chatham Sheepherding Company</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000056\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ee2ff1d0146293bf9a30ec9038846d03"
             },
             "geometry": {
@@ -2186,7 +2186,7 @@
                 "Name": "Obere Mühle Co-operative Dairy",
                 "Country": "Germay",
                 "State": "Allgau",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000006c",
+                "DESCRIPTIO": "<b>Obere Mühle Co-operative Dairy</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006c\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2204,7 +2204,7 @@
                 "Name": "Nunzio Marcelli",
                 "Country": "Italy",
                 "State": "Abruzzo",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000000a",
+                "DESCRIPTIO": "<b>Nunzio Marcelli</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000000a\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2222,7 +2222,7 @@
                 "Name": "Northland Sheep Dairy",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000015",
+                "DESCRIPTIO": "<b>Northland Sheep Dairy</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000015\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/8ab701bfd462f5b01d925322a0790ef4"
             },
             "geometry": {
@@ -2240,7 +2240,7 @@
                 "Name": "Norsworthy Dairy",
                 "Country": "England",
                 "State": "Crediton",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000026",
+                "DESCRIPTIO": "<b>Norsworthy Dairy</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000026\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2258,7 +2258,7 @@
                 "Name": "Noble Springs Dairy",
                 "Country": "United States",
                 "State": "Tennessee",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000076",
+                "DESCRIPTIO": "<b>Noble Springs Dairy</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000076\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/126dcb8e297151ecf919a0a64c8bae99"
             },
             "geometry": {
@@ -2276,7 +2276,7 @@
                 "Name": "Nicolau Farms",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/517535a18eace50200000011",
+                "DESCRIPTIO": "<b>Nicolau Farms</b><br><a href=\"http://api.formagg.io/maker/517535a18eace50200000011\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1c35f2d4f304834ccd825186ba1a7c97"
             },
             "geometry": {
@@ -2294,7 +2294,7 @@
                 "Name": "Nicasio Valley Cheese Company",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/515847a86262770200000001",
+                "DESCRIPTIO": "<b>Nicasio Valley Cheese Company</b><br><a href=\"http://api.formagg.io/maker/515847a86262770200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e821ba681341fa2e8d30f721948427c4"
             },
             "geometry": {
@@ -2312,7 +2312,7 @@
                 "Name": "Nettle Meadow Goat Farm",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000010",
+                "DESCRIPTIO": "<b>Nettle Meadow Goat Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000010\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/debe53ee0f7ffda24ba303ecf1c714e9"
             },
             "geometry": {
@@ -2330,7 +2330,7 @@
                 "Name": "Nature's Harmony Farm",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/517af0b7dbcec60200000048",
+                "DESCRIPTIO": "<b>Nature's Harmony Farm</b><br><a href=\"http://api.formagg.io/maker/517af0b7dbcec60200000048\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1086eb2a1f3f53c08d128bfc0be51568"
             },
             "geometry": {
@@ -2348,7 +2348,7 @@
                 "Name": "Narragansett Creamery",
                 "Country": "United States",
                 "State": "Rhode Island",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000091",
+                "DESCRIPTIO": "<b>Narragansett Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000091\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7fbc7da1c09a2c249e946a09fcb668cd"
             },
             "geometry": {
@@ -2366,7 +2366,7 @@
                 "Name": "My Test Cheese Maker",
                 "Country": "United States",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/517200ef97f5530200000021",
+                "DESCRIPTIO": "<b>My Test Cheese Maker</b><br><a href=\"http://api.formagg.io/maker/517200ef97f5530200000021\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/41bdb3367ce37078cfce410d687b7f9e"
             },
             "geometry": {
@@ -2384,7 +2384,7 @@
                 "Name": "Mt Townsend Creamery",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000102",
+                "DESCRIPTIO": "<b>Mt Townsend Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000102\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cac69858e5e208d49db8fc2c6c1fe06e"
             },
             "geometry": {
@@ -2402,7 +2402,7 @@
                 "Name": "Mt Sterling Cheese Coop",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000006e",
+                "DESCRIPTIO": "<b>Mt Sterling Cheese Coop</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2420,7 +2420,7 @@
                 "Name": "Mozzarella House",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/517141133efb4c020000000f",
+                "DESCRIPTIO": "<b>Mozzarella House</b><br><a href=\"http://api.formagg.io/maker/517141133efb4c020000000f\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2438,7 +2438,7 @@
                 "Name": "Mountain View Farm Products LLC",
                 "Country": "United States",
                 "State": "Virginia",
-                "URL": "http://api.formagg.io/maker/5159c81f77f7180200000002",
+                "DESCRIPTIO": "<b>Mountain View Farm Products LLC</b><br><a href=\"http://api.formagg.io/maker/5159c81f77f7180200000002\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2456,7 +2456,7 @@
                 "Name": "Mount Callan Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "County Clare",
-                "URL": "http://api.formagg.io/maker/52236656d649f9020000000b",
+                "DESCRIPTIO": "<b>Mount Callan Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/52236656d649f9020000000b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/40a4be17a0569b7101b8f676fa62401f"
             },
             "geometry": {
@@ -2474,7 +2474,7 @@
                 "Name": "Mouco Cheese Company Inc.",
                 "Country": "United States",
                 "State": "Colorado",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000006a",
+                "DESCRIPTIO": "<b>Mouco Cheese Company Inc.</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2c601b9aaca792b5e40286cf471ef50f"
             },
             "geometry": {
@@ -2492,7 +2492,7 @@
                 "Name": "Mossfield Organic Farm",
                 "Country": "Ireland",
                 "State": "County Offaly",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000133",
+                "DESCRIPTIO": "<b>Mossfield Organic Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000133\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9350c26060c0b9bde546b41383e75238"
             },
             "geometry": {
@@ -2510,7 +2510,7 @@
                 "Name": "Montgomery Cheese",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000077",
+                "DESCRIPTIO": "<b>Montgomery Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000077\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/a62bd71fc4a3b7f4d88ab8e069622fb4"
             },
             "geometry": {
@@ -2528,7 +2528,7 @@
                 "Name": "Monteillet Fromagerie",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/51535ec8df83e20200000003",
+                "DESCRIPTIO": "<b>Monteillet Fromagerie</b><br><a href=\"http://api.formagg.io/maker/51535ec8df83e20200000003\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/bd5e261c509ea4543fec46805c932e4d"
             },
             "geometry": {
@@ -2546,7 +2546,7 @@
                 "Name": "Monks of Tamie",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000cc",
+                "DESCRIPTIO": "<b>Monks of Tamie</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000cc\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2564,7 +2564,7 @@
                 "Name": "Millhouse Sheep’s Cheese",
                 "Country": "Ireland",
                 "State": "County Offaly",
-                "URL": "http://api.formagg.io/maker/5230b6843ea41f020000001d",
+                "DESCRIPTIO": "<b>Millhouse Sheep’s Cheese</b><br><a href=\"http://api.formagg.io/maker/5230b6843ea41f020000001d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2582,7 +2582,7 @@
                 "Name": "Milleens Cheese",
                 "Country": "Ireland",
                 "State": "County Cork",
-                "URL": "http://api.formagg.io/maker/5223757a2049430200000001",
+                "DESCRIPTIO": "<b>Milleens Cheese</b><br><a href=\"http://api.formagg.io/maker/5223757a2049430200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cec3469601a5720cd83c016c8f8820a3"
             },
             "geometry": {
@@ -2600,7 +2600,7 @@
                 "Name": "Milawa Cheese",
                 "Country": "Australia",
                 "State": "Victoria",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000042",
+                "DESCRIPTIO": "<b>Milawa Cheese</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000042\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/d2f800e487ed48d8d1659eb85a44396a"
             },
             "geometry": {
@@ -2618,7 +2618,7 @@
                 "Name": "Mermaid Farm and Dairy",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/5171402b3efb4c020000000d",
+                "DESCRIPTIO": "<b>Mermaid Farm and Dairy</b><br><a href=\"http://api.formagg.io/maker/5171402b3efb4c020000000d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2636,7 +2636,7 @@
                 "Name": "Meredith Dairy",
                 "Country": "Australia",
                 "State": "Victoria",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000011d",
+                "DESCRIPTIO": "<b>Meredith Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000011d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2654,7 +2654,7 @@
                 "Name": "Meister Cheese Company",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/51d95feff566160200000001",
+                "DESCRIPTIO": "<b>Meister Cheese Company</b><br><a href=\"http://api.formagg.io/maker/51d95feff566160200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/d5ea5eebdcbf1c82fdcb3caf70e2981e"
             },
             "geometry": {
@@ -2672,7 +2672,7 @@
                 "Name": "Meadowood Farms",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/5208f6f2fb183c0200000001",
+                "DESCRIPTIO": "<b>Meadowood Farms</b><br><a href=\"http://api.formagg.io/maker/5208f6f2fb183c0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0f61c0573e56b59e6ba2c36e2eb9f60f"
             },
             "geometry": {
@@ -2690,7 +2690,7 @@
                 "Name": "Meadow Creek Dairy",
                 "Country": "United States",
                 "State": "Virginia",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000057",
+                "DESCRIPTIO": "<b>Meadow Creek Dairy</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000057\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2708,7 +2708,7 @@
                 "Name": "Max Schmidhauser",
                 "Country": "France",
                 "State": "Savoie",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000a6",
+                "DESCRIPTIO": "<b>Max Schmidhauser</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a6\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2726,7 +2726,7 @@
                 "Name": "Massachusetts Cheese Guild",
                 "Country": "United States",
                 "State": "Massachusetts",
-                "URL": "http://api.formagg.io/maker/5175a1a28eace50200000015",
+                "DESCRIPTIO": "<b>Massachusetts Cheese Guild</b><br><a href=\"http://api.formagg.io/maker/5175a1a28eace50200000015\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/db502c215e9ce178ff1446b19793e157"
             },
             "geometry": {
@@ -2744,7 +2744,7 @@
                 "Name": "Marin French Cheeese Co.",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c2",
+                "DESCRIPTIO": "<b>Marin French Cheeese Co.</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c2\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2762,7 +2762,7 @@
                 "Name": "Marcel Petite",
                 "Country": "France",
                 "State": "Franche-Comte",
-                "URL": "http://api.formagg.io/maker/513a739a5b78c10200000013",
+                "DESCRIPTIO": "<b>Marcel Petite</b><br><a href=\"http://api.formagg.io/maker/513a739a5b78c10200000013\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cb40ed1937616e27d0b4be3f4979c223"
             },
             "geometry": {
@@ -2780,7 +2780,7 @@
                 "Name": "Maplebrook Fine Cheese",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000003d",
+                "DESCRIPTIO": "<b>Maplebrook Fine Cheese</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000003d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/021f341d62188df194eb699cc94be57a"
             },
             "geometry": {
@@ -2798,7 +2798,7 @@
                 "Name": "Maple Leaf Cheese Cooperative",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000100",
+                "DESCRIPTIO": "<b>Maple Leaf Cheese Cooperative</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000100\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b979862702fb15d44abeb88e1a2a5cfe"
             },
             "geometry": {
@@ -2816,7 +2816,7 @@
                 "Name": "Many Fold Farm",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/513be3622c239514d9000001",
+                "DESCRIPTIO": "<b>Many Fold Farm</b><br><a href=\"http://api.formagg.io/maker/513be3622c239514d9000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0ef0d5dba761ac7afcff7a16b10d16b6"
             },
             "geometry": {
@@ -2834,7 +2834,7 @@
                 "Name": "Manor Farm",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000080",
+                "DESCRIPTIO": "<b>Manor Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000080\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2852,7 +2852,7 @@
                 "Name": "Makers Cornish Country Larder",
                 "Country": "England",
                 "State": "Cornwall",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000b0",
+                "DESCRIPTIO": "<b>Makers Cornish Country Larder</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000b0\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b005e26c90cf2a588372b42a3b2e62d7"
             },
             "geometry": {
@@ -2870,7 +2870,7 @@
                 "Name": "Mackenzie Creamery",
                 "Country": "United States",
                 "State": "Ohio",
-                "URL": "http://api.formagg.io/maker/51768bf2943fbd0200000019",
+                "DESCRIPTIO": "<b>Mackenzie Creamery</b><br><a href=\"http://api.formagg.io/maker/51768bf2943fbd0200000019\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1ce8c4be22f8b01fafe061c91bb56873"
             },
             "geometry": {
@@ -2888,7 +2888,7 @@
                 "Name": "Lynher Dairies Cheese Company",
                 "Country": "England",
                 "State": "West Cornwall",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000021",
+                "DESCRIPTIO": "<b>Lynher Dairies Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000021\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7e94298a3fd80530fb02b5e241c210b1"
             },
             "geometry": {
@@ -2906,7 +2906,7 @@
                 "Name": "Luigi Guffanti",
                 "Country": "Italy",
                 "State": "Lombardy",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000015",
+                "DESCRIPTIO": "<b>Luigi Guffanti</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000015\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b94d4d1a47890f5c479d61045a81b8f9"
             },
             "geometry": {
@@ -2924,7 +2924,7 @@
                 "Name": "Lovetree Farmstead Cheese",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000005d",
+                "DESCRIPTIO": "<b>Lovetree Farmstead Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -2942,7 +2942,7 @@
                 "Name": "Love Tree Farmstead Cheese",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000a5",
+                "DESCRIPTIO": "<b>Love Tree Farmstead Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a5\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/51ecb5c326a3058d85f0a84919a626ff"
             },
             "geometry": {
@@ -2960,7 +2960,7 @@
                 "Name": "Looking Glass Creamery",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/5175ba328eace5020000004c",
+                "DESCRIPTIO": "<b>Looking Glass Creamery</b><br><a href=\"http://api.formagg.io/maker/5175ba328eace5020000004c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/846e3a2063a9e6288101ee840d345091"
             },
             "geometry": {
@@ -2978,7 +2978,7 @@
                 "Name": "Looking Glass Creamery",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/5175ba328eace5020000004b",
+                "DESCRIPTIO": "<b>Looking Glass Creamery</b><br><a href=\"http://api.formagg.io/maker/5175ba328eace5020000004b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/76168c2ba39d9a54496822f08841b3f1"
             },
             "geometry": {
@@ -2996,7 +2996,7 @@
                 "Name": "Locust Grove",
                 "Country": "United States",
                 "State": "Tennessee",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000054",
+                "DESCRIPTIO": "<b>Locust Grove</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000054\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3014,7 +3014,7 @@
                 "Name": "Leicestershire Handmade Cheese Company",
                 "Country": "England",
                 "State": "Warwickshire",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000b2",
+                "DESCRIPTIO": "<b>Leicestershire Handmade Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000b2\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c6309575d9d3f35e12218fd44006d66a"
             },
             "geometry": {
@@ -3032,7 +3032,7 @@
                 "Name": "Laura Chenel",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000097",
+                "DESCRIPTIO": "<b>Laura Chenel</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000097\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/39760ff60b55dfc752d9e4814f7972d9"
             },
             "geometry": {
@@ -3050,7 +3050,7 @@
                 "Name": "Landaff Creamery",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000004e",
+                "DESCRIPTIO": "<b>Landaff Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000004e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3068,7 +3068,7 @@
                 "Name": "Lakin's Gorges Cheese",
                 "Country": "United States",
                 "State": "Maine",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000004d",
+                "DESCRIPTIO": "<b>Lakin's Gorges Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000004d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/5aac2dc3b4f469109d97e1307648de05"
             },
             "geometry": {
@@ -3086,7 +3086,7 @@
                 "Name": "Laiterie de la Cote",
                 "Country": "France",
                 "State": "Burgundy",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000002e",
+                "DESCRIPTIO": "<b>Laiterie de la Cote</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000002e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3104,7 +3104,7 @@
                 "Name": "Lactalis Group",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000011e",
+                "DESCRIPTIO": "<b>Lactalis Group</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000011e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3122,7 +3122,7 @@
                 "Name": "LaClare Farms",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000146",
+                "DESCRIPTIO": "<b>LaClare Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000146\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/683229a4e3e3e9f03d571f797aeaa24f"
             },
             "geometry": {
@@ -3140,7 +3140,7 @@
                 "Name": "La ferme des Bahardes (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c210352256850200000004",
+                "DESCRIPTIO": "<b>La ferme des Bahardes (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c210352256850200000004\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3158,7 +3158,7 @@
                 "Name": "La Chevriette (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c210f62256850200000007",
+                "DESCRIPTIO": "<b>La Chevriette (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c210f62256850200000007\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3176,7 +3176,7 @@
                 "Name": "La Casa dei Formaggi",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/51968c24c7786a0200000001",
+                "DESCRIPTIO": "<b>La Casa dei Formaggi</b><br><a href=\"http://api.formagg.io/maker/51968c24c7786a0200000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3194,7 +3194,7 @@
                 "Name": "Käsküche Isny GmbH",
                 "Country": "Germany",
                 "State": "Bavaria",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000000c",
+                "DESCRIPTIO": "<b>Käsküche Isny GmbH</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000000c\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3212,7 +3212,7 @@
                 "Name": "Kootenay Alpine Cheese Co.",
                 "Country": "Canada",
                 "State": "British Columbia",
-                "URL": "http://api.formagg.io/maker/51338126ddb4440200000002",
+                "DESCRIPTIO": "<b>Kootenay Alpine Cheese Co.</b><br><a href=\"http://api.formagg.io/maker/51338126ddb4440200000002\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3230,7 +3230,7 @@
                 "Name": "Knockdrinna Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "Co. Kilkenny",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000071",
+                "DESCRIPTIO": "<b>Knockdrinna Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000071\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0e373e0cb3298b88d97333a04974cb31"
             },
             "geometry": {
@@ -3248,7 +3248,7 @@
                 "Name": "Knockanore Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "County Waterford",
-                "URL": "http://api.formagg.io/maker/5230b9613ea41f0200000024",
+                "DESCRIPTIO": "<b>Knockanore Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/5230b9613ea41f0200000024\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/130eb24fc6f294459edd6abd9abb7cab"
             },
             "geometry": {
@@ -3266,7 +3266,7 @@
                 "Name": "Knockalara Farmhouse",
                 "Country": "Ireland",
                 "State": "County Waterford",
-                "URL": "http://api.formagg.io/maker/5230bb423ea41f0200000028",
+                "DESCRIPTIO": "<b>Knockalara Farmhouse</b><br><a href=\"http://api.formagg.io/maker/5230bb423ea41f0200000028\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/70fec707bb755fadab0cff9fad7a83a8"
             },
             "geometry": {
@@ -3284,7 +3284,7 @@
                 "Name": "Knight Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/51ed2ab77d93490200000009",
+                "DESCRIPTIO": "<b>Knight Farm</b><br><a href=\"http://api.formagg.io/maker/51ed2ab77d93490200000009\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/389d32619cc2d2560bcb6ef64cf898e2"
             },
             "geometry": {
@@ -3302,7 +3302,7 @@
                 "Name": "King Island Dairy",
                 "Country": "Australia",
                 "State": "Tasmania",
-                "URL": "http://api.formagg.io/maker/5175a8f88eace50200000022",
+                "DESCRIPTIO": "<b>King Island Dairy</b><br><a href=\"http://api.formagg.io/maker/5175a8f88eace50200000022\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6547c6e709b8664386060b519b78cbc7"
             },
             "geometry": {
@@ -3320,7 +3320,7 @@
                 "Name": "Killeen Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "County Galway",
-                "URL": "http://api.formagg.io/maker/520f75867dc291020000001a",
+                "DESCRIPTIO": "<b>Killeen Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/520f75867dc291020000001a\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3338,7 +3338,7 @@
                 "Name": "Kenny's Farmhouse Cheese",
                 "Country": "United States",
                 "State": "Kentucky",
-                "URL": "http://api.formagg.io/maker/517af24cdbcec6020000004c",
+                "DESCRIPTIO": "<b>Kenny's Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/517af24cdbcec6020000004c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6e83aead269733f7718c1da93a804b66"
             },
             "geometry": {
@@ -3356,7 +3356,7 @@
                 "Name": "Keeley’s Cheese Company at McGarr Farms",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/51789db030c1b2020000001a",
+                "DESCRIPTIO": "<b>Keeley’s Cheese Company at McGarr Farms</b><br><a href=\"http://api.formagg.io/maker/51789db030c1b2020000001a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/38b3d66b38fcf32834db2882f11ff021"
             },
             "geometry": {
@@ -3374,7 +3374,7 @@
                 "Name": "Kaserei Champignon",
                 "Country": "Germany",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/5175a5418eace50200000018",
+                "DESCRIPTIO": "<b>Kaserei Champignon</b><br><a href=\"http://api.formagg.io/maker/5175a5418eace50200000018\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/626e785124059471139573ad801bb5a3"
             },
             "geometry": {
@@ -3392,7 +3392,7 @@
                 "Name": "Kaiser",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5134aaeda2710b0200000008",
+                "DESCRIPTIO": "<b>Kaiser</b><br><a href=\"http://api.formagg.io/maker/5134aaeda2710b0200000008\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/f3b47557baccc812871620088d63bd8c"
             },
             "geometry": {
@@ -3410,7 +3410,7 @@
                 "Name": "Kaiser",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5134a91fa2710b0200000007",
+                "DESCRIPTIO": "<b>Kaiser</b><br><a href=\"http://api.formagg.io/maker/5134a91fa2710b0200000007\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6d681448202697e419c248097358f220"
             },
             "geometry": {
@@ -3428,7 +3428,7 @@
                 "Name": "Kaeserei Steinen",
                 "Country": "Switzerland",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000005e",
+                "DESCRIPTIO": "<b>Kaeserei Steinen</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3446,7 +3446,7 @@
                 "Name": "Kaasmakerij Catharinadal",
                 "Country": "Belgium",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/513a7a335b78c1020000001a",
+                "DESCRIPTIO": "<b>Kaasmakerij Catharinadal</b><br><a href=\"http://api.formagg.io/maker/513a7a335b78c1020000001a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/941f07e690ee036421f4c33fe6699a6f"
             },
             "geometry": {
@@ -3464,7 +3464,7 @@
                 "Name": "Juniper Grove Farm",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000005a",
+                "DESCRIPTIO": "<b>Juniper Grove Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/edd72cebe99187323126131df68f8d52"
             },
             "geometry": {
@@ -3482,7 +3482,7 @@
                 "Name": "Jowett Cheese Ltd",
                 "Country": "England",
                 "State": "Warwickshire",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000f4",
+                "DESCRIPTIO": "<b>Jowett Cheese Ltd</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f4\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/71478312943950c3f34486844e0749d2"
             },
             "geometry": {
@@ -3500,7 +3500,7 @@
                 "Name": "Josep Cuixart",
                 "Country": "Spain",
                 "State": "Catalonia",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000008f",
+                "DESCRIPTIO": "<b>Josep Cuixart</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000008f\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3518,7 +3518,7 @@
                 "Name": "Jericho Hill Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000048",
+                "DESCRIPTIO": "<b>Jericho Hill Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000048\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3536,7 +3536,7 @@
                 "Name": "Jasper Hill Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000cb",
+                "DESCRIPTIO": "<b>Jasper Hill Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000cb\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/20eed50bae02aeeda78a57c5f8adfdd2"
             },
             "geometry": {
@@ -3554,7 +3554,7 @@
                 "Name": "James and David Bartlett",
                 "Country": "England",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000042",
+                "DESCRIPTIO": "<b>James and David Bartlett</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000042\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3572,7 +3572,7 @@
                 "Name": "Jacquy Cange",
                 "Country": "Belgium",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c8",
+                "DESCRIPTIO": "<b>Jacquy Cange</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c8\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9ca0e6353fe55653a09eaccc81e88c63"
             },
             "geometry": {
@@ -3590,7 +3590,7 @@
                 "Name": "Jacobs Creamery",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/51dd690f54ad600200000016",
+                "DESCRIPTIO": "<b>Jacobs Creamery</b><br><a href=\"http://api.formagg.io/maker/51dd690f54ad600200000016\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c80ad105f52729a5c921f979c7c25114"
             },
             "geometry": {
@@ -3608,7 +3608,7 @@
                 "Name": "Jacobs & Brichford Farmstead Cheese",
                 "Country": "United States",
                 "State": "Indiana",
-                "URL": "http://api.formagg.io/maker/51c886e47581010200000028",
+                "DESCRIPTIO": "<b>Jacobs & Brichford Farmstead Cheese</b><br><a href=\"http://api.formagg.io/maker/51c886e47581010200000028\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e4e314a2ce63bf76b706e41d45a9646d"
             },
             "geometry": {
@@ -3626,7 +3626,7 @@
                 "Name": "Izzy’s Local Cheeses",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/518431a77141490200000019",
+                "DESCRIPTIO": "<b>Izzy’s Local Cheeses</b><br><a href=\"http://api.formagg.io/maker/518431a77141490200000019\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6c8fd93cd56386011af621c0f72f4902"
             },
             "geometry": {
@@ -3644,7 +3644,7 @@
                 "Name": "Italian Cheeses",
                 "Country": "New Zealand",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/5171379a3efb4c0200000001",
+                "DESCRIPTIO": "<b>Italian Cheeses</b><br><a href=\"http://api.formagg.io/maker/5171379a3efb4c0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e796ba6e88ffbf9b9902efcb01bc2f09"
             },
             "geometry": {
@@ -3662,7 +3662,7 @@
                 "Name": "Hook's Cheese",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000058",
+                "DESCRIPTIO": "<b>Hook's Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000058\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3680,7 +3680,7 @@
                 "Name": "Holland's Family Cheese LLC",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c1",
+                "DESCRIPTIO": "<b>Holland's Family Cheese LLC</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c1\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/95f15811ff7ae549066950745752e785"
             },
             "geometry": {
@@ -3698,7 +3698,7 @@
                 "Name": "Holker Farm",
                 "Country": "England",
                 "State": "Cumbria",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000ae",
+                "DESCRIPTIO": "<b>Holker Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ae\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3716,7 +3716,7 @@
                 "Name": "Holden Farm Dairy",
                 "Country": "England",
                 "State": "Lampeter",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000e6",
+                "DESCRIPTIO": "<b>Holden Farm Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000e6\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/db6568987fbbbd8117e65f8ae103997d"
             },
             "geometry": {
@@ -3734,7 +3734,7 @@
                 "Name": "Hillsborough Cheese Company",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/5175bc738eace50200000052",
+                "DESCRIPTIO": "<b>Hillsborough Cheese Company</b><br><a href=\"http://api.formagg.io/maker/5175bc738eace50200000052\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ecac14adc3f8aa710dd5a9850cf41856"
             },
             "geometry": {
@@ -3752,7 +3752,7 @@
                 "Name": "Hillman Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000006b",
+                "DESCRIPTIO": "<b>Hillman Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/59f4382eea73eca788c16316ef6575d6"
             },
             "geometry": {
@@ -3770,7 +3770,7 @@
                 "Name": "Highland Fine Cheeses Limited",
                 "Country": "Scotland",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000bb",
+                "DESCRIPTIO": "<b>Highland Fine Cheeses Limited</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000bb\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/afae68a9e7dd92568d90080393fcdae9"
             },
             "geometry": {
@@ -3788,7 +3788,7 @@
                 "Name": "Hidden Springs Creamery",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000005f",
+                "DESCRIPTIO": "<b>Hidden Springs Creamery</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ba921d0701156d249c9cb2a0fc284405"
             },
             "geometry": {
@@ -3806,7 +3806,7 @@
                 "Name": "Hickory Nut Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/51ed359c7d93490200000025",
+                "DESCRIPTIO": "<b>Hickory Nut Farm</b><br><a href=\"http://api.formagg.io/maker/51ed359c7d93490200000025\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b23aeebd938ea0cd60806b400007b6b2"
             },
             "geometry": {
@@ -3824,7 +3824,7 @@
                 "Name": "Herr Glauser",
                 "Country": "Switzerland",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000e2",
+                "DESCRIPTIO": "<b>Herr Glauser</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000e2\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3842,7 +3842,7 @@
                 "Name": "Heart Song Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/51ed33f67d93490200000014",
+                "DESCRIPTIO": "<b>Heart Song Farm</b><br><a href=\"http://api.formagg.io/maker/51ed33f67d93490200000014\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/bb384b22bcba9462354751f036072861"
             },
             "geometry": {
@@ -3860,7 +3860,7 @@
                 "Name": "Haystack Mountain Goat Dairy",
                 "Country": "United States",
                 "State": "Colorado",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000013b",
+                "DESCRIPTIO": "<b>Haystack Mountain Goat Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000013b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2f7a5a729a4ee8a01f0f68faa67a034b"
             },
             "geometry": {
@@ -3878,7 +3878,7 @@
                 "Name": "Haxaire - Maison Fischer",
                 "Country": "France",
                 "State": "Alsace, Franche-Comte",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000a2",
+                "DESCRIPTIO": "<b>Haxaire - Maison Fischer</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a2\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -3896,7 +3896,7 @@
                 "Name": "Hawthorne Valley Farm",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000db",
+                "DESCRIPTIO": "<b>Hawthorne Valley Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000db\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/945d6714b7eb0983e2f6f7a3eef91516"
             },
             "geometry": {
@@ -3914,7 +3914,7 @@
                 "Name": "Harley Farms",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c0",
+                "DESCRIPTIO": "<b>Harley Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c0\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0e5b537c6b246545e84e438e9eb6e3d8"
             },
             "geometry": {
@@ -3932,7 +3932,7 @@
                 "Name": "Hampshire Cheeses",
                 "Country": "England",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/5171ce9597f5530200000001",
+                "DESCRIPTIO": "<b>Hampshire Cheeses</b><br><a href=\"http://api.formagg.io/maker/5171ce9597f5530200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ffe8347d715eb53f1b2601bc319842d9"
             },
             "geometry": {
@@ -3950,7 +3950,7 @@
                 "Name": "Gunn’s Hill Artisan Cheese",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/513386d1ddb444020000000f",
+                "DESCRIPTIO": "<b>Gunn’s Hill Artisan Cheese</b><br><a href=\"http://api.formagg.io/maker/513386d1ddb444020000000f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/5370f50724522f82f0a27a22493269c5"
             },
             "geometry": {
@@ -3968,7 +3968,7 @@
                 "Name": "Gubben Farmhouse Products",
                 "Country": "Ireland",
                 "State": "West Cork",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000d3",
+                "DESCRIPTIO": "<b>Gubben Farmhouse Products</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d3\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0b39e62583bd2a6a005254552edd1abe"
             },
             "geometry": {
@@ -3986,7 +3986,7 @@
                 "Name": "Gregorio Rotolo",
                 "Country": "Italy",
                 "State": "Abruzzo",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000006f",
+                "DESCRIPTIO": "<b>Gregorio Rotolo</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006f\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4004,7 +4004,7 @@
                 "Name": "Green Mountain Blue Cheese",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000159",
+                "DESCRIPTIO": "<b>Green Mountain Blue Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000159\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4022,7 +4022,7 @@
                 "Name": "Great Hill Dairy",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/517032bb9707150200000019",
+                "DESCRIPTIO": "<b>Great Hill Dairy</b><br><a href=\"http://api.formagg.io/maker/517032bb9707150200000019\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ad18951f8097e02ef9cf560a6fb8fd3e"
             },
             "geometry": {
@@ -4040,7 +4040,7 @@
                 "Name": "Grandma Singleton",
                 "Country": "England",
                 "State": "Lancashire",
-                "URL": "http://api.formagg.io/maker/5170b8cfe6d84d0200000001",
+                "DESCRIPTIO": "<b>Grandma Singleton</b><br><a href=\"http://api.formagg.io/maker/5170b8cfe6d84d0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b93c6f10d2bbd0bc0f0af1d530801b21"
             },
             "geometry": {
@@ -4058,7 +4058,7 @@
                 "Name": "Grafton Village Cheese Co.",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000131",
+                "DESCRIPTIO": "<b>Grafton Village Cheese Co.</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000131\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/344296ed06999039a9fd4f343a539921"
             },
             "geometry": {
@@ -4076,7 +4076,7 @@
                 "Name": "Godminster Vintage",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/511eb50c0757ad0200000003",
+                "DESCRIPTIO": "<b>Godminster Vintage</b><br><a href=\"http://api.formagg.io/maker/511eb50c0757ad0200000003\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4094,7 +4094,7 @@
                 "Name": "Goatsbeard Farm",
                 "Country": "United States",
                 "State": "Missouri",
-                "URL": "http://api.formagg.io/maker/5175b8428eace50200000041",
+                "DESCRIPTIO": "<b>Goatsbeard Farm</b><br><a href=\"http://api.formagg.io/maker/5175b8428eace50200000041\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c954e48923777d620d7189ed8a24d29c"
             },
             "geometry": {
@@ -4112,7 +4112,7 @@
                 "Name": "Goat's Leap",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000009c",
+                "DESCRIPTIO": "<b>Goat's Leap</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000009c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/081ea839967ed17e320aecc8dbbd8d29"
             },
             "geometry": {
@@ -4130,7 +4130,7 @@
                 "Name": "Goat Lady Dairy",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000d0",
+                "DESCRIPTIO": "<b>Goat Lady Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d0\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0eb719b2fc30d9674b31e7ca307161cb"
             },
             "geometry": {
@@ -4148,7 +4148,7 @@
                 "Name": "Goat Lady Dairy",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/515c23d97158ec0200000005",
+                "DESCRIPTIO": "<b>Goat Lady Dairy</b><br><a href=\"http://api.formagg.io/maker/515c23d97158ec0200000005\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/30cdd7a369032e2efe73f87470eb704f"
             },
             "geometry": {
@@ -4166,7 +4166,7 @@
                 "Name": "Glendale Shepherd",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/515f331cece124020000001c",
+                "DESCRIPTIO": "<b>Glendale Shepherd</b><br><a href=\"http://api.formagg.io/maker/515f331cece124020000001c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/48ecf3e429c55367a3a236c98108a32e"
             },
             "geometry": {
@@ -4184,7 +4184,7 @@
                 "Name": "Glebe Brethan",
                 "Country": "Ireland",
                 "State": "County Louth",
-                "URL": "http://api.formagg.io/maker/5230c0833ea41f0200000035",
+                "DESCRIPTIO": "<b>Glebe Brethan</b><br><a href=\"http://api.formagg.io/maker/5230c0833ea41f0200000035\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/3f16603f4af1db49190085af959c11b0"
             },
             "geometry": {
@@ -4202,7 +4202,7 @@
                 "Name": "Gleann Gabhra",
                 "Country": "Ireland",
                 "State": "Contae na Mi",
-                "URL": "http://api.formagg.io/maker/5230bfc93ea41f0200000033",
+                "DESCRIPTIO": "<b>Gleann Gabhra</b><br><a href=\"http://api.formagg.io/maker/5230bfc93ea41f0200000033\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4220,7 +4220,7 @@
                 "Name": "GAEC du Château Courbet",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c210892256850200000005",
+                "DESCRIPTIO": "<b>GAEC du Château Courbet</b><br><a href=\"http://api.formagg.io/maker/51c210892256850200000005\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4238,7 +4238,7 @@
                 "Name": "GAEC de la Motte (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c20fe82256850200000003",
+                "DESCRIPTIO": "<b>GAEC de la Motte (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c20fe82256850200000003\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4256,7 +4256,7 @@
                 "Name": "Fruition Farms Dairy",
                 "Country": "United States",
                 "State": "Colorado",
-                "URL": "http://api.formagg.io/maker/513912947c2e2e020000006c",
+                "DESCRIPTIO": "<b>Fruition Farms Dairy</b><br><a href=\"http://api.formagg.io/maker/513912947c2e2e020000006c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/4144d65ec162ac80b9fa5b697d7b4bd8"
             },
             "geometry": {
@@ -4274,7 +4274,7 @@
                 "Name": "Fromagerie fermière des 2 Caps (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c21331225685020000000d",
+                "DESCRIPTIO": "<b>Fromagerie fermière des 2 Caps (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c21331225685020000000d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4292,7 +4292,7 @@
                 "Name": "Fromagerie de Rochefort",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000006d",
+                "DESCRIPTIO": "<b>Fromagerie de Rochefort</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000006d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9224dca8bbfd85a333db087fb5359428"
             },
             "geometry": {
@@ -4310,7 +4310,7 @@
                 "Name": "Fromagerie Sainte Godeleine (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c212c2225685020000000c",
+                "DESCRIPTIO": "<b>Fromagerie Sainte Godeleine (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c212c2225685020000000c\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4328,7 +4328,7 @@
                 "Name": "Fromagerie Milleret",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000003",
+                "DESCRIPTIO": "<b>Fromagerie Milleret</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000003\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9db46169060b043b7b190fd24c3eac82"
             },
             "geometry": {
@@ -4346,7 +4346,7 @@
                 "Name": "Fromagerie La Station inc.",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5134a5b7a2710b0200000001",
+                "DESCRIPTIO": "<b>Fromagerie La Station inc.</b><br><a href=\"http://api.formagg.io/maker/5134a5b7a2710b0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1ba3276258e905389e958a7541609e0d"
             },
             "geometry": {
@@ -4364,7 +4364,7 @@
                 "Name": "Fromagerie FX Pichet",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5138a9de7c2e2e020000001d",
+                "DESCRIPTIO": "<b>Fromagerie FX Pichet</b><br><a href=\"http://api.formagg.io/maker/5138a9de7c2e2e020000001d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/458944a1bd36cbccad58a2ccfe29bc43"
             },
             "geometry": {
@@ -4382,7 +4382,7 @@
                 "Name": "Fromagerie De Banon",
                 "Country": "France",
                 "State": "Manosque",
-                "URL": "http://api.formagg.io/maker/51abeba6259bd20200000010",
+                "DESCRIPTIO": "<b>Fromagerie De Banon</b><br><a href=\"http://api.formagg.io/maker/51abeba6259bd20200000010\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1007aabeec03e3b58282316c2a3e5027"
             },
             "geometry": {
@@ -4400,7 +4400,7 @@
                 "Name": "Fromagerie Chaput",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5171d34b97f5530200000014",
+                "DESCRIPTIO": "<b>Fromagerie Chaput</b><br><a href=\"http://api.formagg.io/maker/5171d34b97f5530200000014\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/769fd29008f38d845da0d518b7294db3"
             },
             "geometry": {
@@ -4418,7 +4418,7 @@
                 "Name": "Fromagerie Blackburn",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5138a2627c2e2e0200000001",
+                "DESCRIPTIO": "<b>Fromagerie Blackburn</b><br><a href=\"http://api.formagg.io/maker/5138a2627c2e2e0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/f103ccbf8ccf9de6b1e20a27018bfed5"
             },
             "geometry": {
@@ -4436,7 +4436,7 @@
                 "Name": "Fromagerie Berthaut",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000b6",
+                "DESCRIPTIO": "<b>Fromagerie Berthaut</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000b6\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4454,7 +4454,7 @@
                 "Name": "Fratelli Pinna",
                 "Country": "Italy",
                 "State": "Sardinia",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000001c",
+                "DESCRIPTIO": "<b>Fratelli Pinna</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000001c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c9b65ce45933b972e068e27b7214399a"
             },
             "geometry": {
@@ -4472,7 +4472,7 @@
                 "Name": "Foxboro Cheese Co",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000075",
+                "DESCRIPTIO": "<b>Foxboro Cheese Co</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000075\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4490,7 +4490,7 @@
                 "Name": "Flatcreek Lodge",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/517aec07dbcec6020000002c",
+                "DESCRIPTIO": "<b>Flatcreek Lodge</b><br><a href=\"http://api.formagg.io/maker/517aec07dbcec6020000002c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2d4c1c3fb82e52c56784373598270545"
             },
             "geometry": {
@@ -4508,7 +4508,7 @@
                 "Name": "Five Mile Town Creamery",
                 "Country": "Northern Ireland",
                 "State": "County Tyrone",
-                "URL": "http://api.formagg.io/maker/520fa2d67dc2910200000021",
+                "DESCRIPTIO": "<b>Five Mile Town Creamery</b><br><a href=\"http://api.formagg.io/maker/520fa2d67dc2910200000021\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/8d28aeb6f408d3f0cdbe5a53b2e56559"
             },
             "geometry": {
@@ -4526,7 +4526,7 @@
                 "Name": "Firefly Farms Creamery",
                 "Country": "United States",
                 "State": "Maryland",
-                "URL": "http://api.formagg.io/maker/515ec445d0263d0200000001",
+                "DESCRIPTIO": "<b>Firefly Farms Creamery</b><br><a href=\"http://api.formagg.io/maker/515ec445d0263d0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/4b3294cb947d93d63d3d67f4c9519716"
             },
             "geometry": {
@@ -4544,7 +4544,7 @@
                 "Name": "Fiore di Nonna",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/51702e19970715020000000e",
+                "DESCRIPTIO": "<b>Fiore di Nonna</b><br><a href=\"http://api.formagg.io/maker/51702e19970715020000000e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4562,7 +4562,7 @@
                 "Name": "Fiordilatte",
                 "Country": "Canada",
                 "State": "Alberta",
-                "URL": "http://api.formagg.io/maker/51abe2b7259bd20200000001",
+                "DESCRIPTIO": "<b>Fiordilatte</b><br><a href=\"http://api.formagg.io/maker/51abe2b7259bd20200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/67c888e5cf5cfceb39f0db669497c699"
             },
             "geometry": {
@@ -4580,7 +4580,7 @@
                 "Name": "Finger Lakes Farmstead Cheese Co.",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/51789c1f30c1b20200000015",
+                "DESCRIPTIO": "<b>Finger Lakes Farmstead Cheese Co.</b><br><a href=\"http://api.formagg.io/maker/51789c1f30c1b20200000015\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4598,7 +4598,7 @@
                 "Name": "Fifth Town Artisan Cheese",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/51338978ddb4440200000016",
+                "DESCRIPTIO": "<b>Fifth Town Artisan Cheese</b><br><a href=\"http://api.formagg.io/maker/51338978ddb4440200000016\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4616,7 +4616,7 @@
                 "Name": "Fermoy Natural Cheese Company",
                 "Country": "Ireland",
                 "State": "County Cork",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000e9",
+                "DESCRIPTIO": "<b>Fermoy Natural Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000e9\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4634,7 +4634,7 @@
                 "Name": "Ferme du Vinage (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c215512256850200000011",
+                "DESCRIPTIO": "<b>Ferme du Vinage (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c215512256850200000011\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4652,7 +4652,7 @@
                 "Name": "Ferme du Pont des Loups (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c20f852256850200000002",
+                "DESCRIPTIO": "<b>Ferme du Pont des Loups (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c20f852256850200000002\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4670,7 +4670,7 @@
                 "Name": "Ferme des Templiers (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c21373225685020000000e",
+                "DESCRIPTIO": "<b>Ferme des Templiers (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c21373225685020000000e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4688,7 +4688,7 @@
                 "Name": "Ferme des Prés Saint Wulmer (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c21237225685020000000a",
+                "DESCRIPTIO": "<b>Ferme des Prés Saint Wulmer (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c21237225685020000000a\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4706,7 +4706,7 @@
                 "Name": "Ferme Sauvage (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c210bc2256850200000006",
+                "DESCRIPTIO": "<b>Ferme Sauvage (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c210bc2256850200000006\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4724,7 +4724,7 @@
                 "Name": "Ferme Ronckier (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c214fd2256850200000010",
+                "DESCRIPTIO": "<b>Ferme Ronckier (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c214fd2256850200000010\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4742,7 +4742,7 @@
                 "Name": "Face Rock Creamery",
                 "Country": "United States",
                 "State": "Oregon",
-                "URL": "http://api.formagg.io/maker/51dc66d59b82180200000001",
+                "DESCRIPTIO": "<b>Face Rock Creamery</b><br><a href=\"http://api.formagg.io/maker/51dc66d59b82180200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7af61d0b3e1627f596c4d4651c81f44d"
             },
             "geometry": {
@@ -4760,7 +4760,7 @@
                 "Name": "Everona Dairy",
                 "Country": "United States",
                 "State": "Virginia",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000055",
+                "DESCRIPTIO": "<b>Everona Dairy</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000055\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/073929c9775e9713521269906e49aabd"
             },
             "geometry": {
@@ -4778,7 +4778,7 @@
                 "Name": "Elodie Farms",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/5175bee18eace5020000005a",
+                "DESCRIPTIO": "<b>Elodie Farms</b><br><a href=\"http://api.formagg.io/maker/5175bee18eace5020000005a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7938ce6bd45384a05726b5c14883e464"
             },
             "geometry": {
@@ -4796,7 +4796,7 @@
                 "Name": "Elizabeth Harris",
                 "Country": "England",
                 "State": "Hertfordshire",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000eb",
+                "DESCRIPTIO": "<b>Elizabeth Harris</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000eb\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4814,7 +4814,7 @@
                 "Name": "Edelweiss Creamery",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000010d",
+                "DESCRIPTIO": "<b>Edelweiss Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000010d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/3764fb157aa7fc36fdcc5cbcee613f9c"
             },
             "geometry": {
@@ -4832,7 +4832,7 @@
                 "Name": "Durrus Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "County Cork",
-                "URL": "http://api.formagg.io/maker/52236aecd649f90200000016",
+                "DESCRIPTIO": "<b>Durrus Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/52236aecd649f90200000016\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9924fd7c329c28f651af1a42cf7a7843"
             },
             "geometry": {
@@ -4850,7 +4850,7 @@
                 "Name": "Du Village",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5138a6257c2e2e0200000008",
+                "DESCRIPTIO": "<b>Du Village</b><br><a href=\"http://api.formagg.io/maker/5138a6257c2e2e0200000008\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/aba40c1313a86aa76fab60e78f1e4bfb"
             },
             "geometry": {
@@ -4868,7 +4868,7 @@
                 "Name": "Doe Run Farm",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000a1",
+                "DESCRIPTIO": "<b>Doe Run Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a1\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/4772bc0f2c1167916fb4932a3599ae05"
             },
             "geometry": {
@@ -4886,7 +4886,7 @@
                 "Name": "Dingle Peninsula Cheese",
                 "Country": "Ireland",
                 "State": "County Kerry",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000003b",
+                "DESCRIPTIO": "<b>Dingle Peninsula Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000003b\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4904,7 +4904,7 @@
                 "Name": "Denhay Farms",
                 "Country": "England",
                 "State": "Dorset",
-                "URL": "http://api.formagg.io/maker/51e178b265a99a0200000008",
+                "DESCRIPTIO": "<b>Denhay Farms</b><br><a href=\"http://api.formagg.io/maker/51e178b265a99a0200000008\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/dc4f05b46ad37efb94e771c16a5397c0"
             },
             "geometry": {
@@ -4922,7 +4922,7 @@
                 "Name": "Dee Creek Farm",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/5187be4b218c210200000008",
+                "DESCRIPTIO": "<b>Dee Creek Farm</b><br><a href=\"http://api.formagg.io/maker/5187be4b218c210200000008\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4940,7 +4940,7 @@
                 "Name": "Dancing Cow Farm",
                 "Country": "United States",
                 "State": "Oregan",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000009",
+                "DESCRIPTIO": "<b>Dancing Cow Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000009\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -4958,7 +4958,7 @@
                 "Name": "Cypress Grove Chevre",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000130",
+                "DESCRIPTIO": "<b>Cypress Grove Chevre</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000130\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2e2ae599bb1e6d60e01479e5cc9a5a93"
             },
             "geometry": {
@@ -4976,7 +4976,7 @@
                 "Name": "Curworthy Cheese",
                 "Country": "England",
                 "State": "Devon",
-                "URL": "http://api.formagg.io/maker/51317dc6bee2f8020000000b",
+                "DESCRIPTIO": "<b>Curworthy Cheese</b><br><a href=\"http://api.formagg.io/maker/51317dc6bee2f8020000000b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b449f2a5463e2abdf3d8e0b1b32ce188"
             },
             "geometry": {
@@ -4994,7 +4994,7 @@
                 "Name": "Crystal Brook Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000ab",
+                "DESCRIPTIO": "<b>Crystal Brook Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ab\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5012,7 +5012,7 @@
                 "Name": "Crowley Cheese",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000008b",
+                "DESCRIPTIO": "<b>Crowley Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000008b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b9ac22a15be947a5f57b2f1435f90102"
             },
             "geometry": {
@@ -5030,7 +5030,7 @@
                 "Name": "Cropwell Bishop Creamery Limited",
                 "Country": "England",
                 "State": "Nottinghamshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000073",
+                "DESCRIPTIO": "<b>Cropwell Bishop Creamery Limited</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000073\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/35d278b2d65f3d820177c6d84f4a58a5"
             },
             "geometry": {
@@ -5048,7 +5048,7 @@
                 "Name": "Cricket Creek Farm",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000cd",
+                "DESCRIPTIO": "<b>Cricket Creek Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000cd\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/dac49bd84efdf0a16dd454755f7ef8f9"
             },
             "geometry": {
@@ -5066,7 +5066,7 @@
                 "Name": "Crave Brothers Farmstead Classics",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000ce",
+                "DESCRIPTIO": "<b>Crave Brothers Farmstead Classics</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000ce\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/06cc26d516e790e6182058c019f0fa05"
             },
             "geometry": {
@@ -5084,7 +5084,7 @@
                 "Name": "Cowgirl Creamery",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000090",
+                "DESCRIPTIO": "<b>Cowgirl Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000090\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/5cebdf8eaeaa811ef59c27eb285ba731"
             },
             "geometry": {
@@ -5102,7 +5102,7 @@
                 "Name": "Country Critters Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/51ed3e2b7d9349020000002a",
+                "DESCRIPTIO": "<b>Country Critters Farm</b><br><a href=\"http://api.formagg.io/maker/51ed3e2b7d9349020000002a\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/00bba5195e62a94f6a530ac4aa100c84"
             },
             "geometry": {
@@ -5120,7 +5120,7 @@
                 "Name": "Corleggy Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "County Cavan",
-                "URL": "http://api.formagg.io/maker/522366f0d649f9020000000d",
+                "DESCRIPTIO": "<b>Corleggy Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/522366f0d649f9020000000d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6fdf4e3eb2642c56b86edabcc0f44003"
             },
             "geometry": {
@@ -5138,7 +5138,7 @@
                 "Name": "Cora",
                 "Country": "Italy",
                 "State": "Piedmont",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000051",
+                "DESCRIPTIO": "<b>Cora</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000051\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5156,7 +5156,7 @@
                 "Name": "Cooperstown Cheese Company",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/5178997f30c1b2020000000d",
+                "DESCRIPTIO": "<b>Cooperstown Cheese Company</b><br><a href=\"http://api.formagg.io/maker/5178997f30c1b2020000000d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c666262303378a2806a8634ecefd9219"
             },
             "geometry": {
@@ -5174,7 +5174,7 @@
                 "Name": "Cooleeney Farm",
                 "Country": "Ireland",
                 "State": "Co. Tipperary",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000018",
+                "DESCRIPTIO": "<b>Cooleeney Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000018\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5192,7 +5192,7 @@
                 "Name": "Coolea Farmhouse Cheese Limited",
                 "Country": "Ireland",
                 "State": "County Cork",
-                "URL": "http://api.formagg.io/maker/520f6f0f7dc2910200000009",
+                "DESCRIPTIO": "<b>Coolea Farmhouse Cheese Limited</b><br><a href=\"http://api.formagg.io/maker/520f6f0f7dc2910200000009\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7105d5244bc76cd7b922079511291d20"
             },
             "geometry": {
@@ -5210,7 +5210,7 @@
                 "Name": "Coolattin Cheddar",
                 "Country": "Ireland",
                 "State": "County Wicklow",
-                "URL": "http://api.formagg.io/maker/5223686bd649f90200000012",
+                "DESCRIPTIO": "<b>Coolattin Cheddar</b><br><a href=\"http://api.formagg.io/maker/5223686bd649f90200000012\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5228,7 +5228,7 @@
                 "Name": "Consider Bardwell Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000094",
+                "DESCRIPTIO": "<b>Consider Bardwell Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000094\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/d761819e5cb259dec3f3597a84d9a46f"
             },
             "geometry": {
@@ -5246,7 +5246,7 @@
                 "Name": "Conebella Farm",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/517ae427dbcec60200000007",
+                "DESCRIPTIO": "<b>Conebella Farm</b><br><a href=\"http://api.formagg.io/maker/517ae427dbcec60200000007\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/05fa485f9a72c5616ca4ab9511f4bac3"
             },
             "geometry": {
@@ -5264,7 +5264,7 @@
                 "Name": "Colston Bassett Dairy Ltd.",
                 "Country": "England",
                 "State": "Nottingham",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000038",
+                "DESCRIPTIO": "<b>Colston Bassett Dairy Ltd.</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000038\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/befae0375077ffa07ae64551a1e535dc"
             },
             "geometry": {
@@ -5282,7 +5282,7 @@
                 "Name": "Cobb Hill Cheese",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/51616ce854ec4ee219000001",
+                "DESCRIPTIO": "<b>Cobb Hill Cheese</b><br><a href=\"http://api.formagg.io/maker/51616ce854ec4ee219000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/20877bc9a1e419bfaf78e2474f8332b3"
             },
             "geometry": {
@@ -5300,7 +5300,7 @@
                 "Name": "Coach Farm",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000126",
+                "DESCRIPTIO": "<b>Coach Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000126\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c298d193dbb6daef8d01971095e93ba4"
             },
             "geometry": {
@@ -5318,7 +5318,7 @@
                 "Name": "Clover Stornetta Farms",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/5157733989f1390200000011",
+                "DESCRIPTIO": "<b>Clover Stornetta Farms</b><br><a href=\"http://api.formagg.io/maker/5157733989f1390200000011\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/84fd222159e008ea9858a0aabb023710"
             },
             "geometry": {
@@ -5336,7 +5336,7 @@
                 "Name": "Cider Hill Farm",
                 "Country": "United States",
                 "State": "South Dakota",
-                "URL": "http://api.formagg.io/maker/51d874e2059afc020000001d",
+                "DESCRIPTIO": "<b>Cider Hill Farm</b><br><a href=\"http://api.formagg.io/maker/51d874e2059afc020000001d\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5354,7 +5354,7 @@
                 "Name": "Chorlton Cheese",
                 "Country": "England",
                 "State": "Cheshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000023",
+                "DESCRIPTIO": "<b>Chorlton Cheese</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000023\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/6f7ed8ae9ae76caaa7e07ac78cd9edbd"
             },
             "geometry": {
@@ -5372,7 +5372,7 @@
                 "Name": "Cherry Grove Farm",
                 "Country": "United States",
                 "State": "New Jersey",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000040",
+                "DESCRIPTIO": "<b>Cherry Grove Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000040\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/857e2aca873bf3fd60b828f8e1596c83"
             },
             "geometry": {
@@ -5390,7 +5390,7 @@
                 "Name": "Cherry Glen Goat Cheese Co.",
                 "Country": "United States",
                 "State": "Maryland",
-                "URL": "http://api.formagg.io/maker/517992246e61840200000029",
+                "DESCRIPTIO": "<b>Cherry Glen Goat Cheese Co.</b><br><a href=\"http://api.formagg.io/maker/517992246e61840200000029\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1407f4e61d65d9bcf192a515e10d2519"
             },
             "geometry": {
@@ -5408,7 +5408,7 @@
                 "Name": "Cheeselicious",
                 "Country": "United States",
                 "State": "Florida",
-                "URL": "http://api.formagg.io/maker/51842e0b714149020000000e",
+                "DESCRIPTIO": "<b>Cheeselicious</b><br><a href=\"http://api.formagg.io/maker/51842e0b714149020000000e\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5426,7 +5426,7 @@
                 "Name": "Cheeseland",
                 "Country": "Holland",
                 "State": "Washing",
-                "URL": "http://api.formagg.io/maker/51c84b5c7581010200000003",
+                "DESCRIPTIO": "<b>Cheeseland</b><br><a href=\"http://api.formagg.io/maker/51c84b5c7581010200000003\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9cc256945fae94e370e1a601f6a0fa44"
             },
             "geometry": {
@@ -5444,7 +5444,7 @@
                 "Name": "Chase Hill Farm",
                 "Country": "United States",
                 "State": "Rhode Island",
-                "URL": "http://api.formagg.io/maker/516ff635d596c70200000001",
+                "DESCRIPTIO": "<b>Chase Hill Farm</b><br><a href=\"http://api.formagg.io/maker/516ff635d596c70200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/2ff0d7809a370eb6dd73efa749d4d5c9"
             },
             "geometry": {
@@ -5462,7 +5462,7 @@
                 "Name": "Chaput Cheese",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5133a67eddb4440200000041",
+                "DESCRIPTIO": "<b>Chaput Cheese</b><br><a href=\"http://api.formagg.io/maker/5133a67eddb4440200000041\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5480,7 +5480,7 @@
                 "Name": "Chapel's Country Creamery",
                 "Country": "United States",
                 "State": "Maryland",
-                "URL": "http://api.formagg.io/maker/5179940d6e61840200000031",
+                "DESCRIPTIO": "<b>Chapel's Country Creamery</b><br><a href=\"http://api.formagg.io/maker/5179940d6e61840200000031\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/31281915bb775c0ea6cabe4cd0d14df3"
             },
             "geometry": {
@@ -5498,7 +5498,7 @@
                 "Name": "Champlain Valley Creamery",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c6",
+                "DESCRIPTIO": "<b>Champlain Valley Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c6\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cfef1cbb179b3c3ebf712f59ec35ebf3"
             },
             "geometry": {
@@ -5516,7 +5516,7 @@
                 "Name": "Cesar Losfeld",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000101",
+                "DESCRIPTIO": "<b>Cesar Losfeld</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000101\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/493a82ce80ea36637ea83a1b7a4d82a3"
             },
             "geometry": {
@@ -5534,7 +5534,7 @@
                 "Name": "Cerney House Gardens",
                 "Country": "England",
                 "State": "Gloucestershire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000027",
+                "DESCRIPTIO": "<b>Cerney House Gardens</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000027\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5552,7 +5552,7 @@
                 "Name": "Central Coast Creamery",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000004c",
+                "DESCRIPTIO": "<b>Central Coast Creamery</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000004c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/969f13401d5fc4bd9082a5083f74eea2"
             },
             "geometry": {
@@ -5570,7 +5570,7 @@
                 "Name": "Caws Teif Cheese",
                 "Country": "England",
                 "State": "Ceredigion",
-                "URL": "http://api.formagg.io/maker/5161e1be0b88c40200000004",
+                "DESCRIPTIO": "<b>Caws Teif Cheese</b><br><a href=\"http://api.formagg.io/maker/5161e1be0b88c40200000004\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5588,7 +5588,7 @@
                 "Name": "Caves of Faribault",
                 "Country": "United States",
                 "State": "Minnesota",
-                "URL": "http://api.formagg.io/maker/51d96212f566160200000003",
+                "DESCRIPTIO": "<b>Caves of Faribault</b><br><a href=\"http://api.formagg.io/maker/51d96212f566160200000003\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/bce531b58c0e9d46f8823cfe7e52e24b"
             },
             "geometry": {
@@ -5606,7 +5606,7 @@
                 "Name": "Cato Corner Farm",
                 "Country": "United States",
                 "State": "Connecticut",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000154",
+                "DESCRIPTIO": "<b>Cato Corner Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000154\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/7eb91c2598c40e580ebd9eddb072d94e"
             },
             "geometry": {
@@ -5624,7 +5624,7 @@
                 "Name": "Catapano Dairy",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/517895b330c1b20200000007",
+                "DESCRIPTIO": "<b>Catapano Dairy</b><br><a href=\"http://api.formagg.io/maker/517895b330c1b20200000007\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/adad294d909131b40b2201b23c58f03a"
             },
             "geometry": {
@@ -5642,7 +5642,7 @@
                 "Name": "Cashel Blue",
                 "Country": "Ireland",
                 "State": "Co. Tipperary",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000095",
+                "DESCRIPTIO": "<b>Cashel Blue</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000095\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/a69c73b587e929e4c4f27ba16fd098c8"
             },
             "geometry": {
@@ -5660,7 +5660,7 @@
                 "Name": "Caseificio dell'Alta Langa",
                 "Country": "Italy",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/5171f1b697f5530200000020",
+                "DESCRIPTIO": "<b>Caseificio dell'Alta Langa</b><br><a href=\"http://api.formagg.io/maker/5171f1b697f5530200000020\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5678,7 +5678,7 @@
                 "Name": "Caseificio Rosso",
                 "Country": "Italy",
                 "State": "Piedmont",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000155",
+                "DESCRIPTIO": "<b>Caseificio Rosso</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000155\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/739ab9434c28bf6d8da4b8248a4eb144"
             },
             "geometry": {
@@ -5696,7 +5696,7 @@
                 "Name": "Caseificio La Bottera",
                 "Country": "Italy",
                 "State": "Morozzo",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000092",
+                "DESCRIPTIO": "<b>Caseificio La Bottera</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000092\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5714,7 +5714,7 @@
                 "Name": "Casa Madaio",
                 "Country": "Italy",
                 "State": "Salerno",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000046",
+                "DESCRIPTIO": "<b>Casa Madaio</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000046\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/12d44f13060ab4a1baa38ec09ef9b8d7"
             },
             "geometry": {
@@ -5732,7 +5732,7 @@
                 "Name": "Cartmel Cheeses",
                 "Country": "England",
                 "State": "Cumbria",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000007f",
+                "DESCRIPTIO": "<b>Cartmel Cheeses</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000007f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/3cb8fc73a7d1526298eb39fc0e917e77"
             },
             "geometry": {
@@ -5750,7 +5750,7 @@
                 "Name": "Carrigaline Farmhouse Cheese",
                 "Country": "Ireland",
                 "State": "County Cork",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000139",
+                "DESCRIPTIO": "<b>Carrigaline Farmhouse Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000139\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5768,7 +5768,7 @@
                 "Name": "Carr Valley Cheese Company, Inc",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000009d",
+                "DESCRIPTIO": "<b>Carr Valley Cheese Company, Inc</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000009d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b7027ca5b6d479603e2844671ac01356"
             },
             "geometry": {
@@ -5786,7 +5786,7 @@
                 "Name": "Carlow Cheese",
                 "Country": "Ireland",
                 "State": "County Carlow",
-                "URL": "http://api.formagg.io/maker/522361e3d649f90200000001",
+                "DESCRIPTIO": "<b>Carlow Cheese</b><br><a href=\"http://api.formagg.io/maker/522361e3d649f90200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cd931a0accce925e6c1c64523e0bb1a8"
             },
             "geometry": {
@@ -5804,7 +5804,7 @@
                 "Name": "Capriole Farmstead Goat Cheeses",
                 "Country": "United States",
                 "State": "Indiana",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000128",
+                "DESCRIPTIO": "<b>Capriole Farmstead Goat Cheeses</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000128\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5822,7 +5822,7 @@
                 "Name": "Capra Gia Cheese Company",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/517aee9adbcec6020000003b",
+                "DESCRIPTIO": "<b>Capra Gia Cheese Company</b><br><a href=\"http://api.formagg.io/maker/517aee9adbcec6020000003b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/23ee261ffb2a3aea4f780ed4d8766e9b"
             },
             "geometry": {
@@ -5840,7 +5840,7 @@
                 "Name": "CalyRoad Creamery",
                 "Country": "United States",
                 "State": "Georgia",
-                "URL": "http://api.formagg.io/maker/5159d24c8e58c20200000001",
+                "DESCRIPTIO": "<b>CalyRoad Creamery</b><br><a href=\"http://api.formagg.io/maker/5159d24c8e58c20200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/dd73afd57f02df9aa35e4b3167cfc1fa"
             },
             "geometry": {
@@ -5858,7 +5858,7 @@
                 "Name": "Calkins Creamery",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000021",
+                "DESCRIPTIO": "<b>Calkins Creamery</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000021\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/18d5dbc89a0223a655b826d36fe7409c"
             },
             "geometry": {
@@ -5876,7 +5876,7 @@
                 "Name": "Calkins Creamery",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000fb",
+                "DESCRIPTIO": "<b>Calkins Creamery</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000fb\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/64d761bb000620bd9fb44a3fb174d58c"
             },
             "geometry": {
@@ -5894,7 +5894,7 @@
                 "Name": "Cahill's Farm Cheese",
                 "Country": "Ireland",
                 "State": "Co. Limerick",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000081",
+                "DESCRIPTIO": "<b>Cahill's Farm Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000081\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5912,7 +5912,7 @@
                 "Name": "Caerphilly Gorwydd",
                 "Country": "England",
                 "State": "Wales",
-                "URL": "http://api.formagg.io/maker/511904cb98eb7ff30e000002",
+                "DESCRIPTIO": "<b>Caerphilly Gorwydd</b><br><a href=\"http://api.formagg.io/maker/511904cb98eb7ff30e000002\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5930,7 +5930,7 @@
                 "Name": "Bulger Creek Farm",
                 "Country": "United States",
                 "State": "Alabama",
-                "URL": "http://api.formagg.io/maker/515363cfdf83e20200000011",
+                "DESCRIPTIO": "<b>Bulger Creek Farm</b><br><a href=\"http://api.formagg.io/maker/515363cfdf83e20200000011\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -5948,7 +5948,7 @@
                 "Name": "Brue Valley Farms",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000e7",
+                "DESCRIPTIO": "<b>Brue Valley Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000e7\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/079e6bcd70b5200dc25f7483ebda63fb"
             },
             "geometry": {
@@ -5966,7 +5966,7 @@
                 "Name": "Brookford Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/51ed325c7d9349020000000b",
+                "DESCRIPTIO": "<b>Brookford Farm</b><br><a href=\"http://api.formagg.io/maker/51ed325c7d9349020000000b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/def556adee67ac7595b9c90248f7eb1e"
             },
             "geometry": {
@@ -5984,7 +5984,7 @@
                 "Name": "Bravo Farms",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c9",
+                "DESCRIPTIO": "<b>Bravo Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c9\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c2a884de547808a3aa552183d9703726"
             },
             "geometry": {
@@ -6002,7 +6002,7 @@
                 "Name": "Boyne Valley Blue Farmhouse Goats Cheese",
                 "Country": "Ireland",
                 "State": "County Meath",
-                "URL": "http://api.formagg.io/maker/523c1939c9f9ba0200000001",
+                "DESCRIPTIO": "<b>Boyne Valley Blue Farmhouse Goats Cheese</b><br><a href=\"http://api.formagg.io/maker/523c1939c9f9ba0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/945dc69f7d8576957149b5996c9aa627"
             },
             "geometry": {
@@ -6020,7 +6020,7 @@
                 "Name": "Boston Post Dairy LLC",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000020",
+                "DESCRIPTIO": "<b>Boston Post Dairy LLC</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000020\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/732cf53677ae6ba2f612cc9c0fcb7f0c"
             },
             "geometry": {
@@ -6038,7 +6038,7 @@
                 "Name": "Boone Creek Creamery",
                 "Country": "United States",
                 "State": "Kentucky",
-                "URL": "http://api.formagg.io/maker/517af584dbcec60200000056",
+                "DESCRIPTIO": "<b>Boone Creek Creamery</b><br><a href=\"http://api.formagg.io/maker/517af584dbcec60200000056\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/04d60f014c435c3b62b8bff16ebede9b"
             },
             "geometry": {
@@ -6056,7 +6056,7 @@
                 "Name": "Bonnyclabber Cheese Co.",
                 "Country": "United States",
                 "State": "Virginia",
-                "URL": "http://api.formagg.io/maker/5159c75b77f7180200000001",
+                "DESCRIPTIO": "<b>Bonnyclabber Cheese Co.</b><br><a href=\"http://api.formagg.io/maker/5159c75b77f7180200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/8cff04494cdce9b7febfb1992b42c49e"
             },
             "geometry": {
@@ -6074,7 +6074,7 @@
                 "Name": "Bonny Blue Farm",
                 "Country": "United States",
                 "State": "Tennessee",
-                "URL": "http://api.formagg.io/maker/5159d3c58e58c20200000008",
+                "DESCRIPTIO": "<b>Bonny Blue Farm</b><br><a href=\"http://api.formagg.io/maker/5159d3c58e58c20200000008\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/85e9883b833e6dc26c5603a13b6d0627"
             },
             "geometry": {
@@ -6092,7 +6092,7 @@
                 "Name": "Bonnieview Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b2000000001c",
+                "DESCRIPTIO": "<b>Bonnieview Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b2000000001c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9e2c7801f5472f5614c0e15420a9a2f3"
             },
             "geometry": {
@@ -6110,7 +6110,7 @@
                 "Name": "Bonnie Blue Farm",
                 "Country": "United States",
                 "State": "Tennessee",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000cf",
+                "DESCRIPTIO": "<b>Bonnie Blue Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000cf\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/43780ef8d8cff7949e87e02acad953b7"
             },
             "geometry": {
@@ -6128,7 +6128,7 @@
                 "Name": "Bohemian Creamery",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/513beba8cb7f290200000002",
+                "DESCRIPTIO": "<b>Bohemian Creamery</b><br><a href=\"http://api.formagg.io/maker/513beba8cb7f290200000002\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/71752f7521373f016559029eeea7e960"
             },
             "geometry": {
@@ -6146,7 +6146,7 @@
                 "Name": "Boggy Meadow Farm",
                 "Country": "United States",
                 "State": "New Hampshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000005b",
+                "DESCRIPTIO": "<b>Boggy Meadow Farm</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000005b\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/fbe7eb332641f22098d5c6db49daf7e7"
             },
             "geometry": {
@@ -6164,7 +6164,7 @@
                 "Name": "Bodega Artisan Cheese",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/5157718d89f1390200000009",
+                "DESCRIPTIO": "<b>Bodega Artisan Cheese</b><br><a href=\"http://api.formagg.io/maker/5157718d89f1390200000009\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/1f020c49b825b0f9250e960a57da0b8f"
             },
             "geometry": {
@@ -6182,7 +6182,7 @@
                 "Name": "Blythedale Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df23b7160b20000000046",
+                "DESCRIPTIO": "<b>Blythedale Farm</b><br><a href=\"http://api.formagg.io/maker/510df23b7160b20000000046\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c5d5da74fefd434639fa72742bc9e74a"
             },
             "geometry": {
@@ -6200,7 +6200,7 @@
                 "Name": "Blue Sage Farm",
                 "Country": "United States",
                 "State": "Idaho",
-                "URL": "http://api.formagg.io/maker/51dd93f654ad60020000001f",
+                "DESCRIPTIO": "<b>Blue Sage Farm</b><br><a href=\"http://api.formagg.io/maker/51dd93f654ad60020000001f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/5cf3d904d7089931ff935ecdb2beabb6"
             },
             "geometry": {
@@ -6218,7 +6218,7 @@
                 "Name": "Blue Mountain Affinage Company",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000001f",
+                "DESCRIPTIO": "<b>Blue Mountain Affinage Company</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000001f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/cb15c78f9b5b7abb3d313a9231042e8c"
             },
             "geometry": {
@@ -6236,7 +6236,7 @@
                 "Name": "Blue Ledge Farm",
                 "Country": "United States",
                 "State": "Vermont",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000d7",
+                "DESCRIPTIO": "<b>Blue Ledge Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d7\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/d6c586a64a8336864b3a3c35b818ccda"
             },
             "geometry": {
@@ -6254,7 +6254,7 @@
                 "Name": "Blue Jacket Dairy",
                 "Country": "United States",
                 "State": "Ohio",
-                "URL": "http://api.formagg.io/maker/517685a2943fbd020000000e",
+                "DESCRIPTIO": "<b>Blue Jacket Dairy</b><br><a href=\"http://api.formagg.io/maker/517685a2943fbd020000000e\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b68d7b7b54a00d4e021e9e8ebda8fb99"
             },
             "geometry": {
@@ -6272,7 +6272,7 @@
                 "Name": "Blue Heron Farm",
                 "Country": "United States",
                 "State": "Texas",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000f6",
+                "DESCRIPTIO": "<b>Blue Heron Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000f6\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/94ee204741cab92cf7a406690270ed30"
             },
             "geometry": {
@@ -6290,7 +6290,7 @@
                 "Name": "Bleu Mont Dairy",
                 "Country": "United States",
                 "State": "Wisconsin",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000099",
+                "DESCRIPTIO": "<b>Bleu Mont Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000099\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6308,7 +6308,7 @@
                 "Name": "Bleating Heart",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51576e2e89f1390200000005",
+                "DESCRIPTIO": "<b>Bleating Heart</b><br><a href=\"http://api.formagg.io/maker/51576e2e89f1390200000005\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6326,7 +6326,7 @@
                 "Name": "Black Sheep Creamery",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/5187bcce218c210200000001",
+                "DESCRIPTIO": "<b>Black Sheep Creamery</b><br><a href=\"http://api.formagg.io/maker/5187bcce218c210200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/b9d5856ea46cfabb2b8fe0bef307a7a4"
             },
             "geometry": {
@@ -6344,7 +6344,7 @@
                 "Name": "Bittersweet Plantation Dairy",
                 "Country": "United States",
                 "State": "Louisiana",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000112",
+                "DESCRIPTIO": "<b>Bittersweet Plantation Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000112\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6362,7 +6362,7 @@
                 "Name": "Birchrun Hills Farm",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/517ae26edbcec60200000001",
+                "DESCRIPTIO": "<b>Birchrun Hills Farm</b><br><a href=\"http://api.formagg.io/maker/517ae26edbcec60200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ec36f2b59e4d23b1578bfd84790257b9"
             },
             "geometry": {
@@ -6380,7 +6380,7 @@
                 "Name": "Best Baa Dairy",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/513392d9ddb4440200000036",
+                "DESCRIPTIO": "<b>Best Baa Dairy</b><br><a href=\"http://api.formagg.io/maker/513392d9ddb4440200000036\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6398,7 +6398,7 @@
                 "Name": "Berrocales Trujillanos",
                 "Country": "Spain",
                 "State": "Extremadura",
-                "URL": "http://api.formagg.io/maker/5139ff5e5b78c10200000001",
+                "DESCRIPTIO": "<b>Berrocales Trujillanos</b><br><a href=\"http://api.formagg.io/maker/5139ff5e5b78c10200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/96bd4f344269e5b6f166c368ff3d750c"
             },
             "geometry": {
@@ -6416,7 +6416,7 @@
                 "Name": "Berkshire Cheese Company",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000087",
+                "DESCRIPTIO": "<b>Berkshire Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000087\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6434,7 +6434,7 @@
                 "Name": "Bergader Privatkäserei GmbH",
                 "Country": "Germany",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000004",
+                "DESCRIPTIO": "<b>Bergader Privatkäserei GmbH</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000004\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e20f06251ed468e7889e02803b201c4e"
             },
             "geometry": {
@@ -6452,7 +6452,7 @@
                 "Name": "Bellwether Farms",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000104",
+                "DESCRIPTIO": "<b>Bellwether Farms</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000104\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/551a09a21cb36d155b510e3559c29062"
             },
             "geometry": {
@@ -6470,7 +6470,7 @@
                 "Name": "Beehive Cheese Company, LLC",
                 "Country": "United States",
                 "State": "Utah",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000011f",
+                "DESCRIPTIO": "<b>Beehive Cheese Company, LLC</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000011f\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/f01f340e1d9f9627c273d9d7bdd5d0a2"
             },
             "geometry": {
@@ -6488,7 +6488,7 @@
                 "Name": "Beecher's Handmade Cheese",
                 "Country": "United States",
                 "State": "Washington",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000141",
+                "DESCRIPTIO": "<b>Beecher's Handmade Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000141\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/9fc22a5f801d64a040ff950ea961b083"
             },
             "geometry": {
@@ -6506,7 +6506,7 @@
                 "Name": "Beal Organic Irish Cheese",
                 "Country": "Ireland",
                 "State": "County Kerry",
-                "URL": "http://api.formagg.io/maker/52236a1fd649f90200000014",
+                "DESCRIPTIO": "<b>Beal Organic Irish Cheese</b><br><a href=\"http://api.formagg.io/maker/52236a1fd649f90200000014\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/af7b6c182f4047f54e8bd97aafed691f"
             },
             "geometry": {
@@ -6524,7 +6524,7 @@
                 "Name": "Barinaga Ranch Farmstead Sheep Milk Cheese",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/5157758a5f2528020000000b",
+                "DESCRIPTIO": "<b>Barinaga Ranch Farmstead Sheep Milk Cheese</b><br><a href=\"http://api.formagg.io/maker/5157758a5f2528020000000b\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6542,7 +6542,7 @@
                 "Name": "Barba Goat Farm Ltd.",
                 "Country": "Ireland",
                 "State": "County Westmeath",
-                "URL": "http://api.formagg.io/maker/52236293d649f90200000002",
+                "DESCRIPTIO": "<b>Barba Goat Farm Ltd.</b><br><a href=\"http://api.formagg.io/maker/52236293d649f90200000002\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/ec0cdb8f1909fa282b16f5f4bcfcc7a9"
             },
             "geometry": {
@@ -6560,7 +6560,7 @@
                 "Name": "Baetje Farms",
                 "Country": "United States",
                 "State": "Missouri",
-                "URL": "http://api.formagg.io/maker/5175b6e38eace5020000003c",
+                "DESCRIPTIO": "<b>Baetje Farms</b><br><a href=\"http://api.formagg.io/maker/5175b6e38eace5020000003c\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/248bbbcd8882952a83ded14755cdbf69"
             },
             "geometry": {
@@ -6578,7 +6578,7 @@
                 "Name": "Back Forty Artisan Cheese",
                 "Country": "Canada",
                 "State": "Ontario",
-                "URL": "http://api.formagg.io/maker/51338fbdddb4440200000031",
+                "DESCRIPTIO": "<b>Back Forty Artisan Cheese</b><br><a href=\"http://api.formagg.io/maker/51338fbdddb4440200000031\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/f3b528e79f6ca4375da70648b1ade2e4"
             },
             "geometry": {
@@ -6596,7 +6596,7 @@
                 "Name": "Avonlea Cheeses",
                 "Country": "Canada",
                 "State": "Prince Edwards Island",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000070",
+                "DESCRIPTIO": "<b>Avonlea Cheeses</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000070\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6614,7 +6614,7 @@
                 "Name": "Avalanche Cheese",
                 "Country": "United States",
                 "State": "Colorado",
-                "URL": "http://api.formagg.io/maker/5182b89157a8ac0200000001",
+                "DESCRIPTIO": "<b>Avalanche Cheese</b><br><a href=\"http://api.formagg.io/maker/5182b89157a8ac0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/c05a78ed55840e8b260efe94ff230c06"
             },
             "geometry": {
@@ -6632,7 +6632,7 @@
                 "Name": "AuverMont   s",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/5175a0658eace50200000014",
+                "DESCRIPTIO": "<b>AuverMont   s</b><br><a href=\"http://api.formagg.io/maker/5175a0658eace50200000014\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6650,7 +6650,7 @@
                 "Name": "Ashe County Cheese",
                 "Country": "United States",
                 "State": "North Carolina",
-                "URL": "http://api.formagg.io/maker/5175be178eace50200000058",
+                "DESCRIPTIO": "<b>Ashe County Cheese</b><br><a href=\"http://api.formagg.io/maker/5175be178eace50200000058\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/371da4faa6c712f07a35bfff2f6fc8c5"
             },
             "geometry": {
@@ -6668,7 +6668,7 @@
                 "Name": "Asgaard Farm and Dairy",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/5178942b30c1b20200000001",
+                "DESCRIPTIO": "<b>Asgaard Farm and Dairy</b><br><a href=\"http://api.formagg.io/maker/5178942b30c1b20200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/faedf80fc93c025b25dc12b2c28a17b7"
             },
             "geometry": {
@@ -6686,7 +6686,7 @@
                 "Name": "Artichoke Dairy",
                 "Country": "United States",
                 "State": "Massachussetts",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000083",
+                "DESCRIPTIO": "<b>Artichoke Dairy</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000083\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6704,7 +6704,7 @@
                 "Name": "Arnaud family",
                 "Country": "France",
                 "State": "Auvergne",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000115",
+                "DESCRIPTIO": "<b>Arnaud family</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000115\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6722,7 +6722,7 @@
                 "Name": "Ardsallagh Goat Farm",
                 "Country": "Ireland",
                 "State": "County Cork",
-                "URL": "http://api.formagg.io/maker/521d6918fde3fb0200000001",
+                "DESCRIPTIO": "<b>Ardsallagh Goat Farm</b><br><a href=\"http://api.formagg.io/maker/521d6918fde3fb0200000001\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0ad71c1a03de65a7ed90f81c4c11fc44"
             },
             "geometry": {
@@ -6740,7 +6740,7 @@
                 "Name": "Appleton Farms",
                 "Country": "United States",
                 "State": "MA",
-                "URL": "http://api.formagg.io/maker/51602c8f0d3e710200000001",
+                "DESCRIPTIO": "<b>Appleton Farms</b><br><a href=\"http://api.formagg.io/maker/51602c8f0d3e710200000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6758,7 +6758,7 @@
                 "Name": "Appleby's of Hawkstone",
                 "Country": "England",
                 "State": "Shropshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000044",
+                "DESCRIPTIO": "<b>Appleby's of Hawkstone</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000044\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6776,7 +6776,7 @@
                 "Name": "Annette Lee",
                 "Country": "United States",
                 "State": "Devon",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000040",
+                "DESCRIPTIO": "<b>Annette Lee</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000040\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6794,7 +6794,7 @@
                 "Name": "Andrew Ridley",
                 "Country": "England",
                 "State": "North Yorkshire",
-                "URL": "http://api.formagg.io/maker/510df08fda57f20000000072",
+                "DESCRIPTIO": "<b>Andrew Ridley</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f20000000072\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6812,7 +6812,7 @@
                 "Name": "Andante Cheese",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000c7",
+                "DESCRIPTIO": "<b>Andante Cheese</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000c7\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6830,7 +6830,7 @@
                 "Name": "Amazing Acres Goat Dairy",
                 "Country": "United States",
                 "State": "Pennsylvania",
-                "URL": "http://api.formagg.io/maker/517a77f0943f310200000013",
+                "DESCRIPTIO": "<b>Amazing Acres Goat Dairy</b><br><a href=\"http://api.formagg.io/maker/517a77f0943f310200000013\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/37649f052715b3575363060e9ec6edb0"
             },
             "geometry": {
@@ -6848,7 +6848,7 @@
                 "Name": "Alham Wood Cheeses",
                 "Country": "England",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/511eb47e0757ad0200000001",
+                "DESCRIPTIO": "<b>Alham Wood Cheeses</b><br><a href=\"http://api.formagg.io/maker/511eb47e0757ad0200000001\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6866,7 +6866,7 @@
                 "Name": "Alexis de Portneuf",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5139078e7c2e2e020000004a",
+                "DESCRIPTIO": "<b>Alexis de Portneuf</b><br><a href=\"http://api.formagg.io/maker/5139078e7c2e2e020000004a\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6884,7 +6884,7 @@
                 "Name": "Alemar Cheese Company",
                 "Country": "United States",
                 "State": "Minnesota",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000124",
+                "DESCRIPTIO": "<b>Alemar Cheese Company</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000124\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6902,7 +6902,7 @@
                 "Name": "Aillwee Cave",
                 "Country": "Ireland",
                 "State": "County Clare",
-                "URL": "http://api.formagg.io/maker/52236397d649f90200000003",
+                "DESCRIPTIO": "<b>Aillwee Cave</b><br><a href=\"http://api.formagg.io/maker/52236397d649f90200000003\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/05f7fa845981ad528909e2bc42ac0aac"
             },
             "geometry": {
@@ -6920,7 +6920,7 @@
                 "Name": "Achadinha Cheese Company",
                 "Country": "United States",
                 "State": "California",
-                "URL": "http://api.formagg.io/maker/51577a265f25280200000019",
+                "DESCRIPTIO": "<b>Achadinha Cheese Company</b><br><a href=\"http://api.formagg.io/maker/51577a265f25280200000019\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6938,7 +6938,7 @@
                 "Name": "Abbey of Our Lady of Good Hope",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df090da57f20000000140",
+                "DESCRIPTIO": "<b>Abbey of Our Lady of Good Hope</b><br><a href=\"http://api.formagg.io/maker/510df090da57f20000000140\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6956,7 +6956,7 @@
                 "Name": "Abbey of Notre-Dame de Scourmont",
                 "Country": "Belgium",
                 "State": "Chimay",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000a3",
+                "DESCRIPTIO": "<b>Abbey of Notre-Dame de Scourmont</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000a3\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/780f7297325850622e528c9f6bfb3a92"
             },
             "geometry": {
@@ -6974,7 +6974,7 @@
                 "Name": "Abbaye de Belval (Losfeld)",
                 "Country": "France",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/51c211692256850200000008",
+                "DESCRIPTIO": "<b>Abbaye de Belval (Losfeld)</b><br><a href=\"http://api.formagg.io/maker/51c211692256850200000008\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -6992,7 +6992,7 @@
                 "Name": "Abbaye d'Orval",
                 "Country": "Belgium",
                 "State": "",
-                "URL": "http://api.formagg.io/maker/510df08fda57f2000000000e",
+                "DESCRIPTIO": "<b>Abbaye d'Orval</b><br><a href=\"http://api.formagg.io/maker/510df08fda57f2000000000e\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/0cce30b2344bda5189c5eb54ea0b890d"
             },
             "geometry": {
@@ -7010,7 +7010,7 @@
                 "Name": "Abbaye St-Benoit",
                 "Country": "Canada",
                 "State": "Quebec",
-                "URL": "http://api.formagg.io/maker/5134b0b9a2710b0200000019",
+                "DESCRIPTIO": "<b>Abbaye St-Benoit</b><br><a href=\"http://api.formagg.io/maker/5134b0b9a2710b0200000019\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/436dba0d1601f246e0ab5a84d756d545"
             },
             "geometry": {
@@ -7028,7 +7028,7 @@
                 "Name": "Abbaye Notre Dame de Timadeuc",
                 "Country": "France",
                 "State": "Brittany",
-                "URL": "http://api.formagg.io/maker/510df090da57f200000000d2",
+                "DESCRIPTIO": "<b>Abbaye Notre Dame de Timadeuc</b><br><a href=\"http://api.formagg.io/maker/510df090da57f200000000d2\">more</a>",
                 "Image": ""
             },
             "geometry": {
@@ -7046,7 +7046,7 @@
                 "Name": "3 Corner Field Farm",
                 "Country": "United States",
                 "State": "New York",
-                "URL": "http://api.formagg.io/maker/510df090da57f2000000008d",
+                "DESCRIPTIO": "<b>3 Corner Field Farm</b><br><a href=\"http://api.formagg.io/maker/510df090da57f2000000008d\">more</a>",
                 "Image": "http://s3.amazonaws.com/nodeloader/100x100/e3f9fc91f2c143989eda37f32c495f76"
             },
             "geometry": {
@@ -7064,7 +7064,7 @@
                 "Name": "NA",
                 "Country": "En",
                 "State": "Somerset",
-                "URL": "http://api.formagg.io/maker/511eb7d90757ad0200000007",
+                "DESCRIPTIO": "<b>NA</b><br><a href=\"http://api.formagg.io/maker/511eb7d90757ad0200000007\">more</a>",
                 "Image": ""
             },
             "geometry": {

@@ -14,7 +14,7 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
   	    	"Name": maker.name || 'NA', 
   	    	"Country": maker.country || '',
   	    	"State": maker.state || '',
-  	    	"URL": 'http://api.formagg.io/maker/' + maker._id,
+  	    	"DESCRIPTIO": '<b>' + (maker.name || 'NA') + '</b><br><a href="http://api.formagg.io/maker/' + maker._id + '">more</a>',
   	    	"Image": maker.logourl || ''
   	    }, 
   	    "geometry": { 
