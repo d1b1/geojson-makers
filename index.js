@@ -6,7 +6,7 @@ var makers = [];
 request.get({ url: 'http://api.formagg.io/maker/search?name=b&size=10', json: true }, function(err, data) {
 
   _.each(data.body.results, function(maker) {
-  	if (maker.location) {
+  	if (maker.location.lat && maker.location.lng) {
   	  var d = { 
   	  	"type": "Feature", 
   	    "id": maker._id.toString(), 
