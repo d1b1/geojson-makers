@@ -3,7 +3,7 @@ var _ = require('underscore')
 var fs = require('fs')
 
 var makers = [];
-request.get({ url: 'http://api.formagg.io/maker/search?name=b&size=500', json: true }, function(err, data) {
+request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true }, function(err, data) {
 
   _.each(data.body.results, function(maker) {
   	if (maker.location.lat && maker.location.lng) {
@@ -13,7 +13,9 @@ request.get({ url: 'http://api.formagg.io/maker/search?name=b&size=500', json: t
   	    "properties": { 
   	    	"Name": maker.name || 'NA', 
   	    	"Country": maker.country || '',
-  	    	"State": maker.state | '' 
+  	    	"State": maker.state || '',
+  	    	"URL": 'http://api.formagg.io/maker/' + maker._id,
+  	    	"Image": maker.logourl || ''
   	    }, 
   	    "geometry": { 
   	    	"type": "Point", 
