@@ -19,7 +19,7 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
   	    	"stroke-width": 1,
   	    	"Maker": maker.name || 'NA',
   	    	"Where": (maker.country || '') + ' ' + (maker.state || ''),
-  	    	"Info": img + '<br><a href="http://api.formagg.io/maker/' + maker._id + '" target="_blank">More</a>',
+  	    	"popupContent": img + '<br><a href="http://api.formagg.io/maker/' + maker._id + '" target="_blank">More</a>',
   	    }, 
   	    "geometry": { 
   	    	"type": "Point", 
