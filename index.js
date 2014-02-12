@@ -8,9 +8,8 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
   _.each(data.body.results, function(maker) {
   	if (maker.location.lat && maker.location.lng) {
 
-  	  var img = img ? '<img src="' + maker.logourl || '' + '">' : ''
+  	  var img = maker.logourl ? '<img src="' + maker.logourl || '' + '">' : ''
 
-      console.log('ddd', img)
   	  var d = { 
   	  	"type": "Feature", 
   	    "id": maker._id.toString(), 
@@ -20,7 +19,7 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=1000', json: true },
   	    	"stroke-width": 1,
   	    	"Maker": maker.name || 'NA',
   	    	"Where": (maker.country || '') + ' ' + (maker.state || ''),
-  	    	"Info": img + '<br><b>' + (maker.name || 'NA') + '</b><br><a href="http://api.formagg.io/maker/' + maker._id + '" target="_blank">more</a>',
+  	    	"Info": img + '<br><a href="http://api.formagg.io/maker/' + maker._id + '" target="_blank">More</a>',
   	    }, 
   	    "geometry": { 
   	    	"type": "Point", 
