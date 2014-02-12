@@ -3,12 +3,12 @@ var _ = require('underscore')
 var fs = require('fs')
 
 var makers = [];
-request.get({ url: 'http://api.formagg.io/maker/search?size=2000', json: true }, function(err, data) {
+request.get({ url: 'http://api.formagg.io/maker/search?size=2000&country=Ireland', json: true }, function(err, data) {
 
   _.each(data.body.results, function(maker) {
   	if (maker.location.lat && maker.location.lng) {
 
-  	  var img = maker.logourl ? '<img src="' + (maker.logourl || '') + '" style="border:1px solid #000"><br>' : ''
+  	  var img = maker.logourl ? '<img src="' + (maker.logourl || '') + '"><br>' : ''
 
   	  var d = { 
   	  	"type": "Feature", 
@@ -19,7 +19,7 @@ request.get({ url: 'http://api.formagg.io/maker/search?size=2000', json: true },
   	    	"stroke-width": 1,
   	    	"Maker": maker.name || 'NA',
   	    	"Where": (maker.country || '') + ' ' + (maker.state || ''),
-  	    	"Summary": img + '<br><a href="http://api.formagg.io/maker/' + maker._id + '" target="_blank">More</a>',
+  	    	"Summary": img + '<a href="http://api.formagg.io/maker/' + maker._id + '">More</a>',
   	    }, 
   	    "geometry": { 
   	    	"type": "Point", 
