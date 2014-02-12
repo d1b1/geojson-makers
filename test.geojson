@@ -1,1 +1,1525 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","id":"515c222c7158ec0200000001","properties":{"Name":"Yellow Branch Farmstead Cheese","Country":"United States","State":0},"geometry":{"type":"Point","coordinates":[-83.718988,35.42443799999999]}},{"type":"Feature","id":"510df08fda57f2000000007a","properties":{"Name":"White Lake Cheeses of Glastonbury","Country":"England","State":0},"geometry":{"type":"Point","coordinates":[-2.9499066,51.0587013]}},{"type":"Feature","id":"510df090da57f200000000f0","properties":{"Name":"Whalesborough Cheese","Country":"England","State":0},"geometry":{"type":"Point","coordinates":[-4.5368605,50.80441339999999]}},{"type":"Feature","id":"510df23b7160b2000000000f","properties":{"Name":"Westcombe Dairy","Country":"England","State":0},"geometry":{"type":"Point","coordinates":[-2.5051297,51.1481234]}},{"type":"Feature","id":"5179e5ae6e61840200000040","properties":{"Name":"Tuxford & Tebbett","Country":"England","State":0},"geometry":{"type":"Point","coordinates":[-1.1743197,52.3555177]}},{"type":"Feature","id":"5233950990e28f0200000001","properties":{"Name":"Toons Bridge Dairy","Country":"Ireland","State":0},"geometry":{"type":"Point","coordinates":[-8.9928052,51.9049784]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "515c222c7158ec0200000001",
+            "properties": {
+                "Name": "Yellow Branch Farmstead Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.718988,
+                    35.42443799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000007a",
+            "properties": {
+                "Name": "White Lake Cheeses of Glastonbury",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9499066,
+                    51.0587013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000f0",
+            "properties": {
+                "Name": "Whalesborough Cheese",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5368605,
+                    50.80441339999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000000f",
+            "properties": {
+                "Name": "Westcombe Dairy",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5051297,
+                    51.1481234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5179e5ae6e61840200000040",
+            "properties": {
+                "Name": "Tuxford & Tebbett",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5233950990e28f0200000001",
+            "properties": {
+                "Name": "Toons Bridge Dairy",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9928052,
+                    51.9049784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5174a09586bc46020000003c",
+            "properties": {
+                "Name": "Thornby Moor Dairy",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.087264,
+                    54.8404891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000007d",
+            "properties": {
+                "Name": "The Shebbear Cheese Company",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.999461,
+                    50.77721349999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51713cf83efb4c020000000a",
+            "properties": {
+                "Name": "The Grey Barn and Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.67941499999999,
+                    41.37418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000001",
+            "properties": {
+                "Name": "The Bath Soft Cheese Company",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4345452,
+                    51.401781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000013",
+            "properties": {
+                "Name": "Taylor Brothers Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2627439,
+                    43.5490843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000003e",
+            "properties": {
+                "Name": "Siobhan Ni Ghairbith",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.176764499999999,
+                    52.8769834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000df",
+            "properties": {
+                "Name": "Shy Brothers Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.09395169999999,
+                    41.55329390000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000113",
+            "properties": {
+                "Name": "Shelburne Farms",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.24712099999999,
+                    44.395466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517a7a7e943f31020000001e",
+            "properties": {
+                "Name": "September Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.931685,
+                    40.093773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000b5",
+            "properties": {
+                "Name": "Robinson Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1893013,
+                    42.3654438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed3f6d7d9349020000002c",
+            "properties": {
+                "Name": "Robie Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1108868,
+                    43.9780783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ea",
+            "properties": {
+                "Name": "Richard Rowlett and Billy Kevan",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5178a47630c1b2020000002b",
+            "properties": {
+                "Name": "Rainbeau Ridge",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.669369,
+                    41.232571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d5",
+            "properties": {
+                "Name": "Patrick Beaumont",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3448536,
+                    45.7032695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000001f",
+            "properties": {
+                "Name": "Orb Weaver Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.175819,
+                    44.1764719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000006c",
+            "properties": {
+                "Name": "Obere Mühle Co-operative Dairy",
+                "Country": "Germay",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.684014,
+                    47.82479900000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000076",
+            "properties": {
+                "Name": "Noble Springs Dairy",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.93254700000001,
+                    35.904186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000003d",
+            "properties": {
+                "Name": "Maplebrook Fine Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.19680009999999,
+                    42.878094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c210352256850200000004",
+            "properties": {
+                "Name": "La ferme des Bahardes (Losfeld)",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8980354,
+                    50.058707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000000c",
+            "properties": {
+                "Name": "Käsküche Isny GmbH",
+                "Country": "Germany",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0406743,
+                    47.68268579999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000042",
+            "properties": {
+                "Name": "James and David Bartlett",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1743197,
+                    52.3555177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51dd690f54ad600200000016",
+            "properties": {
+                "Name": "Jacobs Creamery",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8935122,
+                    46.63765799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c886e47581010200000028",
+            "properties": {
+                "Name": "Jacobs & Brichford Farmstead Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1386246,
+                    39.67174869999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175bc738eace50200000052",
+            "properties": {
+                "Name": "Hillsborough Cheese Company",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.09884129999999,
+                    36.0399462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d3",
+            "properties": {
+                "Name": "Gubben Farmhouse Products",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5479801,
+                    51.526867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000159",
+            "properties": {
+                "Name": "Green Mountain Blue Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0191889,
+                    44.9650087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175b8428eace50200000041",
+            "properties": {
+                "Name": "Goatsbeard Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.44957289999999,
+                    39.0972209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5230c0833ea41f0200000035",
+            "properties": {
+                "Name": "Glebe Brethan",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3944559,
+                    53.8310533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5230bfc93ea41f0200000033",
+            "properties": {
+                "Name": "Gleann Gabhra",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5799817,
+                    53.5678607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c210892256850200000005",
+            "properties": {
+                "Name": "GAEC du Château Courbet",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8701611,
+                    50.088441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51abeba6259bd20200000010",
+            "properties": {
+                "Name": "Fromagerie De Banon",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.795353,
+                    43.793216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5138a2627c2e2e0200000001",
+            "properties": {
+                "Name": "Fromagerie Blackburn",
+                "Country": "Canada",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.28569399999999,
+                    48.3911391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000b6",
+            "properties": {
+                "Name": "Fromagerie Berthaut",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1745067,
+                    47.5071568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000075",
+            "properties": {
+                "Name": "Foxboro Cheese Co",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.261735,
+                    42.085668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000eb",
+            "properties": {
+                "Name": "Elizabeth Harris",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3465431,
+                    51.80882810000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ab",
+            "properties": {
+                "Name": "Crystal Brook Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.774518,
+                    42.463486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000073",
+            "properties": {
+                "Name": "Cropwell Bishop Creamery Limited",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9875828999999999,
+                    52.9126367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000ce",
+            "properties": {
+                "Name": "Crave Brothers Farmstead Classics",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.96604699999999,
+                    43.23373100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000094",
+            "properties": {
+                "Name": "Consider Bardwell Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.243912,
+                    43.333107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517ae427dbcec60200000007",
+            "properties": {
+                "Name": "Conebella Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.84161499999999,
+                    40.1291794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000038",
+            "properties": {
+                "Name": "Colston Bassett Dairy Ltd.",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9517504000000001,
+                    52.8885845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51616ce854ec4ee219000001",
+            "properties": {
+                "Name": "Cobb Hill Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.42591000000002,
+                    43.548654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51d96212f566160200000003",
+            "properties": {
+                "Name": "Caves of Faribault",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.26442,
+                    44.294279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000095",
+            "properties": {
+                "Name": "Cashel Blue",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6927334,
+                    52.4659436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000092",
+            "properties": {
+                "Name": "Caseificio La Bottera",
+                "Country": "Italy",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6979164,
+                    44.4223241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "515363cfdf83e20200000011",
+            "properties": {
+                "Name": "Bulger Creek Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6724538,
+                    32.5606908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000e7",
+            "properties": {
+                "Name": "Brue Valley Farms",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6429829,
+                    51.1107597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51ed325c7d9349020000000b",
+            "properties": {
+                "Name": "Brookford Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6087446,
+                    43.3250003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000c9",
+            "properties": {
+                "Name": "Bravo Farms",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.683408,
+                    36.6287049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "523c1939c9f9ba0200000001",
+            "properties": {
+                "Name": "Boyne Valley Blue Farmhouse Goats Cheese",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.543651199999999,
+                    53.7086474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000020",
+            "properties": {
+                "Name": "Boston Post Dairy LLC",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.763044,
+                    44.9212765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517af584dbcec60200000056",
+            "properties": {
+                "Name": "Boone Creek Creamery",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4432838,
+                    38.0162616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5159c75b77f7180200000001",
+            "properties": {
+                "Name": "Bonnyclabber Cheese Co.",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.40987179999999,
+                    37.5740865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5159d3c58e58c20200000008",
+            "properties": {
+                "Name": "Bonny Blue Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7622468,
+                    35.3195217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b2000000001c",
+            "properties": {
+                "Name": "Bonnieview Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.3178811,
+                    44.6664462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000cf",
+            "properties": {
+                "Name": "Bonnie Blue Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7622468,
+                    35.3195217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513beba8cb7f290200000002",
+            "properties": {
+                "Name": "Bohemian Creamery",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82,
+                    38.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000005b",
+            "properties": {
+                "Name": "Boggy Meadow Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4258229,
+                    43.0794944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5157718d89f1390200000009",
+            "properties": {
+                "Name": "Bodega Artisan Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9738878,
+                    38.345194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df23b7160b20000000046",
+            "properties": {
+                "Name": "Blythedale Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.29190799999999,
+                    44.023376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51dd93f654ad60020000001f",
+            "properties": {
+                "Name": "Blue Sage Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.4940791,
+                    43.0108594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000001f",
+            "properties": {
+                "Name": "Blue Mountain Affinage Company",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3430209,
+                    46.0645809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d7",
+            "properties": {
+                "Name": "Blue Ledge Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.154274,
+                    43.876694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517685a2943fbd020000000e",
+            "properties": {
+                "Name": "Blue Jacket Dairy",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.78877460000001,
+                    40.3483347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000f6",
+            "properties": {
+                "Name": "Blue Heron Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9213146,
+                    30.0897511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000099",
+            "properties": {
+                "Name": "Bleu Mont Dairy",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.803316,
+                    43.044268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51576e2e89f1390200000005",
+            "properties": {
+                "Name": "Bleating Heart",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8238806,
+                    38.4021359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5187bcce218c210200000001",
+            "properties": {
+                "Name": "Black Sheep Creamery",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0597666,
+                    46.6278946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000112",
+            "properties": {
+                "Name": "Bittersweet Plantation Dairy",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.14502449999999,
+                    31.2448234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "517ae26edbcec60200000001",
+            "properties": {
+                "Name": "Birchrun Hills Farm",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66490499999999,
+                    40.119782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "513392d9ddb4440200000036",
+            "properties": {
+                "Name": "Best Baa Dairy",
+                "Country": "Canada",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.38070929999999,
+                    43.7195307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5139ff5e5b78c10200000001",
+            "properties": {
+                "Name": "Berrocales Trujillanos",
+                "Country": "Spain",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.877864000000001,
+                    39.457085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000087",
+            "properties": {
+                "Name": "Berkshire Cheese Company",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.344287,
+                    42.2120463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000004",
+            "properties": {
+                "Name": "Bergader Privatkäserei GmbH",
+                "Country": "Germany",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73227,
+                    47.9347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000104",
+            "properties": {
+                "Name": "Bellwether Farms",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.708887,
+                    38.402254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f2000000011f",
+            "properties": {
+                "Name": "Beehive Cheese Company, LLC",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9134375,
+                    41.1390477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000141",
+            "properties": {
+                "Name": "Beecher's Handmade Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.341842,
+                    47.6096081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "52236a1fd649f90200000014",
+            "properties": {
+                "Name": "Beal Organic Irish Cheese",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4853655,
+                    52.4460488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5157758a5f2528020000000b",
+            "properties": {
+                "Name": "Barinaga Ranch Farmstead Sheep Milk Cheese",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8648538,
+                    38.1745272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "52236293d649f90200000002",
+            "properties": {
+                "Name": "Barba Goat Farm Ltd.",
+                "Country": "Ireland",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1735942,
+                    53.5973046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5175b6e38eace5020000003c",
+            "properties": {
+                "Name": "Baetje Farms",
+                "Country": "United States",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.32341219999999,
+                    38.008997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51338fbdddb4440200000031",
+            "properties": {
+                "Name": "Back Forty Artisan Cheese",
+                "Country": "Canada",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4837269,
+                    45.06144889999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f20000000044",
+            "properties": {
+                "Name": "Appleby's of Hawkstone",
+                "Country": "England",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6312995,
+                    52.89141559999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f20000000140",
+            "properties": {
+                "Name": "Abbey of Our Lady of Good Hope",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7572205,
+                    45.14694859999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000a3",
+            "properties": {
+                "Name": "Abbey of Notre-Dame de Scourmont",
+                "Country": "Belgium",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.381772,
+                    50.03563399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "51c211692256850200000008",
+            "properties": {
+                "Name": "Abbaye de Belval (Losfeld)",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3382136,
+                    50.416222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df08fda57f2000000000e",
+            "properties": {
+                "Name": "Abbaye d'Orval",
+                "Country": "Belgium",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34828,
+                    49.6388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "5134b0b9a2710b0200000019",
+            "properties": {
+                "Name": "Abbaye St-Benoit",
+                "Country": "Canada",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.181308,
+                    45.1845445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "510df090da57f200000000d2",
+            "properties": {
+                "Name": "Abbaye Notre Dame de Timadeuc",
+                "Country": "France",
+                "State": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9326435,
+                    48.2020471
+                ]
+            }
+        }
+    ]
+}

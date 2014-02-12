@@ -3,7 +3,7 @@ var _ = require('underscore')
 var fs = require('fs')
 
 var makers = [];
-request.get({ url: 'http://api.formagg.io/maker/search?name=b&size=10', json: true }, function(err, data) {
+request.get({ url: 'http://api.formagg.io/maker/search?name=b&size=500', json: true }, function(err, data) {
 
   _.each(data.body.results, function(maker) {
   	if (maker.location.lat && maker.location.lng) {
@@ -27,7 +27,7 @@ request.get({ url: 'http://api.formagg.io/maker/search?name=b&size=10', json: tr
 
   var geojson = { "type": "FeatureCollection", "features": makers }
 
-      fs.writeFile("./test.geojson", JSON.stringify(geojson), function(err) {
+      fs.writeFile("./test.geojson", JSON.stringify(geojson, null, 4), function(err) {
 	    if(err) {
 	        console.log(err);
 	    } else {
